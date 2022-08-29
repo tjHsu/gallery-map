@@ -18,7 +18,7 @@ const Table: React.FC = () => {
         </thead>
         <tbody>
           {GALLERIES.map((gallery: TableItem) =>
-            <TableItem name={gallery.name} website={gallery.website} />
+            <TableItem key={gallery.name} name={gallery.name} website={gallery.website} />
           )}
         </tbody>
       </table>
