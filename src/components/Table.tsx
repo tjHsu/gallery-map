@@ -4,6 +4,7 @@ import { GALLERIES } from '../constants/Constants'
 type TableItem = {
   name: string
   website: string
+  isSeparator: boolean
 };
 
 const Table: React.FC = () => {
@@ -12,7 +13,7 @@ const Table: React.FC = () => {
       <table className="table table-compact w-full">
         <tbody>
           {GALLERIES.map((gallery: TableItem) =>
-            <TableItem key={gallery.name} name={gallery.name} website={gallery.website} />
+            <TableItem key={gallery.name} name={gallery.name} website={gallery.website} isSeparator={gallery.isSeparator} />
           )}
         </tbody>
       </table>
@@ -22,14 +23,23 @@ const Table: React.FC = () => {
 
 const TableItem = ({
   name,
-  website
+  website,
+  isSeparator
 }: TableItem) => {
-  return (
-    <tr>
-      <td className='text-base'>{name}</td>
-      <td className='text-right text-base'><a href={website} target="_blank" rel="noreferrer">&#187;</a></td>
-    </tr>
-  );
+  if (isSeparator) {
+    return (
+      <tr className='h-16'>
+        <td className='text-base'>{name}</td>
+      </tr>
+    )
+  } else {
+    return (
+      <tr>
+        <td className='text-base'>{name}</td>
+        <td className='text-right text-base'><a href={website} target="_blank" rel="noreferrer">&#187;</a></td>
+      </tr>
+    );
+  }
 };
 
 export default Table
