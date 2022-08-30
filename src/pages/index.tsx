@@ -1,5 +1,5 @@
-import type { NextPage } from "next";
-import Table from "../components/Table";
+import type { NextPage } from "next"
+import Link from 'next/link'
 
 const LandingPage: NextPage = () => {
   return (
@@ -8,10 +8,10 @@ const LandingPage: NextPage = () => {
         <table className="table table-compact w-full">
           <tbody>
             <tr>
-              <td><a href='/galleries'>Galleries A - Z</a></td>
+              <td><Link href='/galleries'><a>Galleries A - Z</a></Link></td>
             </tr>
             <tr>
-              <td><a href='/about'>About taipei gallery map</a></td>
+              <td><Link href='/about'><a href='/about'>About taipei gallery map</a></Link></td>
             </tr>
             <tr>
               <td></td>
