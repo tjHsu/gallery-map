@@ -11,7 +11,7 @@ const LandingPage: NextPage = () => {
               <td><Link href='/galleries'><a>Galleries A - Z</a></Link></td>
             </tr>
             <tr>
-              <td><Link href='/about'><a href='/about'>About taipei gallery map</a></Link></td>
+              <td><Link href='/about'><a>About taipei gallery map</a></Link></td>
             </tr>
             <tr>
               <td></td>

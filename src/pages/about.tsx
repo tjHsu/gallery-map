@@ -1,5 +1,4 @@
 import type { NextPage } from "next";
-import Table from "../components/Table";
 
 const About: NextPage = () => {
   return (
