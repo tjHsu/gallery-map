@@ -3,7 +3,7 @@ import Table from "../components/Table";
 
 const Galleries: NextPage = () => {
   return (
-    <div>
+    <div className="ml-5">
         <Table/>
     </div>
   )
