@@ -1,18 +1,31 @@
-import type { NextPage, GetServerSideProps } from "next";
+import type { GetServerSideProps } from "next";
 import { GALLERIES } from '../../constants/Constants'
 import React from 'react';
+
+type Exhibition = {
+  artist: string
+  showName: string
+  date: string
+  openingDate: string
+}
+
+type Location = {
+  locationName: string
+  address: string
+  openingHours: string
+}
 
 type GalleryDetail = {
   name: string
   website: string
   isSeparator: boolean
+  exhibitions: Exhibition[]
+  locations: Location[]
 };
 
 export const getServerSideProps: GetServerSideProps = async ({ params }) => {
   const galleryIndex = GALLERIES.findIndex(gallery => gallery.name === params?.name)
   const gallery = GALLERIES[galleryIndex]
-  // console.log('DEBUGG')
-  // console.log(GALLERIES[galleryIndex])
   return {
     props: { ...gallery }
   };
@@ -21,6 +34,8 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
 const Gallery: React.FC<GalleryDetail> = (props) => {
   console.log('DEBUGG here')
   console.log(props)
+  const exhibitions = props.exhibitions
+  const locations = props.locations
   return (
     <div className="ml-5">
       <div className="overflow-x-auto">
@@ -29,26 +44,17 @@ const Gallery: React.FC<GalleryDetail> = (props) => {
           <tbody>
             <tr>
               <td className='text-base'>Exhibitions</td>
+              <td className='text-base'>{exhibitions.length!! ? '':'N/A' }</td>
             </tr>
+            {exhibitions?.map((exhibition: Exhibition) =>
+              <ExhibitionItem key={exhibition.showName} artist={exhibition.artist} showName={exhibition.showName} date={exhibition.date} openingDate={exhibition.openingDate} />
+            )}
             <tr>
-              <td>Juan Zamora <br /> The Broken Seas</td>
-              <td className="break-word whitespace-normal">2022.09.13-2022.10.29 <br /> Opening 2022.09.17 (Sat.) 15:00</td>
+              <td className='text-base'>{locations.length > 1 ? 'Locations': 'Location'}</td>
             </tr>
-            <tr>
-              <td>Su Hui-Yu <br /> 1972, Toffler</td>
-              <td className="break-word whitespace-normal">2022.09.13-2022.10.29 <br /> Opening 2022.09.17 (Sat.) 15:00</td>
-            </tr>
-            <tr>
-              <td className='text-base'>Info</td>
-            </tr>
-            <tr>
-              <td>address</td>
-              <td className="break-word whitespace-normal">No.28, Lane 770, Beian Road, Zhongshan District, Taipei 104, Taiwan</td>
-            </tr>
-            <tr>
-              <td>opening hours</td>
-              <td>tue-sat 11:00-18:00</td>
-            </tr>
+            {locations?.map((location: Location) =>
+              <LocationItem key={location.locationName} locationName={location.locationName} address={location.address} openingHours={location.openingHours} />
+            )}
             <tr>
               <td>website</td>
               <td>
@@ -67,5 +73,32 @@ const Gallery: React.FC<GalleryDetail> = (props) => {
     </div>
   )
 }
+
+const ExhibitionItem = ({
+  showName,
+  artist,
+  date,
+  openingDate
+}: Exhibition) => {
+  return (
+    <tr>
+      <td>{artist} <br /> {showName}</td>
+      <td className="break-word whitespace-normal">{date} <br /> Opening {openingDate}</td>
+    </tr>
+  )
+};
+
+const LocationItem = ({
+  locationName,
+  address,
+  openingHours
+}: Location) => {
+  return (
+      <tr>
+        <td className="break-word whitespace-normal">{locationName}</td>
+        <td className="break-word whitespace-normal">{address} <br/> {openingHours}</td>
+      </tr>
+  )
+};
 
 export default Gallery
