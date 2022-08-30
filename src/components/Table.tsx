@@ -8,7 +8,7 @@ type TableItem = {
 
 const Table: React.FC = () => {
   return (
-    <div className="overflow-x-auto">
+    <div className="overflow-x-auto mb-5">
       <table className="table table-compact w-full">
         <thead>
           <tr>
