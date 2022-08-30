@@ -56,7 +56,7 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
   },
   {
-    name: "nca | nichido contemporary art 日動畫廊當代館",
+    name: "nca | nichido contemporary art 日動畫廊",
     website: "https://www.nca-g.com/en/"
   },
   {
