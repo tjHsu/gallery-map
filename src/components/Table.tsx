@@ -1,5 +1,6 @@
 import React from 'react'
 import { GALLERIES } from '../constants/Constants'
+import Link from 'next/link'
 
 type TableItem = {
   name: string
@@ -35,7 +36,7 @@ const TableItem = ({
   } else {
     return (
       <tr>
-        <td className='text-base'>{name}</td>
+        <td className='text-base'><Link href={`/galleries/${name}`}>{name}</Link></td>
         <td className='text-right text-base'><a href={website} target="_blank" rel="noreferrer">&#187;</a></td>
       </tr>
     );
