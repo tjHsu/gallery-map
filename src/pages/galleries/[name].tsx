@@ -94,7 +94,7 @@ const LocationItem = ({
 }: Location) => {
   return (
       <tr>
-        <td className="break-word whitespace-normal">{locationName}</td>
+        <td className="break-word whitespace-normal align-top">{locationName}</td>
         <td className="break-word whitespace-normal">{address} <br/> {openingHours}</td>
       </tr>
   )

@@ -15,7 +15,7 @@ const About: NextPage = () => {
               <td className="break-word whitespace-normal text-base">Your ultimate pocket guide to art galleries in Taipei.</td>
             </tr>
             <tr>
-              <td className="text-base">Social networks</td>
+              <td className="text-base align-top">Social networks</td>
               <td className="text-base">
                 <a href='https://twitter.com/tpegallerymap' target="_blank" rel="noreferrer">Twitter</a><br />
                 <a href='https://www.instagram.com/taipeigallerymap/' target="_blank" rel="noreferrer">Instagram</a>

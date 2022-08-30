@@ -8,10 +8,10 @@ const LandingPage: NextPage = () => {
         <table className="table table-compact w-full">
           <tbody>
             <tr>
-              <td><Link href='/galleries'><a>Galleries A - Z</a></Link></td>
+              <td className="text-base"><Link href='/galleries'><a>Galleries A - Z</a></Link></td>
             </tr>
             <tr>
-              <td><Link href='/about'><a>About taipei gallery map</a></Link></td>
+              <td className="text-base"><Link href='/about'><a>About taipei gallery map</a></Link></td>
             </tr>
             <tr>
               <td></td>

@@ -37,7 +37,6 @@ const TableItem = ({
     return (
       <tr>
         <td className='text-base'><Link href={`/galleries/${name}`}>{name}</Link></td>
-        <td className='text-right text-base'><a href={website} target="_blank" rel="noreferrer">&#187;</a></td>
       </tr>
     );
   }
