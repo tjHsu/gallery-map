@@ -25,7 +25,7 @@ type GalleryDetail = {
   locations: Location[]
 };
 
-const Gallery: React.FC<GalleryDetail> = (props) => {
+const Gallery: React.FC<GalleryDetail> = () => {
   const router = useRouter()
   const { name } = router.query
   const galleryIndex = GALLERIES.findIndex(gallery => gallery.name === name)
