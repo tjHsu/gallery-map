@@ -30,8 +30,6 @@ const Gallery: React.FC<GalleryDetail> = () => {
   const { name } = router.query
   const galleryIndex = GALLERIES.findIndex(gallery => gallery.name === name)
   const gallery = GALLERIES[galleryIndex]
-  console.log('DEBUGG here')
-  console.log(gallery)
   if (!gallery) {
     return (
       <ErrorPage statusCode={404} />
@@ -92,7 +90,7 @@ const ExhibitionItem = ({
 }: Exhibition) => {
   return (
     <tr>
-      <td>{artist} <br /> {showName}</td>
+      <td className="break-word whitespace-normal">{artist} <br /> {showName}</td>
       <td className="break-word whitespace-normal">{date} <br /> Opening {openingDate}</td>
     </tr>
   )

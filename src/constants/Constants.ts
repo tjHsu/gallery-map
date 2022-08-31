@@ -33,10 +33,36 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "A Gallery 當代一畫廊",
+    website: "http://agallery.blogspot.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Li Fei Wen",
+      showName:"Mist Meditation",
+      date:"2022.08.12 - 2022.09.24",
+      openingDate:"2022.08.12 fri 16:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 32, Lane 22, Guangfu S Rd, Songshan DistrictTaipei City, Taiwan 105",
+      openingHours: "mon-fri 10:00--18:00 sat 13:00-18:00"
+    }]
+  },
+  {
     name: "ASIA ART CENTER 亞洲藝術中心",
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"Gao Xingjian",
+      showName:"Where spirit dwells on",
+      date:"2022.08.13 - 2022.10.09",
+      openingDate:""
+    }, {
+      artist:"Howard Fonda",
+      showName:"Singing the Body Electric",
+      date:"2022.08.13 - 2022.10.09",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "1F, No. 128, Lequn 3rd Rd., Taipei City 104050, Taiwan",
@@ -58,7 +84,17 @@ export const GALLERIES = [
     name: "Bluerider ART Gallery 藍騎士藝術空間",
     website: "https://blueriderart.com/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"Desire Obtain Cherish/ Nick Veasey/ Pascal Dombis/ Jan Kalab/ Christiane Grimm/ Jonathan Rosen",
+      showName:"When the Wind Blows",
+      date:"2022.08.26 - 2022.09.25",
+      openingDate:"2022.08.26 fri 18:00"
+    }, {
+      artist:"Ruprecht von Kaufmann",
+      showName:"Monologue",
+      date:"2022.07.09 - 2022.09.25",
+      openingDate:"2022.07.09 sat 14:00"
+    }],
     locations: [{
       locationName: "Bluerider ART DunRen Gallery",
       address: "1F., No. 10, Ln. 101, Sec. 1, Da'an Rd., Da’an Dist., Taipei City 106 , Taiwan ",
@@ -71,6 +107,10 @@ export const GALLERIES = [
       locationName: "X by Bluerider",
       address: "10F., No. 25-1, Sec. 4, Ren'ai Rd., Da’an Dist., Taipei City 106 , Taiwan",
       openingHours: "tue-sat 09:00-18:00"
+    }, {
+      locationName: "Breeze X Bluerider ART",
+      address: "Breeze Xin Yi",
+      openingHours: "mon-sun 11:00-21:30"
     }]
   },
   {
@@ -85,10 +125,31 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "Chens Art Gallery 陳氏藝術",
+    website: "https://www.chensart.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Giancarlo Tognoni",
+      showName:"1932",
+      date:"2022.10.01 - 2022.12.10",
+      openingDate:"2022.10.01 sat 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.100, Bade Rd., Sec 2, ZhongShan Dist. Taipei City 11011, Taiwan",
+      openingHours: "tue-sat 11:00-19:00"
+    }]
+  },
+  {
     name: "CHINI GALLERY 采泥藝術",
     website: "https://www.chinigallery.com/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"Nick DONG / CHANG Yung-Ta",
+      showName:"Re-sensing the Cosmos",
+      date:"2022.08.20 - 2022.10.02",
+      openingDate:"2022.08.20 sat 14:30 / 2022.09.24 sat 15:00"
+    }],
     locations: [{
       locationName: "",
       address: "1F, No.48,Ln.128, Jingye 1st Rd., Zhongshan Dist., Taipei City",
@@ -121,7 +182,12 @@ export const GALLERIES = [
     name: "Double Square Gallery 双方藝廊",
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "No.28, Lane 770, Beian Road, Zhongshan District, Taipei 104, Taiwan",
@@ -143,7 +209,12 @@ export const GALLERIES = [
     name: "Each Modern 亞紀畫廊",
     website: "https://eachmodern.com/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "38 Lane 79 Sec. 2 Xinyi Rd. Taipei 100 Taiwan",
@@ -165,7 +236,12 @@ export const GALLERIES = [
     name: "ESLITE GALLERY 誠品畫廊",
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"LIU Shih-Fen",
+      showName:"Müllerian's Garden",
+      date:"2022.09.03-2022.09.24 ",
+      openingDate:"Opening 2022.09.03 sat 15:00"
+    }],
     locations: [{
       locationName: "",
       address: "B1, No. 88, Yanchang Rd., Xinyi Dist., Taipei City 110055, Taiwan",
@@ -187,7 +263,12 @@ export const GALLERIES = [
     name: "isart Gallery 御書房藝廊",
     website: "https://www.isart.tw/en",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "isart Gallery",
       address: "No. 6, Fujin Street, Songshan District, Taipei City 105 , Taiwan",
@@ -213,7 +294,12 @@ export const GALLERIES = [
     name: "Liang Gallery 尊彩藝術中心",
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "No.366, Ruiguang Rd., Neihu District, Taipei, Taiwan",
@@ -224,7 +310,12 @@ export const GALLERIES = [
     name: "Lin & Lin Gallery 大未來林舍畫廊",
     website: "http://www.linlingallery.com/eng/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "1F, No.16, Dongfeng St., Taipei, Taiwan",
@@ -246,7 +337,12 @@ export const GALLERIES = [
     name: "Michael Ku Gallery 谷公館",
     website: "https://michaelkugallery.com/en/home/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "10557 4F-2, NO. 21, SEC.1, DUNHUA SOUTH ROAD, TAIPEI",
@@ -294,12 +390,39 @@ export const GALLERIES = [
       artist:"Kees Goudzwaard",
       showName:"In Progress",
       date:"2022.09.11 - TBD",
-      openingDate:"2022.09.11 (Sun.) 17:00"
+      openingDate:"2022.09.11 sun 17:00"
     }],
     locations: [{
       locationName: "",
       address: "No.5, Lane 67, Section 1, Jinshan S. Rd. Zongzeng District, Taipei City, 10056 Taiwan",
       openingHours: "wed-sun 12:00-19:00"
+    }]
+  },
+  {
+    name: "O",
+    website: "",
+    isSeparator: true,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "",
+      openingHours: ""
+    }]
+  },
+  {
+    name: "GALERIE OVO 十方藝術空間",
+    website: "https://galerieovo.com/home-en/",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.51, Dehui St., Zhongshan Dist., Taipei City 104 Taiwan",
+      openingHours: "wed-sat 11:00-17:30"
     }]
   },
   {
@@ -317,7 +440,12 @@ export const GALLERIES = [
     name: "Powen Gallery 紅野畫廊",
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "No.11, Ln. 164, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan",
@@ -383,7 +511,12 @@ export const GALLERIES = [
     name: "Tina Keng Gallery 耿畫廊",
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "1F, No.15, Ln. 548, Ruiguang Rd., Neihu Dist., Taipei 114, Taiwan",
@@ -405,7 +538,12 @@ export const GALLERIES = [
     name: "TKG+",
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"",
+      showName:"",
+      date:"",
+      openingDate:""
+    }],
     locations: [{
       locationName: "TKG+",
       address: "B1F, No.15, Ln. 548, Ruiguang Rd., Neihu Dist., Taipei 114, Taiwan",
@@ -447,6 +585,17 @@ export const GALLERIES = [
       locationName: "",
       address: "",
       openingHours: ""
+    }]
+  },
+  {
+    name: "YANG ARTS 洋藝術空間",
+    website: "https://yang-arts.com/",
+    isSeparator: false,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "No. 310-3, Sec. 4, Ren'ai Rd., Da'an Dist., Taipei City 10693, Taiwan",
+      openingHours: "by appointment only"
     }]
   },
   {
