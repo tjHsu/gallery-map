@@ -183,10 +183,15 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
+      artist:"Juan Zamora",
+      showName:"The Broken Seas",
+      date:"2022.09.13-2022.10.29",
+      openingDate:"2022.09.17 sat 15:00"
+    }, {
+      artist:"Su Hui-Yu",
+      showName:"1972, Toffler",
+      date:"2022.09.13-2022.10.29",
+      openingDate:"2022.09.17 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -311,10 +316,10 @@ export const GALLERIES = [
     website: "http://www.linlingallery.com/eng/",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
+      artist:"Wu Meng-Chang/ Wang Ya-Hui/ Zhao Zhao",
+      showName:"Śūnyatā_Being at Liberty",
+      date:"2022.09.03-2022.11.19",
+      openingDate:"2022.09.03 sat 16:00"
     }],
     locations: [{
       locationName: "",
