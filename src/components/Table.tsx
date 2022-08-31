@@ -4,7 +4,6 @@ import Link from 'next/link'
 
 type TableItem = {
   name: string
-  website: string
   isSeparator: boolean
 };
 
@@ -14,7 +13,7 @@ const Table: React.FC = () => {
       <table className="table table-compact w-full">
         <tbody>
           {GALLERIES.map((gallery: TableItem) =>
-            <TableItem key={gallery.name} name={gallery.name} website={gallery.website} isSeparator={gallery.isSeparator} />
+            <TableItem key={gallery.name} name={gallery.name} isSeparator={gallery.isSeparator} />
           )}
         </tbody>
       </table>
@@ -24,7 +23,6 @@ const Table: React.FC = () => {
 
 const TableItem = ({
   name,
-  website,
   isSeparator
 }: TableItem) => {
   if (isSeparator) {
