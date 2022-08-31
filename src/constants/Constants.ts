@@ -215,10 +215,15 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
+      artist:"Xu Jiong",
+      showName:"Shanshui 2022 SS",
+      date:"2022.08.30-2022.09.30",
+      openingDate:"2022.09.02 17:00"
+    }, {
+      artist:"Xu Jiong",
+      showName:"2014 - 2018",
+      date:"2022.08.18-2022.09.30",
+      openingDate:"By Invitation Only"
     }],
     locations: [{
       locationName: "",
@@ -300,10 +305,10 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
+      artist:"YANG LEE",
+      showName:"S/HE LOVES HER LOVES HIM, SUCH OVERCROWDED NUISANCE",
+      date:"2022.09.03-2022.10.02",
+      openingDate:"2022.09.03 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -343,9 +348,9 @@ export const GALLERIES = [
     website: "https://michaelkugallery.com/en/home/",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
+      artist:"Wei Jia",
+      showName:"Strenuous Journey II",
+      date:"2022.07.10-2022.09.25",
       openingDate:""
     }],
     locations: [{
@@ -446,9 +451,9 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
+      artist:"CHENG Chung-chuan",
+      showName:"Quiet Times",
+      date:"2022.08.27-2022.09.24",
       openingDate:""
     }],
     locations: [{
@@ -461,7 +466,12 @@ export const GALLERIES = [
     name: "Project Fulfill Art Space 就在藝術空間",
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"Au Sow Yee",
+      showName:"Planet Traveler and Its Broken Song",
+      date:"2022.08.06-2022.09.24",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "1F., No.2, Alley 45, Lane 147, Sec. 3, Sinyi Rd. Taipei 10658, Taiwan",
@@ -494,7 +504,12 @@ export const GALLERIES = [
     name: "Soka Art 索卡藝術",
     website: "http://soka-art.com/en",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"FunnySandwich",
+      showName:"No Filler",
+      date:"2022.08.13-2022.09.09",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "No. 350, Section 2, Tiding Avenue, Zhongshan District, Taipei 10462",
@@ -517,10 +532,10 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
+      artist:"Jenny Chen",
+      showName:"Order in Chaos",
+      date:"2022.08.06-2022.10.22",
+      openingDate:"2022.08.06 sat 16:30"
     }],
     locations: [{
       locationName: "",
@@ -544,10 +559,10 @@ export const GALLERIES = [
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
+      artist:"Wu Chi-Yu",
+      showName:"The Epoch of Other Things",
+      date:"2022.08.27-2022.10.22",
+      openingDate:"2022.08.27 sat 16:30"
     }],
     locations: [{
       locationName: "TKG+",
@@ -574,7 +589,12 @@ export const GALLERIES = [
     name: "Whitestone Gallery 白石畫廊",
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"YANG YONGLIANG",
+      showName:"Imagined Landscape",
+      date:"2022.08.13-2022.10.01",
+      openingDate:""
+    }],
     locations: [{
       locationName: "",
       address: "No.1, Jihu Rd., Neihu Dist., Taipei City, 114, Taiwan ",
@@ -607,7 +627,22 @@ export const GALLERIES = [
     name: "YIRI ARTS 伊日藝術計劃",
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist:"Hsieh, Jung-Wei",
+      showName:"The Blue Island and North Sea",
+      date:"2022.08.19-2022.09.10",
+      openingDate:""
+    },{
+      artist:"Tetsuya Ishiyama",
+      showName:"AVATAARA",
+      date:"2022.08.19-2022.09.10",
+      openingDate:""
+    },{
+      artist:"Guim Tió Zarraluki",
+      showName:"12 THOUGHTS",
+      date:"2022.08.19-2022.09.10",
+      openingDate:""
+    }],
     locations: [{
       locationName: "YIRI ARTS",
       address: "No. 1, Lane 86, Xinming Road, Neihu District, Taipei City 114030, TAIWAN",
