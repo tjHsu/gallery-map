@@ -45,7 +45,7 @@ const Gallery: React.FC<GalleryDetail> = () => {
           <table className="table table-compact w-full">
             <tbody>
               <tr>
-                <td className='text-base'>Exhibitions</td>
+                <td className='text-base'>{exhibitions.length > 1 ? 'Exhibitions' : 'Exhibition'}</td>
               </tr>
               {exhibitions?.map((exhibition: Exhibition) =>
                 <ExhibitionItem key={exhibition.showName} artist={exhibition.artist} showName={exhibition.showName} date={exhibition.date} openingDate={exhibition.openingDate} />
@@ -68,7 +68,7 @@ const Gallery: React.FC<GalleryDetail> = () => {
               <tr>
                 <td>
                   <Link href={`/galleries`}>
-                  &#8592; Galleries A - Z
+                    &#8592; Galleries A - Z
                   </Link>
                 </td>
                 <td>
@@ -88,10 +88,11 @@ const ExhibitionItem = ({
   date,
   openingDate
 }: Exhibition) => {
+  const opening = openingDate.length !== 0 ? 'Opening ' + openingDate : ''
   return (
     <tr>
       <td className="break-word whitespace-normal">{artist} <br /> {showName}</td>
-      <td className="break-word whitespace-normal">{date} <br /> Opening {openingDate}</td>
+      <td className="break-word whitespace-normal">{date} <br />  {opening}</td>
     </tr>
   )
 };

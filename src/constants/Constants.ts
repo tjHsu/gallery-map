@@ -250,7 +250,7 @@ export const GALLERIES = [
       artist:"LIU Shih-Fen",
       showName:"Müllerian's Garden",
       date:"2022.09.03-2022.09.24 ",
-      openingDate:"Opening 2022.09.03 sat 15:00"
+      openingDate:"2022.09.03 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -273,12 +273,7 @@ export const GALLERIES = [
     name: "isart Gallery 御書房藝廊",
     website: "https://www.isart.tw/en",
     isSeparator: false,
-    exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
-    }],
+    exhibitions: [],
     locations: [{
       locationName: "isart Gallery",
       address: "No. 6, Fujin Street, Songshan District, Taipei City 105 , Taiwan",
@@ -423,12 +418,7 @@ export const GALLERIES = [
     name: "GALERIE OVO 十方藝術空間",
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
-    exhibitions: [{
-      artist:"",
-      showName:"",
-      date:"",
-      openingDate:""
-    }],
+    exhibitions: [],
     locations: [{
       locationName: "",
       address: "No.51, Dehui St., Zhongshan Dist., Taipei City 104 Taiwan",
