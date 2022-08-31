@@ -92,7 +92,7 @@ const ExhibitionItem = ({
   return (
     <tr>
       <td className="break-word whitespace-normal">{artist} <br /> {showName}</td>
-      <td className="break-word whitespace-normal">{date} <br />  {opening}</td>
+      <td className="break-word whitespace-normal align-top">{date} <br />  {opening}</td>
     </tr>
   )
 };
