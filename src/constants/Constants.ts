@@ -49,6 +49,22 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "AKI Gallery 也趣藝廊",
+    website: "https://www.galleryaki.com/en/aki",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Chien-Chiang HUA",
+      showName:"A Blue Account",
+      date:"2022.09.03-2022.09.25",
+      openingDate:"2022.09.03 sat 16:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "141 Min Tsu W. Rd., Taipei 10369, TAIWAN",
+      openingHours: "tue-sun 12:00-18:30"
+    }]
+  },
+  {
     name: "ASIA ART CENTER 亞洲藝術中心",
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
@@ -300,8 +316,8 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"YANG LEE",
-      showName:"S/HE LOVES HER LOVES HIM, SUCH OVERCROWDED NUISANCE",
+      artist:"Lee YANG",
+      showName:"Wonderful Life",
       date:"2022.09.03-2022.10.02",
       openingDate:"2022.09.03 sat 15:00"
     }],
@@ -394,7 +410,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist:"Kees Goudzwaard",
       showName:"In Progress",
-      date:"2022.09.11 - TBD",
+      date:"2022.09.11 - tba",
       openingDate:"2022.09.11 sun 17:00"
     }],
     locations: [{
@@ -515,6 +531,22 @@ export const GALLERIES = [
       locationName: "",
       address: "",
       openingHours: ""
+    }]
+  },
+  {
+    name: "TAO ART",
+    website: "https://www.taoartspace.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Manuel Stehli",
+      showName:"in its place",
+      date:"2022.08.20-2022.10.08",
+      openingDate:"2022.08.06 sat 16:30"
+    }],
+    locations: [{
+      locationName: "",
+      address: "8F, NO.79-1, ZHOUZI ST., NEIHU DIST., TAIPEI CITY",
+      openingHours: "tue-sat 11:00-19:00"
     }]
   },
   {
