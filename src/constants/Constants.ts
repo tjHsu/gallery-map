@@ -114,7 +114,7 @@ export const GALLERIES = [
   },
   {
     name: "ASTAR Gallery 藝星藝術中心",
-    website: "http://agallery.blogspot.com/",
+    website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
       artist:"Pei-Jyun Lin",
