@@ -22,6 +22,33 @@ export const GALLERIES = [
   //   }]
   // },
   {
+    name: "9",
+    website: "",
+    isSeparator: true,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "",
+      openingHours: ""
+    }]
+  },
+  {
+    name: "99 Degree ART CENTER 99度藝術中心",
+    website: "https://99dac.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Jan Chin Shui",
+      showName:"2022 Solo Exhibition",
+      date:"2022.09.03 -2022.09.25",
+      openingDate:"2022.09.03 sat 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.286, Sec. 7, Chengde Rd., Taipei City, Taiwan ",
+      openingHours: "tue-sun 11:00-18:30"
+    }]
+  },
+  {
     name: "A",
     website: "",
     isSeparator: true,
@@ -83,6 +110,22 @@ export const GALLERIES = [
       locationName: "",
       address: "1F, No. 128, Lequn 3rd Rd., Taipei City 104050, Taiwan",
       openingHours: "tue-sun 10:00-18:30"
+    }]
+  },
+  {
+    name: "ASTAR Gallery 藝星藝術中心",
+    website: "http://agallery.blogspot.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Pei-Jyun Lin",
+      showName:"Kawaii Generation",
+      date:"2022.09.08-2022.10.02",
+      openingDate:""
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 9, Aly. 53, Ln. 63, Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 10682 , Taiwan",
+      openingHours: "tue-sun 11:00-19:00"
     }]
   },
   {
