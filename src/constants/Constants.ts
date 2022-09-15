@@ -1,7 +1,10 @@
 export const GALLERIES = [
   // {
   //   name: "3",
-  //   website: "",
+  //   englishName: "",
+  // originalName: "",
+  // urlName: "",
+  // website: "",
   //   isSeparator: true,
   //   exhibitions: [],
   //   locations: [{
@@ -12,7 +15,10 @@ export const GALLERIES = [
   // },
   // {
   //   name: "333GALLERY 333畫廊",
-  //   website: "https://www.instagram.com/333gallery.tw/",
+  //   englishName: "",
+  // originalName: "",
+  // urlName: "",
+  // website: "https://www.instagram.com/333gallery.tw/",
   //   isSeparator: false,
   //   exhibitions: [],
   //   locations: [{
@@ -23,6 +29,9 @@ export const GALLERIES = [
   // },
   {
     name: "9",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -34,13 +43,16 @@ export const GALLERIES = [
   },
   {
     name: "99 Degree ART CENTER 99度藝術中心",
+    englishName: "99 Degree ART CENTER",
+    originalName: "99度藝術中心",
+    urlName: "99_Degree_ART_CENTER",
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Jan Chin Shui",
-      showName:"2022 Solo Exhibition",
-      date:"2022.09.03 -2022.09.25",
-      openingDate:"2022.09.03 sat 15:00"
+      artist: "Jan Chin Shui",
+      showName: "2022 Solo Exhibition",
+      date: "2022.09.03 -2022.09.25",
+      openingDate: "2022.09.03 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -50,6 +62,9 @@ export const GALLERIES = [
   },
   {
     name: "A",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -61,13 +76,16 @@ export const GALLERIES = [
   },
   {
     name: "A Gallery 當代一畫廊",
+    englishName: "A Gallery",
+    originalName: "當代一畫廊",
+    urlName: "A_Gallery",
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Li Fei Wen",
-      showName:"Mist Meditation",
-      date:"2022.08.12 - 2022.09.24",
-      openingDate:"2022.08.12 fri 16:00"
+      artist: "Li Fei Wen",
+      showName: "Mist Meditation",
+      date: "2022.08.12 - 2022.09.24",
+      openingDate: "2022.08.12 fri 16:00"
     }],
     locations: [{
       locationName: "",
@@ -77,13 +95,16 @@ export const GALLERIES = [
   },
   {
     name: "AKI Gallery 也趣藝廊",
+    englishName: "AKI Gallery",
+    originalName: "也趣藝廊",
+    urlName: "AKI_Gallery",
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
-      artist:"Chien-Chiang HUA",
-      showName:"A Blue Account",
-      date:"2022.09.03-2022.09.25",
-      openingDate:"2022.09.03 sat 16:00"
+      artist: "Chien-Chiang HUA",
+      showName: "A Blue Account",
+      date: "2022.09.03-2022.09.25",
+      openingDate: "2022.09.03 sat 16:00"
     }],
     locations: [{
       locationName: "",
@@ -93,18 +114,21 @@ export const GALLERIES = [
   },
   {
     name: "ASIA ART CENTER 亞洲藝術中心",
+    englishName: "ASIA ART CENTER",
+    originalName: "亞洲藝術中心",
+    urlName: "ASIA_ART_CENTER",
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
     exhibitions: [{
-      artist:"Gao Xingjian",
-      showName:"Where spirit dwells on",
-      date:"2022.08.13 - 2022.10.09",
-      openingDate:""
+      artist: "Gao Xingjian",
+      showName: "Where spirit dwells on",
+      date: "2022.08.13 - 2022.10.09",
+      openingDate: ""
     }, {
-      artist:"Howard Fonda",
-      showName:"Singing the Body Electric",
-      date:"2022.08.13 - 2022.10.09",
-      openingDate:""
+      artist: "Howard Fonda",
+      showName: "Singing the Body Electric",
+      date: "2022.08.13 - 2022.10.09",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -114,13 +138,16 @@ export const GALLERIES = [
   },
   {
     name: "ASTAR Gallery 藝星藝術中心",
+    englishName: "ASTAR Gallery",
+    originalName: "藝星藝術中心",
+    urlName: "ASTAR_Gallery",
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Pei-Jyun Lin",
-      showName:"Kawaii Generation",
-      date:"2022.09.08-2022.10.02",
-      openingDate:""
+      artist: "Pei-Jyun Lin",
+      showName: "Kawaii Generation",
+      date: "2022.09.08-2022.10.02",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -130,6 +157,9 @@ export const GALLERIES = [
   },
   {
     name: "B",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -141,18 +171,21 @@ export const GALLERIES = [
   },
   {
     name: "Bluerider ART Gallery 藍騎士藝術空間",
+    englishName: "Bluerider ART Gallery",
+    originalName: "藍騎士藝術空間",
+    urlName: "Bluerider_ART_Gallery",
     website: "https://blueriderart.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Desire Obtain Cherish/ Nick Veasey/ Pascal Dombis/ Jan Kalab/ Christiane Grimm/ Jonathan Rosen",
-      showName:"When the Wind Blows",
-      date:"2022.08.26 - 2022.09.25",
-      openingDate:"2022.08.26 fri 18:00"
+      artist: "Desire Obtain Cherish/ Nick Veasey/ Pascal Dombis/ Jan Kalab/ Christiane Grimm/ Jonathan Rosen",
+      showName: "When the Wind Blows",
+      date: "2022.08.26 - 2022.09.25",
+      openingDate: "2022.08.26 fri 18:00"
     }, {
-      artist:"Ruprecht von Kaufmann",
-      showName:"Monologue",
-      date:"2022.07.09 - 2022.09.25",
-      openingDate:"2022.07.09 sat 14:00"
+      artist: "Ruprecht von Kaufmann",
+      showName: "Monologue",
+      date: "2022.07.09 - 2022.09.25",
+      openingDate: "2022.07.09 sat 14:00"
     }],
     locations: [{
       locationName: "Bluerider ART DunRen Gallery",
@@ -174,6 +207,9 @@ export const GALLERIES = [
   },
   {
     name: "C",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -185,13 +221,16 @@ export const GALLERIES = [
   },
   {
     name: "Chens Art Gallery 陳氏藝術",
+    englishName: "Chens Art Gallery",
+    originalName: "陳氏藝術",
+    urlName: "Chens_Art_Gallery",
     website: "https://www.chensart.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Giancarlo Tognoni",
-      showName:"1932",
-      date:"2022.10.01 - 2022.12.10",
-      openingDate:"2022.10.01 sat 15:00"
+      artist: "Giancarlo Tognoni",
+      showName: "1932",
+      date: "2022.10.01 - 2022.12.10",
+      openingDate: "2022.10.01 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -201,13 +240,16 @@ export const GALLERIES = [
   },
   {
     name: "CHINI GALLERY 采泥藝術",
+    englishName: "CHINI GALLERY",
+    originalName: "采泥藝術",
+    urlName: "CHINI_GALLERY",
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Nick DONG / CHANG Yung-Ta",
-      showName:"Re-sensing the Cosmos",
-      date:"2022.08.20 - 2022.10.02",
-      openingDate:"2022.08.20 sat 14:30 / 2022.09.24 sat 15:00"
+      artist: "Nick DONG / CHANG Yung-Ta",
+      showName: "Re-sensing the Cosmos",
+      date: "2022.08.20 - 2022.10.02",
+      openingDate: "2022.08.20 sat 14:30 / 2022.09.24 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -217,6 +259,9 @@ export const GALLERIES = [
   },
   {
     name: "D",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -228,6 +273,9 @@ export const GALLERIES = [
   },
   {
     name: "DOPENESS ART LAB",
+    englishName: "DOPENESS ART LAB",
+    originalName: "DOPENESS ART LAB",
+    urlName: "DOPENESS_ART_LAB",
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
     exhibitions: [],
@@ -239,18 +287,21 @@ export const GALLERIES = [
   },
   {
     name: "Double Square Gallery 双方藝廊",
+    englishName: "Double Square Gallery",
+    originalName: "双方藝廊",
+    urlName: "Double_Square_Gallery",
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
-      artist:"Juan Zamora",
-      showName:"The Broken Seas",
-      date:"2022.09.13-2022.10.29",
-      openingDate:"2022.09.17 sat 15:00"
+      artist: "Juan Zamora",
+      showName: "The Broken Seas",
+      date: "2022.09.13-2022.10.29",
+      openingDate: "2022.09.17 sat 15:00"
     }, {
-      artist:"Su Hui-Yu",
-      showName:"1972, Toffler",
-      date:"2022.09.13-2022.10.29",
-      openingDate:"2022.09.17 sat 15:00"
+      artist: "Su Hui-Yu",
+      showName: "1972, Toffler",
+      date: "2022.09.13-2022.10.29",
+      openingDate: "2022.09.17 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -260,6 +311,9 @@ export const GALLERIES = [
   },
   {
     name: "E",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -271,18 +325,21 @@ export const GALLERIES = [
   },
   {
     name: "Each Modern 亞紀畫廊",
+    englishName: "Each Modern",
+    originalName: "亞紀畫廊",
+    urlName: "Each_Modern",
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Xu Jiong",
-      showName:"Shanshui 2022 SS",
-      date:"2022.08.30-2022.09.30",
-      openingDate:"2022.09.02 17:00"
+      artist: "Xu Jiong",
+      showName: "Shanshui 2022 SS",
+      date: "2022.08.30-2022.09.30",
+      openingDate: "2022.09.02 17:00"
     }, {
-      artist:"Xu Jiong",
-      showName:"2014 - 2018",
-      date:"2022.08.18-2022.09.30",
-      openingDate:"By Invitation Only"
+      artist: "Xu Jiong",
+      showName: "2014 - 2018",
+      date: "2022.08.18-2022.09.30",
+      openingDate: "By Invitation Only"
     }],
     locations: [{
       locationName: "",
@@ -292,6 +349,9 @@ export const GALLERIES = [
   },
   {
     name: "EQUAL 等號",
+    englishName: "EQUAL",
+    originalName: "等號",
+    urlName: "EQUAL",
     website: "http://www.facebook.com/equalartlab",
     isSeparator: false,
     exhibitions: [],
@@ -303,13 +363,16 @@ export const GALLERIES = [
   },
   {
     name: "ESLITE GALLERY 誠品畫廊",
+    englishName: "ESLITE GALLERY",
+    originalName: "誠品畫廊",
+    urlName: "ESLITE_GALLERY",
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"LIU Shih-Fen",
-      showName:"Müllerian's Garden",
-      date:"2022.09.03-2022.09.24 ",
-      openingDate:"2022.09.03 sat 15:00"
+      artist: "LIU Shih-Fen",
+      showName: "Müllerian's Garden",
+      date: "2022.09.03-2022.09.24 ",
+      openingDate: "2022.09.03 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -319,6 +382,9 @@ export const GALLERIES = [
   },
   {
     name: "I",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -330,6 +396,9 @@ export const GALLERIES = [
   },
   {
     name: "isart Gallery 御書房藝廊",
+    englishName: "isart Gallery",
+    originalName: "御書房藝廊",
+    urlName: "isart_Gallery",
     website: "https://www.isart.tw/en",
     isSeparator: false,
     exhibitions: [],
@@ -345,6 +414,9 @@ export const GALLERIES = [
   },
   {
     name: "L",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -356,13 +428,16 @@ export const GALLERIES = [
   },
   {
     name: "Liang Gallery 尊彩藝術中心",
+    englishName: "Liang Gallery",
+    originalName: "尊彩藝術中心",
+    urlName: "Liang_Gallery",
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Lee YANG",
-      showName:"Wonderful Life",
-      date:"2022.09.03-2022.10.02",
-      openingDate:"2022.09.03 sat 15:00"
+      artist: "Lee YANG",
+      showName: "Wonderful Life",
+      date: "2022.09.03-2022.10.02",
+      openingDate: "2022.09.03 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -372,13 +447,16 @@ export const GALLERIES = [
   },
   {
     name: "Lin & Lin Gallery 大未來林舍畫廊",
+    englishName: "Lin & Lin Gallery",
+    originalName: "大未來林舍畫廊",
+    urlName: "Lin_and_Lin_Gallery",
     website: "http://www.linlingallery.com/eng/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Wu Meng-Chang/ Wang Ya-Hui/ Zhao Zhao",
-      showName:"Śūnyatā_Being at Liberty",
-      date:"2022.09.03-2022.11.19",
-      openingDate:"2022.09.03 sat 16:00"
+      artist: "Wu Meng-Chang/ Wang Ya-Hui/ Zhao Zhao",
+      showName: "Śūnyatā_Being at Liberty",
+      date: "2022.09.03-2022.11.19",
+      openingDate: "2022.09.03 sat 16:00"
     }],
     locations: [{
       locationName: "",
@@ -388,6 +466,9 @@ export const GALLERIES = [
   },
   {
     name: "M",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -399,13 +480,16 @@ export const GALLERIES = [
   },
   {
     name: "Michael Ku Gallery 谷公館",
+    englishName: "Michael Ku Gallery",
+    originalName: "谷公館",
+    urlName: "Michael_Ku_Gallery",
     website: "https://michaelkugallery.com/en/home/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Wei Jia",
-      showName:"Strenuous Journey II",
-      date:"2022.07.10-2022.09.25",
-      openingDate:""
+      artist: "Wei Jia",
+      showName: "Strenuous Journey II",
+      date: "2022.07.10-2022.09.25",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -415,6 +499,9 @@ export const GALLERIES = [
   },
   {
     name: "Mind Set Art Center 安卓藝術",
+    englishName: "Mind Set Art Center",
+    originalName: "安卓藝術",
+    urlName: "Mind_Set_Art_Center",
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [],
@@ -426,6 +513,9 @@ export const GALLERIES = [
   },
   {
     name: "N",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -436,7 +526,10 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "nca | nichido contemporary art 日動畫廊",
+    name: "nichido contemporary art 日動畫廊",
+    englishName: "nichido contemporary art",
+    originalName: "日動畫廊",
+    urlName: "nichido_contemporary_art",
     website: "https://www.nca-g.com/en/",
     isSeparator: false,
     exhibitions: [],
@@ -448,13 +541,16 @@ export const GALLERIES = [
   },
   {
     name: "Nunu Fine Art 路由藝術",
+    englishName: "Nunu Fine Art",
+    originalName: "路由藝術",
+    urlName: "Nunu_Fine_Art",
     website: "https://www.nunufineart.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Kees Goudzwaard",
-      showName:"In Progress",
-      date:"2022.09.11 - tba",
-      openingDate:"2022.09.11 sun 17:00"
+      artist: "Kees Goudzwaard",
+      showName: "In Progress",
+      date: "2022.09.11 - tba",
+      openingDate: "2022.09.11 sun 17:00"
     }],
     locations: [{
       locationName: "",
@@ -464,6 +560,9 @@ export const GALLERIES = [
   },
   {
     name: "O",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -475,6 +574,9 @@ export const GALLERIES = [
   },
   {
     name: "GALERIE OVO 十方藝術空間",
+    englishName: "GALERIE OVO",
+    originalName: "十方藝術空間",
+    urlName: "GALERIE_OVO",
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [],
@@ -486,6 +588,9 @@ export const GALLERIES = [
   },
   {
     name: "P",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -497,13 +602,16 @@ export const GALLERIES = [
   },
   {
     name: "Powen Gallery 紅野畫廊",
+    englishName: "Powen Gallery",
+    originalName: "紅野畫廊",
+    urlName: "Powen_Gallery",
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"CHENG Chung-chuan",
-      showName:"Quiet Times",
-      date:"2022.08.27-2022.09.24",
-      openingDate:""
+      artist: "CHENG Chung-chuan",
+      showName: "Quiet Times",
+      date: "2022.08.27-2022.09.24",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -513,13 +621,16 @@ export const GALLERIES = [
   },
   {
     name: "Project Fulfill Art Space 就在藝術空間",
+    englishName: "Project Fulfill Art Space",
+    originalName: "就在藝術空間",
+    urlName: "Project_Fulfill_Art_Space",
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Au Sow Yee",
-      showName:"Planet Traveler and Its Broken Song",
-      date:"2022.08.06-2022.09.24",
-      openingDate:""
+      artist: "Au Sow Yee",
+      showName: "Planet Traveler and Its Broken Song",
+      date: "2022.08.06-2022.09.24",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -529,6 +640,9 @@ export const GALLERIES = [
   },
   {
     name: "PTT Space 八大畫廊",
+    englishName: "PTT Space",
+    originalName: "八大畫廊",
+    urlName: "PTT_Space",
     website: "https://www.pttspace.com/?lang=en",
     isSeparator: false,
     exhibitions: [],
@@ -540,6 +654,9 @@ export const GALLERIES = [
   },
   {
     name: "S",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -551,13 +668,16 @@ export const GALLERIES = [
   },
   {
     name: "Soka Art 索卡藝術",
+    englishName: "Soka Art",
+    originalName: "索卡藝術",
+    urlName: "Soka_Art",
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
-      artist:"FunnySandwich",
-      showName:"No Filler",
-      date:"2022.08.13-2022.09.09",
-      openingDate:""
+      artist: "FunnySandwich",
+      showName: "No Filler",
+      date: "2022.08.13-2022.09.09",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -567,6 +687,9 @@ export const GALLERIES = [
   },
   {
     name: "T",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -578,13 +701,16 @@ export const GALLERIES = [
   },
   {
     name: "TAO ART",
+    englishName: "TAO ART",
+    originalName: "TAO ART",
+    urlName: "TAO_ART",
     website: "https://www.taoartspace.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Manuel Stehli",
-      showName:"in its place",
-      date:"2022.08.20-2022.10.08",
-      openingDate:"2022.08.06 sat 16:30"
+      artist: "Manuel Stehli",
+      showName: "in its place",
+      date: "2022.08.20-2022.10.08",
+      openingDate: "2022.08.06 sat 16:30"
     }],
     locations: [{
       locationName: "",
@@ -594,13 +720,16 @@ export const GALLERIES = [
   },
   {
     name: "Tina Keng Gallery 耿畫廊",
+    englishName: "Tina Keng Gallery",
+    originalName: "耿畫廊",
+    urlName: "Tina_Keng_Gallery",
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Jenny Chen",
-      showName:"Order in Chaos",
-      date:"2022.08.06-2022.10.22",
-      openingDate:"2022.08.06 sat 16:30"
+      artist: "Jenny Chen",
+      showName: "Order in Chaos",
+      date: "2022.08.06-2022.10.22",
+      openingDate: "2022.08.06 sat 16:30"
     }],
     locations: [{
       locationName: "",
@@ -610,6 +739,9 @@ export const GALLERIES = [
   },
   {
     name: "TING TING ART SPACE 丁丁藝術空間",
+    englishName: "TING TING ART SPACE",
+    originalName: "丁丁藝術空間",
+    urlName: "TING_TING_ART_SPACE",
     website: "https://tingtingartspace.com/",
     isSeparator: false,
     exhibitions: [],
@@ -621,13 +753,16 @@ export const GALLERIES = [
   },
   {
     name: "TKG+",
+    englishName: "TKG+",
+    originalName: "TKG+",
+    urlName: "TKG+",
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Wu Chi-Yu",
-      showName:"The Epoch of Other Things",
-      date:"2022.08.27-2022.10.22",
-      openingDate:"2022.08.27 sat 16:30"
+      artist: "Wu Chi-Yu",
+      showName: "The Epoch of Other Things",
+      date: "2022.08.27-2022.10.22",
+      openingDate: "2022.08.27 sat 16:30"
     }],
     locations: [{
       locationName: "TKG+",
@@ -641,6 +776,9 @@ export const GALLERIES = [
   },
   {
     name: "W",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -652,13 +790,16 @@ export const GALLERIES = [
   },
   {
     name: "Whitestone Gallery 白石畫廊",
+    englishName: "Whitestone Gallery",
+    originalName: "白石畫廊",
+    urlName: "Whitestone_Gallery",
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
-      artist:"YANG YONGLIANG",
-      showName:"Imagined Landscape",
-      date:"2022.08.13-2022.10.01",
-      openingDate:""
+      artist: "YANG YONGLIANG",
+      showName: "Imagined Landscape",
+      date: "2022.08.13-2022.10.01",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -668,6 +809,9 @@ export const GALLERIES = [
   },
   {
     name: "Y",
+    englishName: "",
+    originalName: "",
+    urlName: "",
     website: "",
     isSeparator: true,
     exhibitions: [],
@@ -679,6 +823,9 @@ export const GALLERIES = [
   },
   {
     name: "YANG ARTS 洋藝術空間",
+    englishName: "YANG ARTS",
+    originalName: "洋藝術空間",
+    urlName: "YANG_ARTS",
     website: "https://yang-arts.com/",
     isSeparator: false,
     exhibitions: [],
@@ -690,23 +837,26 @@ export const GALLERIES = [
   },
   {
     name: "YIRI ARTS 伊日藝術計劃",
+    englishName: "YIRI ARTS",
+    originalName: "伊日藝術計劃",
+    urlName: "YIRI_ARTS",
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
-      artist:"Hsieh, Jung-Wei",
-      showName:"The Blue Island and North Sea",
-      date:"2022.08.19-2022.09.10",
-      openingDate:""
-    },{
-      artist:"Tetsuya Ishiyama",
-      showName:"AVATAARA",
-      date:"2022.08.19-2022.09.10",
-      openingDate:""
-    },{
-      artist:"Guim Tió Zarraluki",
-      showName:"12 THOUGHTS",
-      date:"2022.08.19-2022.09.10",
-      openingDate:""
+      artist: "Hsieh, Jung-Wei",
+      showName: "The Blue Island and North Sea",
+      date: "2022.08.19-2022.09.10",
+      openingDate: ""
+    }, {
+      artist: "Tetsuya Ishiyama",
+      showName: "AVATAARA",
+      date: "2022.08.19-2022.09.10",
+      openingDate: ""
+    }, {
+      artist: "Guim Tió Zarraluki",
+      showName: "12 THOUGHTS",
+      date: "2022.08.19-2022.09.10",
+      openingDate: ""
     }],
     locations: [{
       locationName: "YIRI ARTS",
