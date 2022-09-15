@@ -27,8 +27,8 @@ type GalleryDetail = {
 
 const Gallery: React.FC<GalleryDetail> = () => {
   const router = useRouter()
-  const { name } = router.query
-  const galleryIndex = GALLERIES.findIndex(gallery => gallery.name === name)
+  const { name:urlName } = router.query
+  const galleryIndex = GALLERIES.findIndex(gallery => gallery.urlName === urlName)
   const gallery = GALLERIES[galleryIndex]
   if (!gallery) {
     return (
