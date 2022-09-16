@@ -229,8 +229,8 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Giancarlo Tognoni",
       showName: "1932",
-      date: "2022.10.01 - 2022.12.10",
-      openingDate: "2022.10.01 sat 15:00"
+      date: "2022.10.11 - 2023.02.02",
+      openingDate: "2022.10.20 thur 15:00"
     }],
     locations: [{
       locationName: "",
@@ -278,7 +278,12 @@ export const GALLERIES = [
     urlName: "DOPENESS_ART_LAB",
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "REI NAKANISHI",
+      showName: "yue",
+      date: "2022.09.17-2022.10.09",
+      openingDate: "2022.09.17 sat 15:00"
+    }],
     locations: [{
       locationName: "",
       address: "No. 60, Lane 308, Section 3, Heping E Rd, Da’an District, Taipei City, Taiwan 106",
@@ -504,7 +509,12 @@ export const GALLERIES = [
     urlName: "Mind_Set_Art_Center",
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "Rui Miguel Leitão FERREIRA / Rao FU / LEE Jo-Mei / LIN Chuan-Chu / Mia LIU / JHONG Jiang-Ze / SHI Jin-Hua / SHI Jinsong / Juin SHIEH / TZENG Yong-Ning / YANG Yu-Ning / CHOU Kai-Lun",
+      showName: "Variation: A Contemporary Group Exhibition",
+      date: "2022.09.17-2022.10.22",
+      openingDate: "2022.09.17 sat 15:00"
+    }],
     locations: [{
       locationName: "",
       address: "1F, No.20, Wenhu St., Neihu Dist., Taipei City 114, Taiwan",
@@ -549,7 +559,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Kees Goudzwaard",
       showName: "In Progress",
-      date: "2022.09.11 - tba",
+      date: "2022.09.11 - 2022.10.30",
       openingDate: "2022.09.11 sun 17:00"
     }],
     locations: [{
