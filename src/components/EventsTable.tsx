@@ -47,7 +47,7 @@ const TableItem = ({
         <td></td>
       </tr>
       {exhibitions.map((exhibition:Exhibition) =>
-        <ExhibitionItem showName={exhibition.showName}/>
+        <ExhibitionItem key={exhibition.showName} showName={exhibition.showName}/>
       )}
     </React.Fragment>
   );
