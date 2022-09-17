@@ -110,4 +110,26 @@ const LocationItem = ({
   )
 };
 
+// export async function getStaticPaths() {
+//   return {
+//     paths: [
+//       { params: { name: '99 Degree ART CENTER 99度藝術中心' } },
+//       { params: { name: 'DOPENESS ART LAB' } }
+//     ],
+//     fallback: false
+//   }
+// }
+
+// export async function getStaticProps() {
+//   // params contains the post `id`.
+//   // If the route is like /posts/1, then params.id is 1
+//   const res = await fetch(`https://.../galleries`)
+//   const post = await res.json()
+
+//   // Pass post data to the page via props
+//   return { props: {  } }
+// }
+
+//https://nextjs.org/docs/basic-features/data-fetching/get-static-paths
+
 export default Gallery

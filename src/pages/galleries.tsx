@@ -1,10 +1,10 @@
 import type { NextPage } from "next";
-import Table from "../components/Table";
+import GalleriesTable from "../components/GalleriesTable";
 
 const Galleries: NextPage = () => {
   return (
     <div className="ml-5">
-        <Table/>
+        <GalleriesTable/>
     </div>
   )
 }

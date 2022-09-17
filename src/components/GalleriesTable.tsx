@@ -8,7 +8,7 @@ type TableItem = {
   urlName: string
 };
 
-const Table: React.FC = () => {
+const GalleriesTable: React.FC = () => {
   return (
     <div className="overflow-x-auto pb-14">
       <table className="table table-compact w-full">
@@ -42,4 +42,4 @@ const TableItem = ({
   }
 };
 
-export default Table
+export default GalleriesTable
