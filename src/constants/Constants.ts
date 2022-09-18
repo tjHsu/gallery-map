@@ -705,7 +705,7 @@ export const GALLERIES = [
       artist: "Wang Yi, Ju Ting / Hsieh Yu-Cheng​",
       showName: "Light is A verb​",
       date: "2022.09.08 - 2022.10.15",
-      openingDate: "Opening 2022.09.08 thur. 18:00"
+      openingDate: "2022.09.08 thur. 18:00"
     }],
     locations: [{
       locationName: "",
@@ -740,7 +740,7 @@ export const GALLERIES = [
       artist: "LIN Bao Ling",
       showName: "The Light of Freedom",
       date: "2022.09.03 - 2022.10.29",
-      openingDate: "Opening 2022.09.03 sat. 16:00"
+      openingDate: "2022.09.03 sat. 16:00"
     }],
     locations: [{
       locationName: "",
@@ -925,17 +925,17 @@ export const GALLERIES = [
       artist: "Chang Ting-Tong / Hui Tak-Cheun",
       showName: "Remains for those remain",
       date: "2022.09.22 - 2022.10.05",
-      openingDate: "Opening 2022.09.24 sat. 15:00"
+      openingDate: "2022.09.24 sat. 15:00"
     },{
       artist: "Laba",
       showName: "Love war",
       date: "2022.09.22 - 2022.10.05",
-      openingDate: "Opening 2022.09.24 sat. 15:00"
+      openingDate: "2022.09.24 sat. 15:00"
     },{
       artist: "Hou Chen-Lu",
       showName: "Observant Mock-Ups",
       date: "2022.09.22 - 2022.10.05",
-      openingDate: "Opening 2022.09.24 sat. 15:00"
+      openingDate: "2022.09.24 sat. 15:00"
     },],
     locations: [{
       locationName: "YIRI ARTS",
