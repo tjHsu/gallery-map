@@ -11,6 +11,7 @@ type TableItem = {
 
 type Exhibition = {
   showName: string
+  date: string
 }
 
 const galleriesWithEvents = GALLERIES.filter((gallery: TableItem) => {
@@ -47,18 +48,19 @@ const TableItem = ({
         <td></td>
       </tr>
       {exhibitions.map((exhibition:Exhibition) =>
-        <ExhibitionItem key={exhibition.showName} showName={exhibition.showName}/>
+        <ExhibitionItem key={exhibition.showName} date={exhibition.date} showName={exhibition.showName}/>
       )}
     </React.Fragment>
   );
 };
 
 const ExhibitionItem = ({
-  showName
+  showName,
+  date
 }: Exhibition) => {
   return (
     <tr>
-      <td></td>
+      <td>{date}</td>
       <td className="break-word whitespace-normal">
         {showName}
       </td>
