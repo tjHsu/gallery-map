@@ -37,21 +37,32 @@ const TableItem = ({
   urlName,
   exhibitions
 }: TableItem) => {
-  return (
-    <React.Fragment>
-      <tr>
-        <td>
-        <Link href={`/galleries/${urlName}`}>
-          {englishName}
-          </Link>
-        </td>
-        <td></td>
-      </tr>
-      {exhibitions.map((exhibition:Exhibition) =>
-        <ExhibitionItem key={exhibition.showName} date={exhibition.date} showName={exhibition.showName}/>
-      )}
-    </React.Fragment>
-  );
+  const currentExhibitions = exhibitions.filter(exhibition => {
+    const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10))
+    dateAfterClosing.setDate(dateAfterClosing.getDate() + 1);
+    const now = new Date()
+    return now < dateAfterClosing
+  })
+
+  if (!currentExhibitions.length) {
+    return null
+  } else {
+    return (
+      <React.Fragment>
+        <tr>
+          <td>
+            <Link href={`/galleries/${urlName}`}>
+              {englishName}
+            </Link>
+          </td>
+          <td></td>
+        </tr>
+        {currentExhibitions.map((exhibition: Exhibition) =>
+          <ExhibitionItem key={exhibition.showName} date={exhibition.date} showName={exhibition.showName} />
+        )}
+      </React.Fragment>
+    );
+  }
 };
 
 const ExhibitionItem = ({
