@@ -1,8 +1,8 @@
-import { useRouter } from 'next/router'
 import { GALLERIES } from '../../constants/Constants'
 import React from 'react';
 import ErrorPage from 'next/error'
 import Link from 'next/link'
+import { GetStaticProps } from 'next'
 
 type Exhibition = {
   artist: string
@@ -18,18 +18,17 @@ type Location = {
 }
 
 type GalleryDetail = {
-  name: string
-  website: string
-  isSeparator: boolean
-  exhibitions: Exhibition[]
-  locations: Location[]
+  gallery: {
+    name: string
+    website: string
+    isSeparator: boolean
+    exhibitions: Exhibition[]
+    locations: Location[]
+  }
 };
 
-const Gallery: React.FC<GalleryDetail> = () => {
-  const router = useRouter()
-  const { name:urlName } = router.query
-  const galleryIndex = GALLERIES.findIndex(gallery => gallery.urlName === urlName)
-  const gallery = GALLERIES[galleryIndex]
+const Gallery: React.FC<GalleryDetail> = ({ gallery }) => {
+
   if (!gallery) {
     return (
       <ErrorPage statusCode={404} />
@@ -110,26 +109,26 @@ const LocationItem = ({
   )
 };
 
-// export async function getStaticPaths() {
-//   return {
-//     paths: [
-//       { params: { name: '99 Degree ART CENTER 99度藝術中心' } },
-//       { params: { name: 'DOPENESS ART LAB' } }
-//     ],
-//     fallback: false
-//   }
-// }
+export async function getStaticPaths() {
+  const galleriesHasUrl = GALLERIES.filter(gallery => gallery.urlName.length)
+  const galleriesUrlName = galleriesHasUrl.map(gallery => {
+    if (gallery.urlName) {
+      return { params: { name: gallery.urlName } }
+    } else {
+      return null
+    }
+  })
+  return {
+    paths: galleriesUrlName,
+    fallback: false
+  }
+}
 
-// export async function getStaticProps() {
-//   // params contains the post `id`.
-//   // If the route is like /posts/1, then params.id is 1
-//   const res = await fetch(`https://.../galleries`)
-//   const post = await res.json()
-
-//   // Pass post data to the page via props
-//   return { props: {  } }
-// }
-
-//https://nextjs.org/docs/basic-features/data-fetching/get-static-paths
+export const getStaticProps: GetStaticProps = async (context) => {
+  const galleryUrlName = context?.params?.name
+  const galleryIndex = GALLERIES.findIndex(gallery => gallery.urlName === galleryUrlName)
+  const gallery = GALLERIES[galleryIndex]
+  return { props: { gallery } }
+}
 
 export default Gallery
