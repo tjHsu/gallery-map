@@ -135,7 +135,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "2F, No. 218-6, Zhongxiao E Rd, Section 4, Taipei City, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/MJefCaBhmTrFgyBp6",
       openingHours: "mon-sat 11:00-19:00"
     }]
   },
@@ -150,7 +150,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.36, Ln. 164, Hulin St., Xinyi Dist., Taipei City 11075, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/a2nDLPfsteykUvCE8",
       openingHours: "tue-sun 11:00-19:00"
     }]
   },
@@ -175,7 +175,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "1F, No. 128, Lequn 3rd Rd., Taipei City 104050, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://g.page/asiaartcenter?share",
       openingHours: "tue-sun 10:00-18:30"
     }]
   },
@@ -195,7 +195,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No. 9, Aly. 53, Ln. 63, Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 10682 , Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/xRNjXiKxpaNQMsBJ9",
       openingHours: "tue-sun 11:00-19:00"
     }]
   },
@@ -240,7 +240,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "2F, No.9, Sec. 1, Chang’an E. Rd., Taipei 104003, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/vEHvjhaSRyca56d67",
       openingHours: "mon-sat 11:00-18:00"
     }]
   },
@@ -265,22 +265,22 @@ export const GALLERIES = [
     locations: [{
       locationName: "Bluerider ART DunRen Gallery",
       address: "1F., No. 10, Ln. 101, Sec. 1, Da'an Rd., Da’an Dist., Taipei City 106 , Taiwan ",
-      gMapLink: "",
+      gMapLink: "https://g.page/BlueriderART?share",
       openingHours: "tue-sun 10:00-19:00"
     }, {
       locationName: "Bluerider ART RenAi Gallery",
       address: "10F., No. 25-1, Sec. 4, Ren'ai Rd., Da’an Dist., Taipei City 106 , Taiwan",
-      gMapLink: "",
+      gMapLink: "https://g.page/BlueriderRenai?share",
       openingHours: "tue-sat 09:00-18:00"
     }, {
       locationName: "X by Bluerider",
       address: "10F., No. 25-1, Sec. 4, Ren'ai Rd., Da’an Dist., Taipei City 106 , Taiwan",
-      gMapLink: "",
+      gMapLink: "https://g.page/BlueriderRenai?share",
       openingHours: "tue-sat 09:00-18:00"
     }, {
       locationName: "Breeze X Bluerider ART",
       address: "Breeze Xin Yi",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/xMKxSeiwWDcrcgeE9",
       openingHours: "mon-sun 11:00-21:30"
     }]
   },
@@ -310,7 +310,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "2F., No.343, Sec.4, Ren’ai Rd., Da’an Dist., Taipei, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/5K9vMCz6fj4wmUJ16",
       openingHours: "tue-sat 10:00-18:00"
     }]
   },
@@ -330,7 +330,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.100, Bade Rd., Sec 2, ZhongShan Dist. Taipei City 11011, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/2iD61FFuKgyWaHJ38",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -350,7 +350,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "1F, No.48,Ln.128, Jingye 1st Rd., Zhongshan Dist., Taipei City",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/prDjhvpVYsb7AvMq6",
       openingHours: "tue-sun 10:30-19:00"
     }]
   },
@@ -365,7 +365,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No. 471, Mingshui Rd, Zhongshan District, Taipei City",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/7Ek5toFQzrU1d1396",
       openingHours: "tue-sun 10:00-18:30"
     }]
   },
@@ -385,7 +385,7 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "Donna Art",
+    name: "Donna Art 多納藝術",
     englishName: "Donna Art",
     originalName: "多納藝術",
     urlName: "Donna_Art",
@@ -400,12 +400,12 @@ export const GALLERIES = [
     locations: [{
       locationName: "Donna Art",
       address: "7F No. 112, Section 2, Keelung Rd, Da’an District, Taipei City",
-      gMapLink: "",
+      gMapLink: "https://g.page/donnaart?share",
       openingHours: "mon-sat 13:00-19:00"
     },{
       locationName: "Donna Art Huashan",
       address: "W7-2 Camphor Refinery, No. 1, Section 1, Bade Rd, Zhongzheng District, Taipei City",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/fxFugwdGvdSrrcFa8",
       openingHours: "mon-sun 11:00-19:00"
     }]
   },
@@ -425,7 +425,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No. 60, Lane 308, Section 3, Heping E Rd, Da’an District, Taipei City, Taiwan 106",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/i89kSqRYVtTdo9uC6",
       openingHours: "tue-sun 13:00-18:00"
     }]
   },
@@ -450,7 +450,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.28, Lane 770, Beian Road, Zhongshan District, Taipei 104, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/k4jEWTx3VnUvidGc9",
       openingHours: "tue-sat 11:00-18:00"
     }]
   },
@@ -470,7 +470,7 @@ export const GALLERIES = [
     },{
       locationName: "Dynasty Gallery Hall B",
       address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/6NUrMMrnyEGgMzsR6",
       openingHours: "mon-sat 13:00-19:00"
     }]
   },
