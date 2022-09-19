@@ -120,6 +120,41 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "Apollo Art Gallery 阿波羅畫廊",
+    englishName: "Apollo Art Gallery",
+    originalName: "阿波羅畫廊",
+    urlName: "Apollo_Art_Gallery",
+    website: "http://www.artgalleryapollo.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Xiao Ru-Song",
+      showName: "A memorial exhibition for Xiao Ru-Song's 100th birthday",
+      date: "2022.08.27 - 2022.10.15",
+      openingDate: "2022.08.27 sat. 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "2F, No. 218-6, Zhongxiao E Rd, Section 4, Taipei City, Taiwan",
+      gMapLink: "",
+      openingHours: "mon-sat 11:00-19:00"
+    }]
+  },
+  {
+    name: "ARTDOOR Gallery 藝境畫廊",
+    englishName: "ARTDOOR Gallery",
+    originalName: "藝境畫廊",
+    urlName: "ARTDOOR_Gallery",
+    website: "http://www.artdoor.com.tw/",
+    isSeparator: false,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "No.36, Ln. 164, Hulin St., Xinyi Dist., Taipei City 11075, Taiwan",
+      gMapLink: "",
+      openingHours: "tue-sun 11:00-19:00"
+    }]
+  },
+  {
     name: "ASIA ART CENTER 亞洲藝術中心",
     englishName: "ASIA ART CENTER",
     originalName: "亞洲藝術中心",
@@ -180,6 +215,36 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "Be Fine Art Gallery 比劃比畫",
+    englishName: "比劃比畫",
+    originalName: "Be Fine Art Gallery",
+    urlName: "Be_Fine_Art_Gallery",
+    website: "https://www.befineartgallery.com/",
+    isSeparator: false,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "6F No.127 DongMing St. Nangang Dist. Taipei City",
+      gMapLink: "",
+      openingHours: "by appointment only"
+    }]
+  },
+  {
+    name: "Beyong Gallery 非畫廊",
+    englishName: "Beyong Gallery",
+    originalName: "非畫廊",
+    urlName: "Beyong_Gallery",
+    website: "https://www.loranger.com.tw/",
+    isSeparator: false,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "2F, No.9, Sec. 1, Chang’an E. Rd., Taipei 104003, Taiwan",
+      gMapLink: "",
+      openingHours: "mon-sat 11:00-18:00"
+    }]
+  },
+  {
     name: "Bluerider ART Gallery 藍騎士藝術空間",
     englishName: "Bluerider ART Gallery",
     originalName: "藍騎士藝術空間",
@@ -235,6 +300,21 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "Capital Art Center 首都藝術中心",
+    englishName: "Capital Art Center",
+    originalName: "首都藝術中心",
+    urlName: "Capital_Art_Center",
+    website: "https://www.capitalart.com.tw/",
+    isSeparator: false,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "2F., No.343, Sec.4, Ren’ai Rd., Da’an Dist., Taipei, Taiwan",
+      gMapLink: "",
+      openingHours: "tue-sat 10:00-18:00"
+    }]
+  },
+  {
     name: "Chens Art Gallery 陳氏藝術",
     englishName: "Chens Art Gallery",
     originalName: "陳氏藝術",
@@ -275,6 +355,21 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "Cloud Gallery 青雲畫廊",
+    englishName: "Cloud Gallery",
+    originalName: "青雲畫廊",
+    urlName: "Cloud_Gallery",
+    website: "http://www.cloud-gallery.org/",
+    isSeparator: false,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "No. 471, Mingshui Rd, Zhongshan District, Taipei City",
+      gMapLink: "",
+      openingHours: "tue-sun 10:00-18:30"
+    }]
+  },
+  {
     name: "D",
     englishName: "",
     originalName: "",
@@ -287,6 +382,31 @@ export const GALLERIES = [
       address: "",
       gMapLink: "",
       openingHours: ""
+    }]
+  },
+  {
+    name: "Donna Art",
+    englishName: "Donna Art",
+    originalName: "多納藝術",
+    urlName: "Donna_Art",
+    website: "www.donnaart.com.tw",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Sanyu",
+      showName: "Prints",
+      date: "2022.09.28 - 2022.11.06",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "Donna Art",
+      address: "7F No. 112, Section 2, Keelung Rd, Da’an District, Taipei City",
+      gMapLink: "",
+      openingHours: "mon-sat 13:00-19:00"
+    },{
+      locationName: "Donna Art Huashan",
+      address: "W7-2 Camphor Refinery, No. 1, Section 1, Bade Rd, Zhongzheng District, Taipei City",
+      gMapLink: "",
+      openingHours: "mon-sun 11:00-19:00"
     }]
   },
   {
@@ -332,6 +452,26 @@ export const GALLERIES = [
       address: "No.28, Lane 770, Beian Road, Zhongshan District, Taipei 104, Taiwan",
       gMapLink: "",
       openingHours: "tue-sat 11:00-18:00"
+    }]
+  },
+  {
+    name: "Dynasty Gallery 朝代畫廊",
+    englishName: "Dynasty Gallery",
+    originalName: "朝代畫廊",
+    urlName: "Dynasty_Gallery",
+    website: "dynastyart.com",
+    isSeparator: false,
+    exhibitions: [],
+    locations: [{
+      locationName: "Dynasty Gallery Hall A",
+      address: "1F, No.41, Le Li Road, Taipei City 10678 Taiwan",
+      gMapLink: "",
+      openingHours: "mon-sat 13:00-19:00"
+    },{
+      locationName: "Dynasty Gallery Hall B",
+      address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
+      gMapLink: "",
+      openingHours: "mon-sat 13:00-19:00"
     }]
   },
   {
@@ -422,6 +562,26 @@ export const GALLERIES = [
       address: "",
       gMapLink: "",
       openingHours: ""
+    }]
+  },
+  {
+    name: "In River Gallery 穎川畫廊",
+    englishName: "穎川畫廊",
+    originalName: "In River Gallery",
+    urlName: "In_River_Gallery",
+    website: "www.inriver.com.tw",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Chou Chen",
+      showName: "Transformation",
+      date: "2022.10.01 - 2022.11.03",
+      openingDate: "2022.10.01 sat. 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "2F, No. 45, Section 1, Ren'ai Rd, Zhongzheng District, Taipei City ",
+      gMapLink: "",
+      openingHours: "tue-sun 13:00-20:00"
     }]
   },
   {
