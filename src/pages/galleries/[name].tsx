@@ -106,7 +106,7 @@ const LocationItem = ({
   return (
     <tr>
       <td className="break-word whitespace-normal align-top">{locationName}</td>
-      <td className="break-word whitespace-normal">{address} <br /> {openingHours} <br /> <a href={`${gMapLink}`} target='_blank'>Open in map &#10132; </a></td>
+      <td className="break-word whitespace-normal">{address} <br /> {openingHours} <br /> <a href={`${gMapLink}`} target='_blank' rel="noreferrer">Open in map &#10132; </a></td>
     </tr>
   )
 };
