@@ -14,6 +14,7 @@ type Exhibition = {
 type Location = {
   locationName: string
   address: string
+  gMapLink: string
   openingHours: string
 }
 
@@ -53,7 +54,7 @@ const Gallery: React.FC<GalleryDetail> = ({ gallery }) => {
                 <td className='text-base'>{locations.length > 1 ? 'Locations' : 'Location'}</td>
               </tr>
               {locations?.map((location: Location) =>
-                <LocationItem key={location.locationName} locationName={location.locationName} address={location.address} openingHours={location.openingHours} />
+                <LocationItem key={location.locationName} locationName={location.locationName} address={location.address} gMapLink={location.gMapLink} openingHours={location.openingHours} />
               )}
               <tr>
                 <td>website</td>
@@ -99,12 +100,13 @@ const ExhibitionItem = ({
 const LocationItem = ({
   locationName,
   address,
+  gMapLink,
   openingHours
 }: Location) => {
   return (
     <tr>
       <td className="break-word whitespace-normal align-top">{locationName}</td>
-      <td className="break-word whitespace-normal">{address} <br /> {openingHours}</td>
+      <td className="break-word whitespace-normal">{address} <br /> {openingHours} <br /> <a href={`${gMapLink}`} target='_blank'>Open in map &#10132; </a></td>
     </tr>
   )
 };

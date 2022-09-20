@@ -225,7 +225,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "6F No.127 DongMing St. Nangang Dist. Taipei City",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/rozKW9EntYSGpVrh8",
       openingHours: "by appointment only"
     }]
   },
@@ -505,12 +505,12 @@ export const GALLERIES = [
       artist: "Xu Jiong",
       showName: "2014 - 2018",
       date: "2022.08.18-2022.09.30",
-      openingDate: "By Invitation Only"
+      openingDate: "by invitation only"
     }],
     locations: [{
       locationName: "",
       address: "38 Lane 79 Sec. 2 Xinyi Rd. Taipei 100 Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/G5AE4aEPzJ9swRD57",
       openingHours: "tue-sat 12:00-19:00"
     }]
   },
@@ -545,7 +545,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "B1, No. 88, Yanchang Rd., Xinyi Dist., Taipei City 110055, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/K7L5z2raqYh1L7iw7",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -580,7 +580,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "2F, No. 45, Section 1, Ren'ai Rd, Zhongzheng District, Taipei City ",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/Q6dwRtyUvrPWVyUbA",
       openingHours: "tue-sun 13:00-20:00"
     }]
   },
@@ -595,13 +595,8 @@ export const GALLERIES = [
     locations: [{
       locationName: "isart Gallery",
       address: "No. 6, Fujin Street, Songshan District, Taipei City 105 , Taiwan",
-      gMapLink: "",
-      openingHours: "N/A"
-    }, {
-      locationName: "isart Gallery",
-      address: "No. 46, Lane 103, Section 1, Xinsheng N. Rd., Da'an District, Taipei City 106 , Taiwan",
-      gMapLink: "",
-      openingHours: "N/A"
+      gMapLink: "https://goo.gl/maps/FuFCfub9W3ZMEWsz8",
+      openingHours: "by appointment only"
     }]
   },
   {
@@ -635,7 +630,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.366, Ruiguang Rd., Neihu District, Taipei, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/64Qx4SGwyoVUv7Xa9",
       openingHours: "tue-sun 11:00-18:00"
     }]
   },
@@ -655,7 +650,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "1F, No.16, Dongfeng St., Taipei, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/2GbR6nBokdEZsNZK9",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -690,7 +685,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "10557 4F-2, NO. 21, SEC.1, DUNHUA SOUTH ROAD, TAIPEI",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/tkSLuszyg6H6oPQs8",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -710,7 +705,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "1F, No.20, Wenhu St., Neihu Dist., Taipei City 114, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://g.page/MindSetArtCenter?share",
       openingHours: "tue-sat 13:00-18:00"
     }]
   },
@@ -740,7 +735,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "3F-2, No.57. Sec.1, Dunhua South Road, Taipei 10557, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/CD5ntxqZAJV3sQjf9",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -760,7 +755,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.5, Lane 67, Section 1, Jinshan S. Rd. Zongzeng District, Taipei City, 10056 Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/8Y4DsYh1hr86q2CD8",
       openingHours: "wed-sun 12:00-19:00"
     }]
   },
@@ -795,7 +790,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.51, Dehui St., Zhongshan Dist., Taipei City 104 Taiwan",
-      gMapLink: "",
+      gMapLink: "https://g.page/galerieovo?share",
       openingHours: "wed-sat 11:00-17:30"
     }]
   },
@@ -830,7 +825,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.11, Ln. 164, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/C6wTmymtbqzi37j5A",
       openingHours: "tue-sat 10:00-19:00"
     }]
   },
@@ -850,7 +845,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "1F., No.2, Alley 45, Lane 147, Sec. 3, Sinyi Rd. Taipei 10658, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/VJGxJotCdMs1hpmS9",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -870,7 +865,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "10557, Taipei City, Songshan District, Alley 7, Lane 100, Section 1, Dunhua South Road, No.31, 1F",
-      gMapLink: "",
+      gMapLink: "https://g.page/ptt-space?share",
       openingHours: "tue-fri 12:30-18:30 sat 12:30-19:00"
     }]
   },
@@ -905,7 +900,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No. 350, Section 2, Tiding Avenue, Zhongshan District, Taipei 10462",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/ysW2bodcF7ShHFFK9",
       openingHours: "tue-sat 10:00-19:00"
     }]
   },
@@ -940,7 +935,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "8F, NO.79-1, ZHOUZI ST., NEIHU DIST., TAIPEI CITY",
-      gMapLink: "",
+      gMapLink: "https://g.page/taoartspace?share",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -960,7 +955,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "1F, No.15, Ln. 548, Ruiguang Rd., Neihu Dist., Taipei 114, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/tuMpb2zBxeYUZXz59",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -975,7 +970,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No. 111, Tianmu E Rd, Shilin District, Taipei City, Taiwan ",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/BnoG1BHsHqzTZEZN7",
       openingHours: "tue-sun 11:00-19:00"
     }]
   },
@@ -995,12 +990,12 @@ export const GALLERIES = [
     locations: [{
       locationName: "TKG+",
       address: "B1F, No.15, Ln. 548, Ruiguang Rd., Neihu Dist., Taipei 114, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/RJ5h9JRoSuDHHBat9",
       openingHours: "tue-sat 11:00-19:00"
     }, {
       locationName: "TKG+ Projects",
       address: "2F, No.15, Ln. 548, Ruiguang Rd., Neihu Dist., Taipei 114, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/RJ5h9JRoSuDHHBat9",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -1040,7 +1035,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.1, Jihu Rd., Neihu Dist., Taipei City, 114, Taiwan ",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/ZbsAN2SFPBq1p77z8",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -1070,7 +1065,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No. 310-3, Sec. 4, Ren'ai Rd., Da'an Dist., Taipei City 10693, Taiwan",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/j5fXXKKdCVaAf79W7",
       openingHours: "by appointment only"
     }]
   },
@@ -1100,12 +1095,12 @@ export const GALLERIES = [
     locations: [{
       locationName: "YIRI ARTS",
       address: "No. 1, Lane 86, Xinming Road, Neihu District, Taipei City 114030, TAIWAN",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/RCf7K3nFL5QaPyiA8",
       openingHours: "tue-sat 14:00-19:00"
     }, {
       locationName: "BACK_Y",
       address: "No.66, Xinming Road, Neihu District, Taipei City 114030, TAIWAN",
-      gMapLink: "",
+      gMapLink: "https://goo.gl/maps/CXcC47LnYQV3pwHP7",
       openingHours: "tue–sat 14:00-19:00"
     }]
   }
