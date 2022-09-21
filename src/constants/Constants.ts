@@ -389,7 +389,7 @@ export const GALLERIES = [
     englishName: "Donna Art",
     originalName: "多納藝術",
     urlName: "Donna_Art",
-    website: "www.donnaart.com.tw",
+    website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
       artist: "Sanyu",
@@ -459,7 +459,7 @@ export const GALLERIES = [
     englishName: "Dynasty Gallery",
     originalName: "朝代畫廊",
     urlName: "Dynasty_Gallery",
-    website: "dynastyart.com",
+    website: "https://dynastyart.com",
     isSeparator: false,
     exhibitions: [],
     locations: [{
@@ -569,7 +569,7 @@ export const GALLERIES = [
     englishName: "穎川畫廊",
     originalName: "In River Gallery",
     urlName: "In_River_Gallery",
-    website: "www.inriver.com.tw",
+    website: "https://www.inriver.com.tw",
     isSeparator: false,
     exhibitions: [{
       artist: "Chou Chen",
