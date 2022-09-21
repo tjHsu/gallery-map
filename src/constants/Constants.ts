@@ -216,8 +216,8 @@ export const GALLERIES = [
   },
   {
     name: "Be Fine Art Gallery 比劃比畫",
-    englishName: "比劃比畫",
-    originalName: "Be Fine Art Gallery",
+    englishName: "Be Fine Art Gallery",
+    originalName: "比劃比畫",
     urlName: "Be_Fine_Art_Gallery",
     website: "https://www.befineartgallery.com/",
     isSeparator: false,
@@ -230,10 +230,10 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "Beyong Gallery 非畫廊",
-    englishName: "Beyong Gallery",
+    name: "Beyond Gallery 非畫廊",
+    englishName: "Beyond Gallery",
     originalName: "非畫廊",
-    urlName: "Beyong_Gallery",
+    urlName: "Beyond_Gallery",
     website: "https://www.loranger.com.tw/",
     isSeparator: false,
     exhibitions: [],
@@ -566,8 +566,8 @@ export const GALLERIES = [
   },
   {
     name: "In River Gallery 穎川畫廊",
-    englishName: "穎川畫廊",
-    originalName: "In River Gallery",
+    englishName: "In River Gallery",
+    originalName: "穎川畫廊",
     urlName: "In_River_Gallery",
     website: "https://www.inriver.com.tw",
     isSeparator: false,
@@ -1079,19 +1079,19 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Chang Ting-Tong / Hui Tak-Cheun",
       showName: "Remains for those remain",
-      date: "2022.09.22 - 2022.10.05",
+      date: "2022.09.22 - 2022.10.15",
       openingDate: "2022.09.24 sat. 15:00"
     },{
       artist: "Laba",
       showName: "Love war",
-      date: "2022.09.22 - 2022.10.05",
+      date: "2022.09.22 - 2022.10.15",
       openingDate: "2022.09.24 sat. 15:00"
     },{
       artist: "Hou Chen-Lu",
       showName: "Observant Mock-Ups",
-      date: "2022.09.22 - 2022.10.05",
+      date: "2022.09.22 - 2022.10.15",
       openingDate: "2022.09.24 sat. 15:00"
-    },],
+    }],
     locations: [{
       locationName: "YIRI ARTS",
       address: "No. 1, Lane 86, Xinming Road, Neihu District, Taipei City 114030, TAIWAN",
