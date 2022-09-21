@@ -45,7 +45,7 @@ const Gallery: React.FC<GalleryDetail> = ({ gallery }) => {
     const locations = gallery.locations
     return (
       <div className="ml-5">
-        <div className="overflow-x-auto">
+        <div className="overflow-x-auto pb-14">
           <p className="text-lg ml-2">{gallery.name}</p>
           <table className="table table-compact w-full">
             <tbody>
