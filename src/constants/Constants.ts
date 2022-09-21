@@ -56,6 +56,11 @@ export const GALLERIES = [
       showName: "2022 Solo Exhibition",
       date: "2022.09.03 -2022.09.25",
       openingDate: "2022.09.03 sat 15:00"
+    },{
+      artist: "Kuo Hkun",
+      showName: "連動的視覺效應",
+      date: "2022.10.01 - 2022.10.30",
+      openingDate: "2022.10.08 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -91,6 +96,11 @@ export const GALLERIES = [
       showName: "Mist Meditation",
       date: "2022.08.12 - 2022.09.24",
       openingDate: "2022.08.12 fri 16:00"
+    },{
+      artist: "LIU Hsin Yi",
+      showName: "Writing Body",
+      date: "2022.10.01 - 2022.11.12",
+      openingDate: "2022.10.07 fri 16:00"
     }],
     locations: [{
       locationName: "",
@@ -312,6 +322,31 @@ export const GALLERIES = [
       address: "2F., No.343, Sec.4, Ren’ai Rd., Da’an Dist., Taipei, Taiwan",
       gMapLink: "https://goo.gl/maps/5K9vMCz6fj4wmUJ16",
       openingHours: "tue-sat 10:00-18:00"
+    }]
+  },
+  {
+    name: "CC Gallery",
+    englishName: "CC Gallery",
+    originalName: "CC Gallery",
+    urlName: "CC_Gallery",
+    website: "https://www.cc-gallery.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Pan Yi Chun / Liu Yu Chi",
+      showName: "Joint exhibition",
+      date: "2022.09.01 - 2022.10.01",
+      openingDate: "2022.10.03 sat 15:00"
+    },{
+      artist: "Bai Nia",
+      showName: "IS ANOTHER YOU",
+      date: "2022.10.05 - 2022.11.05",
+      openingDate: "2022.10.08 sat 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 24, Ln. 259, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan",
+      gMapLink: "https://goo.gl/maps/cBPA6VysKUg123Kf9",
+      openingHours: "tue-sat 10:00-19:30 sun 13:00-17:00"
     }]
   },
   {
@@ -821,6 +856,11 @@ export const GALLERIES = [
       showName: "Quiet Times",
       date: "2022.08.27-2022.09.24",
       openingDate: ""
+    },{
+      artist: "Hoho Lin",
+      showName: "Figure and Space",
+      date: "2022.09.08 - 2022.10.02",
+      openingDate: ""
     }],
     locations: [{
       locationName: "",
@@ -1091,6 +1131,11 @@ export const GALLERIES = [
       showName: "Observant Mock-Ups",
       date: "2022.09.22 - 2022.10.15",
       openingDate: "2022.09.24 sat. 15:00"
+    },{
+      artist: "Butaoxi",
+      showName: "The Crying Game",
+      date: "2022.09.22 - 2022.10.15",
+      openingDate: "2022.09.24 sat 15:00"
     }],
     locations: [{
       locationName: "YIRI ARTS",
