@@ -35,8 +35,13 @@ const Gallery: React.FC<GalleryDetail> = ({ gallery }) => {
       <ErrorPage statusCode={404} />
     )
   } else {
+    const exhibitions = gallery.exhibitions.filter(exhibition => {
+      const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10))
+      dateAfterClosing.setDate(dateAfterClosing.getDate() + 1);
+      const now = new Date()
+      return now < dateAfterClosing
+    })
 
-    const exhibitions = gallery.exhibitions
     const locations = gallery.locations
     return (
       <div className="ml-5">
