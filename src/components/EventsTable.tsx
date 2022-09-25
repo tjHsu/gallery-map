@@ -38,7 +38,7 @@ const TableItem = ({
   exhibitions
 }: TableItem) => {
   const currentExhibitions = exhibitions.filter(exhibition => {
-    const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10))
+    const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10).replaceAll('.','-'))
     dateAfterClosing.setDate(dateAfterClosing.getDate() + 1);
     const now = new Date()
     return now < dateAfterClosing

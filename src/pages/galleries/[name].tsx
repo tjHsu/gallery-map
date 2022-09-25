@@ -36,7 +36,7 @@ const Gallery: React.FC<GalleryDetail> = ({ gallery }) => {
     )
   } else {
     const exhibitions = gallery.exhibitions.filter(exhibition => {
-      const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10))
+      const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10).replaceAll('.','-'))
       dateAfterClosing.setDate(dateAfterClosing.getDate() + 1);
       const now = new Date()
       return now < dateAfterClosing
