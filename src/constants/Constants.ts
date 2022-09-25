@@ -1,34 +1,39 @@
 export const GALLERIES = [
-  // {
-  //   name: "3",
-  //   englishName: "",
-  // originalName: "",
-  // urlName: "",
-  // website: "",
-  //   isSeparator: true,
-  //   exhibitions: [],
-  //   locations: [{
-  //     locationName: "",
-  // address: "",
-  //     gMapLink: "",
-  // openingHours: ""
-  //   }]
-  // },
-  // {
-  //   name: "333GALLERY 333畫廊",
-  //   englishName: "",
-  // originalName: "",
-  // urlName: "",
-  // website: "https://www.instagram.com/333gallery.tw/",
-  //   isSeparator: false,
-  //   exhibitions: [],
-  //   locations: [{
-  //     locationName: "",
-  // address: "No. 130, Xinhu 2nd Rd, Neihu DistrictTaipei City, Taiwan 114",
-  //     gMapLink: "",
-  // openingHours: "tue-sat 11:00-19:00"
-  //   }]
-  // },
+  {
+    name: "3",
+    englishName: "",
+    originalName: "",
+    urlName: "",
+    website: "",
+    isSeparator: true,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "",
+      gMapLink: "",
+      openingHours: ""
+    }]
+  },
+  {
+    name: "333GALLERY 333畫廊",
+    englishName: "333GALLERY",
+    originalName: "333畫廊",
+    urlName: "333GALLERY",
+    website: "https://www.instagram.com/333gallery.tw/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "ANTAKANTA / CHIHARU KIHARA feebee / HARUKI TAJIMA / ISSEI SUZUKI / KOTARO HOSHIYAMA / SHIGEKI MATSUYAMA / NAOHISA YAMAGUCHI / RYOSUKE SAITO / SHINYA NAGASHIMA / YOSHIYUKI UMEHARA / YUKA NUMATA / YUKIKO SUGIYAMA",
+      showName: "ART and PULSE",
+      date: "2022.09.17 - 2022.10.11",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 130, Xinhu 2nd Rd, Neihu District",
+      gMapLink: "https://goo.gl/maps/HJEw5GbJVTXGsALx9",
+      openingHours: "tue-sat 11:00-19:00"
+    }]
+  },
   {
     name: "9",
     englishName: "",
@@ -45,8 +50,8 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "99 Degree ART CENTER 99度藝術中心",
-    englishName: "99 Degree ART CENTER",
+    name: "99° ART CENTER 99度藝術中心",
+    englishName: "99° ART CENTER",
     originalName: "99度藝術中心",
     urlName: "99_Degree_ART_CENTER",
     website: "https://99dac.com/",
@@ -121,6 +126,11 @@ export const GALLERIES = [
       showName: "A Blue Account",
       date: "2022.09.03-2022.09.25",
       openingDate: "2022.09.03 sat 16:00"
+    },{
+      artist: "Willy VERGINER",
+      showName: "The Lost Garden",
+      date: "2022.10.01 - 2022.10.30",
+      openingDate: "2022.10.01 sat 16:00"
     }],
     locations: [{
       locationName: "",
@@ -179,6 +189,11 @@ export const GALLERIES = [
     }, {
       artist: "Howard Fonda",
       showName: "Singing the Body Electric",
+      date: "2022.08.13 - 2022.10.09",
+      openingDate: ""
+    }, {
+      artist: "Takesada Matsutani",
+      showName: "Loop - The Asia Art Center Collection",
       date: "2022.08.13 - 2022.10.09",
       openingDate: ""
     }],
@@ -271,6 +286,11 @@ export const GALLERIES = [
       showName: "Monologue",
       date: "2022.07.09 - 2022.09.25",
       openingDate: "2022.07.09 sat 14:00"
+    }, {
+      artist: "Kari Anne Helleberg Bahri",
+      showName: "Sew Up",
+      date: "2022.10.08 - 2022.12.11",
+      openingDate: "2022.10.08 sat 17:00"
     }],
     locations: [{
       locationName: "Bluerider ART DunRen Gallery",
@@ -429,7 +449,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Sanyu",
       showName: "Prints",
-      date: "2022.09.28 - 2022.11.06",
+      date: "2022.09.28 - 2022.11.07",
       openingDate: ""
     }],
     locations: [{
@@ -556,11 +576,16 @@ export const GALLERIES = [
     urlName: "EQUAL",
     website: "http://www.facebook.com/equalartlab",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "HSU Jui-Chien / TSENG Shang Jie / HUANG YuChia / LAN Chung Hsuan / CHUEH Chiao-Han / Kung Pao-Leng",
+      showName: "its",
+      date: "2022.10.20 - 2022.10.24",
+      openingDate: "2022.10.21 fri 15:00"
+    }],
     locations: [{
       locationName: "",
-      address: "Virtual",
-      gMapLink: "",
+      address: "No. 1, Lane 29, Zhengzhou Rd, Datong District, Taipei City",
+      gMapLink: "https://goo.gl/maps/Vib2gHqVBT8zNJxA8",
       openingHours: "Virtual"
     }]
   },
@@ -576,6 +601,11 @@ export const GALLERIES = [
       showName: "Müllerian's Garden",
       date: "2022.09.03-2022.09.24 ",
       openingDate: "2022.09.03 sat 15:00"
+    },{
+      artist: "SZETO Keung / CHEN Ching-Yao / CHIU Chao-Tsai / HUANG Hai-Hsin / HUANG Yen Ying / SU Hui-Yu / Liang-Pin TSAO / YAO Jui-Chung",
+      showName: "SZETO Keung and Friends Under His Wings",
+      date: "2022.10.01 - 2022.10.29",
+      openingDate: "2022.10.01 sat 15:00"
     }],
     locations: [{
       locationName: "",
@@ -597,6 +627,26 @@ export const GALLERIES = [
       address: "",
       gMapLink: "",
       openingHours: ""
+    }]
+  },
+  {
+    name: "Imavision Gallery",
+    englishName: "Imavision Gallery",
+    originalName: "晴山藝術中心",
+    urlName: "Imavision_Gallery",
+    website: "http://www.imavision.com.tw/",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Koji Kasatani / Taro Tasaki",
+      showName: "Art Imagination through Ceramic",
+      date: "2022.10.01 - 2022.10.29",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "2F., No. 286, Sec. 7, Chengde Rd., Beitou Dist., Taipei City 112, Taiwan",
+      gMapLink: "https://goo.gl/maps/1ACVapUhASanw89A8",
+      openingHours: "tue-sat 11:00-18:30"
     }]
   },
   {
@@ -757,6 +807,26 @@ export const GALLERIES = [
       address: "",
       gMapLink: "",
       openingHours: ""
+    }]
+  },
+  {
+    name: "Neptune Gallery",
+    englishName: "Neptune Gallery",
+    originalName: "涅普頓畫廊",
+    urlName: "Neptune_Gallery",
+    website: "https://neptune-gallery.com",
+    isSeparator: false,
+    exhibitions: [{
+      artist:"Masumi YAMAMOTO / Yi Shuan WU / Yu Hua LIN / Chi Chih WANG / Jui Wen TAN",
+      showName:"The Golden River Basin of Mineral Pigments",
+      date: "2022.09.24 - 2022.10.30",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 340, Section 2, Tiding Blvd, Zhongshan DistrictTaipei City, Taiwan",
+      gMapLink: "https://goo.gl/maps/YJNViBGEijDXmTYQ7",
+      openingHours: "tue-sun 11:00-18:30"
     }]
   },
   {
