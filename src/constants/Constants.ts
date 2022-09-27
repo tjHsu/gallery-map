@@ -448,7 +448,7 @@ export const GALLERIES = [
     isSeparator: false,
     exhibitions: [{
       artist: "Sanyu",
-      showName: "Prints",
+      showName: "Blossom - Print Exhibition",
       date: "2022.09.28 - 2022.11.07",
       openingDate: ""
     }],
@@ -554,7 +554,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Xu Jiong",
       showName: "Shanshui 2022 SS",
-      date: "2022.08.30-2022.09.30",
+      date: "2022.08.30-2022.10.01",
       openingDate: "2022.09.02 17:00"
     }, {
       artist: "Xu Jiong",
