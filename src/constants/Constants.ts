@@ -261,7 +261,12 @@ export const GALLERIES = [
     urlName: "Beyond_Gallery",
     website: "https://www.loranger.com.tw/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "George Ho",
+      showName: "The Invitation from Simultaneity",
+      date: "2022.10.01 – 2022.11.26",
+      openingDate: "2022.10.01 sat 15:00"
+    }],
     locations: [{
       locationName: "",
       address: "2F, No.9, Sec. 1, Chang’an E. Rd., Taipei 104003, Taiwan",
