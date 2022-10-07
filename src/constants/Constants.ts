@@ -1,3 +1,11 @@
+/*
+{
+  artist: "",
+  showName: "",
+  date: "",
+  openingDate: ""
+},
+*/
 export const GALLERIES = [
   {
     name: "3",
@@ -166,7 +174,12 @@ export const GALLERIES = [
     urlName: "ARTDOOR_Gallery",
     website: "http://www.artdoor.com.tw/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "Jorge Rivera",
+      showName: "Decodig Light through Shapes annd Textures",
+      date: "2022.10.08 - 2022.11.06",
+      openingDate: "2022.10.08 sat 15:00"
+    }],
     locations: [{
       locationName: "",
       address: "No.36, Ln. 164, Hulin St., Xinyi Dist., Taipei City 11075, Taiwan",
@@ -395,10 +408,30 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "CHINI GALLERY 采泥藝術",
-    englishName: "CHINI GALLERY",
+    name: "Chi-Wen Gallery",
+    englishName: "Chi-Wen Gallery",
+    originalName: "Chi-Wen Gallery",
+    urlName: "Chi-Wen_Gallery",
+    website: "https://chiwengallery.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Lin Yu-Sheng",
+      showName: "God-Men Screening | 24-7-holics Anonymous Association",
+      date: "2022.10.02 - 2022.10.23",
+      openingDate: "2022.10.02 sat 16:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 32, Ln 2, Sec. 6, Zhongshan N. Rd. Shilin Dist., Taipei 11155, Taiwan",
+      gMapLink: "https://goo.gl/maps/4Y8qNWCB1ms6hjKSA",
+      openingHours: "tue-sat 11:00-18:00 by appointment"
+    }]
+  },
+  {
+    name: "Chini Gallery 采泥藝術",
+    englishName: "Cchini Gallery",
     originalName: "采泥藝術",
-    urlName: "CHINI_GALLERY",
+    urlName: "Chini_Gallery",
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
@@ -406,6 +439,11 @@ export const GALLERIES = [
       showName: "Re-sensing the Cosmos",
       date: "2022.08.20 - 2022.10.02",
       openingDate: "2022.08.20 sat 14:30 / 2022.09.24 sat 15:00"
+    },{
+      artist: "Jo Hsieh",
+      showName: "The Blue Overture",
+      date: "2022.10.08 - 2022.11.20",
+      openingDate: "2022.10.08 sat 14:00"
     }],
     locations: [{
       locationName: "",
@@ -927,6 +965,11 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Che Han Sheng",
+      showName: "Isn't it a Beautiful Meadow?",
+      date: "2022.10.15 - 2022.11.05",
+      openingDate: ""
+    },{
       artist: "CHENG Chung-chuan",
       showName: "Quiet Times",
       date: "2022.08.27-2022.09.24",
@@ -956,6 +999,11 @@ export const GALLERIES = [
       showName: "Planet Traveler and Its Broken Song",
       date: "2022.08.06-2022.09.24",
       openingDate: ""
+    },{
+      artist: "Y2K: Chou Chiao-Chi & Hu You-Yang",
+      showName: "Lighthesis",
+      date: "2022.10.16 - 2022.11.19",
+      openingDate: "2022.10.16 sun 14:00"
     }],
     locations: [{
       locationName: "",
@@ -1176,7 +1224,12 @@ export const GALLERIES = [
     urlName: "YANG_ARTS",
     website: "https://yang-arts.com/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "Ayako Ishiba / Daisuke Yokota / Ken Kitano / Kohei Kobayashi / Mika Ninagawa / Nara Yoshitomo / Nobuyoshi Araki / Rika Noguchi / Sadaharu Horio / Shiho Yoshida / Takashi Homma / Taisuke Koyama / Thomas Struth / Yoichi Umetsu",
+      showName: "芃 How lush the world is, how full of things that don't belong to me",
+      date: "2022.10.15 2022.12.15",
+      openingDate: ""
+    }],
     locations: [{
       locationName: "",
       address: "No. 310-3, Sec. 4, Ren'ai Rd., Da'an Dist., Taipei City 10693, Taiwan",
