@@ -840,6 +840,11 @@ export const GALLERIES = [
     website: "https://michaelkugallery.com/en/home/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chiang Hsin & Nick Dong",
+      showName: "40 Years Since",
+      date: "2022.11.05 - 2023.02.05",
+      openingDate: "2022.11.05 sat. 19:00"
+    },{
       artist: "Wei Jia",
       showName: "Strenuous Journey II",
       date: "2022.07.10-2022.09.25",
