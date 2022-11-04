@@ -65,6 +65,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Cheng Hung-Chang & Kuo Cheng-San",
+      showName: "2022 Human White Paper",
+      date: "2022.11.05 - 2022.11.27",
+      openingDate: "2022.11.05 sat. 14:00"
+    },{
       artist: "Jan Chin Shui",
       showName: "2022 Solo Exhibition",
       date: "2022.09.03 -2022.09.25",
@@ -130,6 +135,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Marc Desgrandchamp",
+      showName: "Ephemeral memories",
+      date: "2022.11.05 - 2022.12.04",
+      openingDate: "2022.11.05 sat. 16:00"
+    },{
       artist: "Chien-Chiang HUA",
       showName: "A Blue Account",
       date: "2022.09.03-2022.09.25",
@@ -225,6 +235,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Dennis HWANG",
+      showName: "Surface Beyond",
+      date: "2022.10.05 - 2022.12.04",
+      openingDate: "2022.10.08 sat 15:00"
+    },{
       artist: "Pei-Jyun Lin",
       showName: "Kawaii Generation",
       date: "2022.09.08-2022.10.02",
@@ -295,6 +310,11 @@ export const GALLERIES = [
     website: "https://blueriderart.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various Artists",
+      showName: "Autumn 22",
+      date: "2022.10.27 - 2023.01.31",
+      openingDate: ""
+    },{
       artist: "Desire Obtain Cherish/ Nick Veasey/ Pascal Dombis/ Jan Kalab/ Christiane Grimm/ Jonathan Rosen",
       showName: "When the Wind Blows",
       date: "2022.08.26 - 2022.09.25",
@@ -397,7 +417,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Giancarlo Tognoni",
       showName: "1932",
-      date: "2022.10.11 - 2023.02.02",
+      date: "2022.10.11 - 2023.02.08",
       openingDate: "2022.10.20 thur 15:00"
     }],
     locations: [{
@@ -429,7 +449,7 @@ export const GALLERIES = [
   },
   {
     name: "Chini Gallery 采泥藝術",
-    englishName: "Cchini Gallery",
+    englishName: "Chini Gallery",
     originalName: "采泥藝術",
     urlName: "Chini_Gallery",
     website: "https://www.chinigallery.com/",
@@ -535,6 +555,11 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Fang Fang - Che Chien-Jung",
+      showName: "Along the Objects",
+      date: "2022.11.12 - 2022.12.24",
+      openingDate: "2022.11.12 sat. 15:00"
+    },{
       artist: "Juan Zamora",
       showName: "The Broken Seas",
       date: "2022.09.13-2022.10.29",
@@ -595,11 +620,16 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Antone Könst",
+      showName: "Sirens",
+      date: "2022.10.22 - 2022.11.26",
+      openingDate: "2022.10.22 sat 15:00"
+    },{
       artist: "Xu Jiong",
       showName: "Shanshui 2022 SS",
       date: "2022.08.30-2022.10.01",
       openingDate: "2022.09.02 17:00"
-    }, {
+    },{
       artist: "Xu Jiong",
       showName: "2014 - 2018",
       date: "2022.08.18-2022.09.30",
@@ -640,6 +670,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Mei Ling WANG",
+      showName: "Solo Exhibition",
+      date: "2022.11.05 - 2022.11.26",
+      openingDate: "2022.11.05 sat. 15:00"
+    },{
       artist: "LIU Shih-Fen",
       showName: "Müllerian's Garden",
       date: "2022.09.03-2022.09.24 ",
@@ -825,6 +860,11 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "TANG Jo-Hung",
+      showName: "As You Sleep Worry-Free",
+      date: "2022.11.12 - 2022.12.24",
+      openingDate: "2022.11.12 sat. 15:00"
+    },{
       artist: "Rui Miguel Leitão FERREIRA / Rao FU / LEE Jo-Mei / LIN Chuan-Chu / Mia LIU / JHONG Jiang-Ze / SHI Jin-Hua / SHI Jinsong / Juin SHIEH / TZENG Yong-Ning / YANG Yu-Ning / CHOU Kai-Lun",
       showName: "Variation: A Contemporary Group Exhibition",
       date: "2022.09.17-2022.10.22",
@@ -895,6 +935,11 @@ export const GALLERIES = [
     website: "https://www.nunufineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Rosy Keyser",
+      showName: "I'll Fly Away",
+      date: "2022.11.05 - 2022.12.25",
+      openingDate: "2022.11.05 sat. 17:00"
+    },{
       artist: "Kees Goudzwaard",
       showName: "In Progress",
       date: "2022.09.11 - 2022.10.30",
@@ -1020,6 +1065,11 @@ export const GALLERIES = [
     website: "https://www.pttspace.com/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "David Noro",
+      showName: "When The Night Mocks You",
+      date: "2022.10.22 - 2022.12.02",
+      openingDate: "2022.10.22 sat 16:00"
+    },{
       artist: "Wang Yi, Ju Ting / Hsieh Yu-Cheng​",
       showName: "Light is A verb​",
       date: "2022.09.08 - 2022.10.15",
@@ -1055,6 +1105,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "IIDA Kiriko",
+      showName: "Time is Silent",
+      date: "2022.11.05 - 2022.12.24",
+      openingDate: "2022.11.05 sat. 16:00"
+    },{
       artist: "LIN Bao Ling",
       showName: "The Light of Freedom",
       date: "2022.09.03 - 2022.10.29",
@@ -1090,6 +1145,11 @@ export const GALLERIES = [
     website: "https://www.taoartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jacky Tsai",
+      showName: "A Floating Life - Rhapsody",
+      date: "2022.10.21 - 2022.11.26",
+      openingDate: "2022.10.21 fri 16:00"
+    },{
       artist: "Manuel Stehli",
       showName: "in its place",
       date: "2022.08.20-2022.10.08",
@@ -1110,6 +1170,11 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Sopheap Pich",
+      showName: "Walking the Woods",
+      date: "2022.11.05 - 2023.01.07",
+      openingDate: "2022.11.05 sat. 16:30"
+    },{
       artist: "Jenny Chen",
       showName: "Order in Chaos",
       date: "2022.08.06-2022.10.22",
@@ -1145,6 +1210,16 @@ export const GALLERIES = [
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kong Chun Hei",
+      showName: "Absent Minded",
+      date: "2022.11.05 - 2023.01.07",
+      openingDate: "2022.11.05 sat. 16:30"
+    },{
+      artist: "Minia Biabiany / En-Man Chang / Naomi Rincón Gallardo",
+      showName: "How to Sing Our Songs on Their Land",
+      date: "2022.11.05 - 2023.01.07",
+      openingDate: "2022.11.05 sat. 16:30"
+    },{
       artist: "Wu Chi-Yu",
       showName: "The Epoch of Other Things",
       date: "2022.08.27-2022.10.22",
@@ -1245,6 +1320,11 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Sung Chih",
+      showName: "Elsewhere",
+      date: "2022.11.10 - 2022.12.03",
+      openingDate: "2022.11.12 sat. 16:00"
+    },{
       artist: "Chang Ting-Tong / Hui Tak-Cheun",
       showName: "Remains for those remain",
       date: "2022.09.22 - 2022.10.15",
