@@ -30,6 +30,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Juwin",
+      showName: "Non-stop Beating",
+      date: "2022.11.05 - 2022.11.26",
+      openingDate: ""
+    },{
       artist: "ANTAKANTA / CHIHARU KIHARA feebee / HARUKI TAJIMA / ISSEI SUZUKI / KOTARO HOSHIYAMA / SHIGEKI MATSUYAMA / NAOHISA YAMAGUCHI / RYOSUKE SAITO / SHINYA NAGASHIMA / YOSHIYUKI UMEHARA / YUKA NUMATA / YUKIKO SUGIYAMA",
       showName: "ART and PULSE",
       date: "2022.09.17 - 2022.10.11",
@@ -65,6 +70,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Tzu-Yu",
+      showName: "The Creation of Plant Modules",
+      date: "2022.12.03 - 2022.12.28",
+      openingDate: "2022.12.10 sat. 15:00"
+    },{
       artist: "Cheng Hung-Chang & Kuo Cheng-San",
       showName: "2022 Human White Paper",
       date: "2022.11.05 - 2022.11.27",
@@ -110,6 +120,11 @@ export const GALLERIES = [
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LI Cheng Hsun",
+      showName: "Properties Properties ",
+      date: "2022.11.18 - 2023.01.07",
+      openingDate: "2022.11.18 fri. 16:00"
+    },{
       artist: "Li Fei Wen",
       showName: "Mist Meditation",
       date: "2022.08.12 - 2022.09.24",
@@ -165,6 +180,11 @@ export const GALLERIES = [
     website: "http://www.artgalleryapollo.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yosifu & Yabun Yuma",
+      showName: "Joint Exhibition",
+      date: "2022.12.17 - 2023.01.19",
+      openingDate: "2022.12.17 sat. 15:00"
+    },{
       artist: "Xiao Ru-Song",
       showName: "A memorial exhibition for Xiao Ru-Song's 100th birthday",
       date: "2022.08.27 - 2022.10.15",
@@ -237,7 +257,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Dennis HWANG",
       showName: "Surface Beyond",
-      date: "2022.10.05 - 2022.12.04",
+      date: "2022.10.05 - 2022.12.10",
       openingDate: "2022.10.08 sat 15:00"
     },{
       artist: "Pei-Jyun Lin",
@@ -374,7 +394,12 @@ export const GALLERIES = [
     urlName: "Capital_Art_Center",
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "Akiko Noguchi / Hanaki Kaneda / Hiroko Takahashi / HUIT / Keisuke Oda / Okada Mariko / Shimi / Tamaho Togasaki / Muraki Noriyuki",
+      showName: "Japanese Contemproray Art Exhibition",
+      date: "2022.11.08 - 2022.12.03",
+      openingDate: ""
+    }],
     locations: [{
       locationName: "",
       address: "2F., No.343, Sec.4, Ren’ai Rd., Da’an Dist., Taipei, Taiwan",
@@ -390,6 +415,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Wang Mei Ling / Chen Yi Long",
+      showName: "Duo Exhibition",
+      date: "2022.11.08 - 2022.12.03",
+      openingDate: ""
+    },{
       artist: "Pan Yi Chun / Liu Yu Chi",
       showName: "Joint exhibition",
       date: "2022.09.01 - 2022.10.01",
@@ -455,6 +485,11 @@ export const GALLERIES = [
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Song Sheau-Ming",
+      showName: "Concrete Poetry",
+      date: "2022.11.26 - 2023.01.08",
+      openingDate: "2022.12.04 sun. 16:30"
+    },{
       artist: "Nick DONG / CHANG Yung-Ta",
       showName: "Re-sensing the Cosmos",
       date: "2022.08.20 - 2022.10.02",
@@ -479,7 +514,12 @@ export const GALLERIES = [
     urlName: "Cloud_Gallery",
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "Hung Hsin / Rayna Chen / Wei Ting Tsai / Hsu Yu Hsin / Tseng Tzu-Ting / Lin Chun-Fang / Hsu Ching-Yu / Hsin-Chiun Ko / Peng Cian-You / Chang Hao Yu / Huang Chih-Wei",
+      showName: "Petit secret de dix",
+      date: "2022.11.12 - 2022.12.11",
+      openingDate: ""
+    },],
     locations: [{
       locationName: "",
       address: "No. 471, Mingshui Rd, Zhongshan District, Taipei City",
@@ -510,6 +550,16 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kang Dong Hyun",
+      showName: "Forest of Coexistence",
+      date: "2022.11.02 - 2022.12.04",
+      openingDate: ""
+    },{
+      artist: "Chou Cheng-Wei",
+      showName: "Telling Stories",
+      date: "2022.12.07 - 2023.01.08",
+      openingDate: "2022.12.11 sun. 15:00"
+    },{
       artist: "Sanyu",
       showName: "Blossom - Print Exhibition",
       date: "2022.09.28 - 2022.11.07",
@@ -555,8 +605,13 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yeh Shih-Chiang / Cynthia Sah / Yang Mao-Lin / Huang Hung-De / Hsiao Sheng-Chien / Tsui Kuang-Yu / Isa Ho / Chou Chu-Wang / Moritz Partenheimer / Akiyama Izumi / Chen Wan-Jen",
+      showName: "Along the objects",
+      date: "2022.11.12 - 2022.12.24",
+      openingDate: "2022.11.12 sat. 15:00"
+    },{
       artist: "Fang Fang - Che Chien-Jung",
-      showName: "Along the Objects",
+      showName: "Solo Exhibition",
       date: "2022.11.12 - 2022.12.24",
       openingDate: "2022.11.12 sat. 15:00"
     },{
@@ -620,6 +675,11 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tseng ChienYing",
+      showName: "Skin Depth",
+      date: "2022.12.03 - 2022.12.30",
+      openingDate: "2022.12.03 sat. 15:00"
+    },{
       artist: "Antone Könst",
       showName: "Sirens",
       date: "2022.10.22 - 2022.11.26",
@@ -670,6 +730,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "TSONG Pu",
+      showName: "Distant Proximity",
+      date: "2022.12.03 - 2022.12.31",
+      openingDate: ""
+    },{
       artist: "Mei Ling WANG",
       showName: "Solo Exhibition",
       date: "2022.11.05 - 2022.11.26",
@@ -715,6 +780,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hin-Yao Tseng",
+      showName: "Ephemeral and Renewal",
+      date: "2022.12.03 - 2022.12.31",
+      openingDate: "2022.12.03 sat. 15:00"
+    },{
       artist:"Koji Kasatani / Taro Tasaki",
       showName: "Art Imagination through Ceramic",
       date: "2022.10.01 - 2022.10.29",
@@ -735,6 +805,11 @@ export const GALLERIES = [
     website: "https://www.inriver.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Liu Hsin Yi",
+      showName: "Distant Forest",
+      date: "2022.11.12 2022.12.31",
+      openingDate: ""
+    },{
       artist: "Chou Chen",
       showName: "Transformation",
       date: "2022.10.01 - 2022.11.03",
@@ -745,6 +820,26 @@ export const GALLERIES = [
       address: "2F, No. 45, Section 1, Ren'ai Rd, Zhongzheng District, Taipei City ",
       gMapLink: "https://goo.gl/maps/Q6dwRtyUvrPWVyUbA",
       openingHours: "tue-sun 13:00-20:00"
+    }]
+  },
+  {
+    name: "InSian Gallery 印象畫廊",
+    englishName: "InSian Gallery",
+    originalName: "印象畫廊",
+    urlName: "Insian_Gallery",
+    website: "https://www.insiangallery.com/en/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Hin-Yao Tseng",
+      showName: "Ephemeral and Renewal",
+      date: "2022.12.03 - 2022.12.31",
+      openingDate: "2022.12.03 sat. 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.46, Sec. 4, Ren'ai Rd., Da'an Dist., Taipei City 106",
+      gMapLink: "https://goo.gl/maps/1veAhMVLvYKbEw8J7",
+      openingHours: "mon-sat 11:00-20:00 sun 10:30-19:00"
     }]
   },
   {
@@ -805,6 +900,11 @@ export const GALLERIES = [
     website: "http://www.linlingallery.com/eng/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Liu Shih-Tung",
+      showName: "Yūgen: Thee Hidden Grace",
+      date: "2022.12.10 - 2023.02.25",
+      openingDate: "2022.12.10 sat. 16:00"
+    },{
       artist: "Wu Meng-Chang/ Wang Ya-Hui/ Zhao Zhao",
       showName: "Śūnyatā_Being at Liberty",
       date: "2022.09.03-2022.11.19",
@@ -865,6 +965,11 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Shinji Ohmaki",
+      showName: "Flotage-Techonics",
+      date: "2022.11.12 - 2022.12.24",
+      openingDate: ""
+    },{
       artist: "TANG Jo-Hung",
       showName: "As You Sleep Worry-Free",
       date: "2022.11.12 - 2022.12.24",
@@ -905,6 +1010,11 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yuta Tamura",
+      showName: "Solo Exhibition",
+      date: "2022.11.18 - 2022.12.04",
+      openingDate: ""
+    },{
       artist:"Masumi YAMAMOTO / Yi Shuan WU / Yu Hua LIN / Chi Chih WANG / Jui Wen TAN",
       showName:"The Golden River Basin of Mineral Pigments",
       date: "2022.09.24 - 2022.10.30",
@@ -980,6 +1090,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Diren Lee",
+      showName: "Soul Mate",
+      date: "2022.11.30 - 2022.12.17",
+      openingDate: ""
+    },{
       artist: "Blic",
       showName: "Shēng Xiào",
       date: "2022.09.21 - 2022.10.08",
@@ -1015,6 +1130,11 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Liú Yung-Jen",
+      showName: "Cruising Alone in Painting",
+      date: "2022.11.19 - 2022.12.17",
+      openingDate: "2022.11.19 sat. 15:00"
+    },{
       artist: "Che Han Sheng",
       showName: "Isn't it a Beautiful Meadow?",
       date: "2022.10.15 - 2022.11.05",
@@ -1325,6 +1445,16 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Taichi Nakamura",
+      showName: "Sleepwalking",
+      date: "2022.11.10 - 2022.12.03",
+      openingDate: "2022.11.12 sat. 16:00"
+    },{
+      artist: "HOU Chen-Lu / Tetsuya ISHIYAMA / Yasuhiro MARUO / Takahiro MATSUMOTO / Shoko MIHIRA / ONG Hong-Chuan / Tomoya SAKAI",
+      showName: "Freak",
+      date: "2022.11.10 - 2022.12.03",
+      openingDate: "2022.11.12 sat. 16:00"
+    },{
       artist: "Chen Sung Chih",
       showName: "Elsewhere",
       date: "2022.11.10 - 2022.12.03",
