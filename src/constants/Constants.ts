@@ -807,7 +807,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Liu Hsin Yi",
       showName: "Distant Forest",
-      date: "2022.11.12 2022.12.31",
+      date: "2022.11.12 - 2022.12.31",
       openingDate: ""
     },{
       artist: "Chou Chen",
@@ -1427,7 +1427,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Ayako Ishiba / Daisuke Yokota / Ken Kitano / Kohei Kobayashi / Mika Ninagawa / Nara Yoshitomo / Nobuyoshi Araki / Rika Noguchi / Sadaharu Horio / Shiho Yoshida / Takashi Homma / Taisuke Koyama / Thomas Struth / Yoichi Umetsu",
       showName: "芃 How lush the world is, how full of things that don't belong to me",
-      date: "2022.10.15 2022.12.15",
+      date: "2022.10.15 - 2022.12.15",
       openingDate: ""
     }],
     locations: [{
