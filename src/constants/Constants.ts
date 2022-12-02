@@ -830,9 +830,9 @@ export const GALLERIES = [
     website: "https://www.insiangallery.com/en/",
     isSeparator: false,
     exhibitions: [{
-      artist: "Hin-Yao Tseng",
-      showName: "Ephemeral and Renewal",
-      date: "2022.12.03 - 2022.12.31",
+      artist: "Yang San Lang",
+      showName: "The Pioneering Era of Taiwan Art History",
+      date: "2022.12.03 - 2022.12.22",
       openingDate: "2022.12.03 sat. 15:00"
     }],
     locations: [{
