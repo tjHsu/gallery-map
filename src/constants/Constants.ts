@@ -30,6 +30,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ryosuke Misawa",
+      showName: "Tracing the Night",
+      date: "2022.12.10 - 2023.01.18",
+      openingDate: ""
+    },{
       artist: "Juwin",
       showName: "Non-stop Beating",
       date: "2022.11.05 - 2022.11.26",
@@ -255,6 +260,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yu-Hung Cheng",
+      showName: "I Have a Restless Soul",
+      date: "2022.12.15 - 2022.02.19",
+      openingDate: ""
+    },{
       artist: "Dennis HWANG",
       showName: "Surface Beyond",
       date: "2022.10.05 - 2022.12.10",
@@ -310,6 +320,16 @@ export const GALLERIES = [
     website: "https://www.loranger.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jiun-yang LI & En-tzu CHANG",
+      showName: "Duo Exhibition",
+      date: "2022.12.17 - 2023.02.18",
+      openingDate: ""
+    },{
+      artist: "HUNG YI",
+      showName: "Drawing",
+      date: "2022.12.17 - 2023.02.18",
+      openingDate: ""
+    },{
       artist: "George Ho",
       showName: "The Invitation from Simultaneity",
       date: "2022.10.01 – 2022.11.26",
@@ -330,6 +350,11 @@ export const GALLERIES = [
     website: "https://blueriderart.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ramiro Smith Estrada & Rine Boyer",
+      showName: "Profile Picture",
+      date: "2022.12.24 - 2023.02.19",
+      openingDate: "2022.12.24 sat. 17:00"
+    },{
       artist: "Various Artists",
       showName: "Autumn 22",
       date: "2022.10.27 - 2023.01.31",
@@ -415,6 +440,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "ALDRIN C. TAMIDLES",
+      showName: "Unluck",
+      date: "2022.12.12 - 2022.12.31",
+      openingDate: ""
+    },{
       artist: "Wang Mei Ling / Chen Yi Long",
       showName: "Duo Exhibition",
       date: "2022.11.08 - 2022.12.03",
@@ -465,6 +495,11 @@ export const GALLERIES = [
     website: "https://chiwengallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tao Hui & Yu Cheng-Ta & Bruce Yonemoto",
+      showName: "Rhapsody Unchained",
+      date: "2022.12.17 - 2023.01.20",
+      openingDate: ""
+    },{
       artist: "Lin Yu-Sheng",
       showName: "God-Men Screening | 24-7-holics Anonymous Association",
       date: "2022.10.02 - 2022.10.23",
@@ -515,6 +550,11 @@ export const GALLERIES = [
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Louise Yi",
+      showName: "Solo Exhibition",
+      date: "2022.12.24 - 2023.01.15",
+      openingDate: "2022.12.24 sat. 15:00"
+    },{
       artist: "Hung Hsin / Rayna Chen / Wei Ting Tsai / Hsu Yu Hsin / Tseng Tzu-Ting / Lin Chun-Fang / Hsu Ching-Yu / Hsin-Chiun Ko / Peng Cian-You / Chang Hao Yu / Huang Chih-Wei",
       showName: "Petit secret de dix",
       date: "2022.11.12 - 2022.12.11",
@@ -703,6 +743,26 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "Elsa Gallery 雲清藝術",
+    englishName: "Elsa Gallery",
+    originalName: "雲清藝術",
+    urlName: "Elsa_Gallery",
+    website: "https://elsaart.com.tw/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Okubo Naomi",
+      showName: "Closely Glazed Spaces",
+      date: "2022.12.17 - 2023.01.07",
+      openingDate: "2022.12.17 sat. 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 35, Leli Rd., Daan Dist., Taipei City 106, Taiwan ",
+      gMapLink: "https://goo.gl/maps/Trk5uaNF6ZxQaiETA",
+      openingHours: "tue-sat 12:00-19:00"
+    }]
+  },
+  {
     name: "EQUAL 等號",
     englishName: "EQUAL",
     originalName: "等號",
@@ -755,6 +815,41 @@ export const GALLERIES = [
       address: "B1, No. 88, Yanchang Rd., Xinyi Dist., Taipei City 110055, Taiwan",
       gMapLink: "https://goo.gl/maps/K7L5z2raqYh1L7iw7",
       openingHours: "tue-sat 11:00-19:00"
+    }]
+  },
+  {
+    name: "H",
+    englishName: "",
+    originalName: "",
+    urlName: "",
+    website: "",
+    isSeparator: true,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "",
+      gMapLink: "",
+      openingHours: ""
+    }]
+  },
+  {
+    name: "Hiro Hiro Art Space",
+    englishName: "Hiro Hiro Art Space",
+    originalName: "Hiro Hiro Art Space",
+    urlName: "Hiro_Hiro_Art_Space",
+    website: "https://hirohiroartspace.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Crystal Lupa",
+      showName: "The Unspoken Tales",
+      date: "2022.12.10 - 2023.01.15",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.10, Shausing S. St., Taipei, Taiwan",
+      gMapLink: "https://goo.gl/maps/muqikrZNrxyN6Azz9",
+      openingHours: "tue-sun 11:00-19:30"
     }]
   },
   {
@@ -1010,6 +1105,11 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Masumi Yamamoto",
+      showName: "Solo. Exhibition",
+      date: "2022.12.10 - 2023.01.31",
+      openingDate: ""
+    },{
       artist: "Yuta Tamura",
       showName: "Solo Exhibition",
       date: "2022.11.18 - 2022.12.04",
@@ -1130,6 +1230,11 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "HUANG Poren",
+      showName: "New & Classics",
+      date: "2022.12.23 - 2023.20.18",
+      openingDate: ""
+    },{
       artist: "Liú Yung-Jen",
       showName: "Cruising Alone in Painting",
       date: "2022.11.19 - 2022.12.17",
@@ -1190,6 +1295,11 @@ export const GALLERIES = [
     website: "https://www.pttspace.com/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Huang Xuan",
+      showName: "Space Out",
+      date: "2022.12.24 - 2023.02.14",
+      openingDate: "2022.12.24 sat. 16:00"
+    },{
       artist: "David Noro",
       showName: "When The Night Mocks You",
       date: "2022.10.22 - 2022.12.02",
@@ -1205,6 +1315,26 @@ export const GALLERIES = [
       address: "10557, Taipei City, Songshan District, Alley 7, Lane 100, Section 1, Dunhua South Road, No.31, 1F",
       gMapLink: "https://g.page/ptt-space?share",
       openingHours: "tue-fri 12:30-18:30 sat 12:30-19:00"
+    }]
+  },
+  {
+    name: "Red Gold Fine Art 赤粒藝術",
+    englishName: "Red Gold Fine Art",
+    originalName: "赤粒藝術",
+    urlName: "",
+    website: "http://www.redgoldfineart.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Ruan Weng-Mong",
+      showName: "Eco Echo",
+      date: "2022.11.19 - 2023.12.31",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.15, Ln. 116, Sec. 1, Da’an Rd., Da’an Dist., Taipei City 10685, Taiwan",
+      gMapLink: "https://goo.gl/maps/jPSpuTwJQbSvvdqN9",
+      openingHours: "tue-sun 11:00-19:00"
     }]
   },
   {
@@ -1385,6 +1515,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "K. Tsai CAI",
+      showName: "Always for You",
+      date: "2022.12.16 - 2023.02.04",
+      openingDate: "2022.12.16 fri. 16:00"
+    },{
       artist: "YANG YONGLIANG",
       showName: "Imagined Landscape",
       date: "2022.08.13-2022.10.01",
@@ -1445,6 +1580,21 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chiu Huai-Hsuan",
+      showName: "The Hidden Traces in the Tree",
+      date: "2022.12.15 - 2023.01.07",
+      openingDate: "2022.12.17 sat. 15:00"
+    },{
+      artist: "Maru Quiñonero",
+      showName: "CONN RUIDO, NO VEO.",
+      date: "2022.12.15 - 2023.01.07",
+      openingDate: "2022.12.17 sat. 15:00"
+    },{
+      artist: "Kyoko Shindo",
+      showName: "Flowing, Slowly, Deeply",
+      date: "2022.12.15 - 2023.01.07",
+      openingDate: "2022.12.17 sat. 15:00"
+    },{
       artist: "Taichi Nakamura",
       showName: "Sleepwalking",
       date: "2022.11.10 - 2022.12.03",
