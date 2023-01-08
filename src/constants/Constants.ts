@@ -75,6 +75,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hsieh Chia-Heng",
+      showName: "Solo Exhibition",
+      date: "2023.01.07 - 2023.02.26",
+      openingDate: "2023.01.07 sat. 15:00"
+    },{
       artist: "Chen Tzu-Yu",
       showName: "The Creation of Plant Modules",
       date: "2022.12.03 - 2022.12.28",
@@ -235,6 +240,21 @@ export const GALLERIES = [
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Michelle Blade",
+      showName: "Maker of Meaning",
+      date: "2023.01.07 - 2023.02.26",
+      openingDate: "2023.01.07 sat 16:00"
+    },{
+      artist: "Claire Colette",
+      showName: "Desiring-Machines",
+      date: "2023.01.07 - 2023.02.26",
+      openingDate: "2023.01.07 sat 16:00"
+    },{
+      artist: "Kayla Mattes",
+      showName: "Cute Cat Theory",
+      date: "2023.01.07 - 2023.02.26",
+      openingDate: "2023.01.07 sat 16:00"
+    }, {
       artist: "Gao Xingjian",
       showName: "Where spirit dwells on",
       date: "2022.08.13 - 2022.10.09",
@@ -445,6 +465,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Zhang Jian",
+      showName: "Wood Scupture Solo Exhibition",
+      date: "2023.01.04 - 2023.02.04",
+      openingDate: ""
+    },{
       artist: "ALDRIN C. TAMIDLES",
       showName: "Unluck",
       date: "2022.12.12 - 2022.12.31",
@@ -595,6 +620,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tsai Ming Tsan",
+      showName: "The Pleasant Days",
+      date: "2023.01.11 - 2023.02.05",
+      openingDate: "2023.01.15 sun 14:00"
+    },{
       artist: "Kang Dong Hyun",
       showName: "Forest of Coexistence",
       date: "2022.11.02 - 2022.12.04",
@@ -650,6 +680,21 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Ching-Yao / Tsui Kuang-Yu / Huang Hai-Hsin / Chenn Wan-Jen",
+      showName: "#Facts About Me That My Surprise You",
+      date: "2023.01.07 - 2023.02.25",
+      openingDate: "2023.01.07 sat. 15:00"
+    },{
+      artist: "Lee Jo-Mei",
+      showName: "The Lithe Return",
+      date: "2023.01.07 - 2023.02.25",
+      openingDate: "2023.01.07 sat. 15:00"
+    },{
+      artist: "Huang Li-Ying",
+      showName: "Surpass",
+      date: "2023.01.07 - 2023.02.25",
+      openingDate: "2023.01.07 sat. 15:00"
+    },{
       artist: "Yeh Shih-Chiang / Cynthia Sah / Yang Mao-Lin / Huang Hung-De / Hsiao Sheng-Chien / Tsui Kuang-Yu / Isa Ho / Chou Chu-Wang / Moritz Partenheimer / Akiyama Izumi / Chen Wan-Jen",
       showName: "Along the objects",
       date: "2022.11.12 - 2022.12.24",
@@ -720,6 +765,11 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Araki Nobuyoshi / Nakahira Takuma",
+      showName: "OKINAWA",
+      date: "2023.01.10 - 2023.02.18",
+      openingDate: ""
+    },{
       artist: "Tseng ChienYing",
       showName: "Skin Depth",
       date: "2022.12.03 - 2022.12.30",
@@ -910,6 +960,11 @@ export const GALLERIES = [
     website: "https://www.inriver.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen San / Yu Chuan / Chou Chen / Liu Hsin Yi",
+      showName: "Group Exhibition",
+      date: "2023.01.10 - 2023.02.26",
+      openingDate: ""
+    },{
       artist: "Liu Hsin Yi",
       showName: "Distant Forest",
       date: "2022.11.12 - 2022.12.31",
@@ -985,6 +1040,11 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lee Zai-Qian / Hsu YungHsu",
+      showName: "A Dialoguee Between Strength and Genntleness",
+      date: "2022.10.29-2023.01.18",
+      openingDate: ""
+    },{
       artist: "Lee YANG",
       showName: "Wonderful Life",
       date: "2022.09.03-2022.10.02",
@@ -1070,6 +1130,16 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chihhung Liu",
+      showName: "SERPENT",
+      date: "2023.01.07 - 2023.02.24",
+      openingDate: ""
+    },{
+      artist: "Marina Cruz",
+      showName: "Fabric, Interior and Water",
+      date: "2023.01.07 - 2023.02.24",
+      openingDate: ""
+    },{
       artist: "Shinji Ohmaki",
       showName: "Flotage-Techonics",
       date: "2022.11.12 - 2022.12.24",
@@ -1160,6 +1230,11 @@ export const GALLERIES = [
     website: "https://www.nunufineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kaspar Bonnén",
+      showName: "This Is not a Text",
+      date: "2022.12.23 - 2023.02.17",
+      openingDate: ""
+    },{
       artist: "Rosy Keyser",
       showName: "I'll Fly Away",
       date: "2022.11.05 - 2022.12.25",
@@ -1242,7 +1317,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "HUANG Poren",
       showName: "New & Classics",
-      date: "2022.12.23 - 2023.20.18",
+      date: "2022.12.23 - 2023.02.18",
       openingDate: ""
     },{
       artist: "Liú Yung-Jen",
@@ -1280,6 +1355,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "ZHANG XU ZHAN",
+      showName: "Jungle Jungle homecoming exhibition",
+      date: "2022.12.17-2023.01.14",
+      openingDate: ""
+    },{
       artist: "Au Sow Yee",
       showName: "Planet Traveler and Its Broken Song",
       date: "2022.08.06-2022.09.24",
@@ -1335,9 +1415,14 @@ export const GALLERIES = [
     website: "http://www.redgoldfineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LEE Mau-Cheng",
+      showName: "Selected Calligraphy",
+      date: "2023.01.07 - 2023.02.25",
+      openingDate: ""
+    },{
       artist: "Ruan Weng-Mong",
       showName: "Eco Echo",
-      date: "2022.11.19 - 2023.12.31",
+      date: "2022.11.19 - 2022.12.31",
       openingDate: ""
     }],
     locations: [{
@@ -1370,6 +1455,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Huang Baoying",
+      showName: "New Leaves, Fireworks, and the Obscure Home",
+      date: "2023.01.07 - 2023.02.04",
+      openingDate: "2023.01.07 sat. 16:00"
+    },{
       artist: "IIDA Kiriko",
       showName: "Time is Silent",
       date: "2022.11.05 - 2022.12.24",
@@ -1435,6 +1525,11 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Su Xiaobai",
+      showName: "Bluee",
+      date: "2022.12.17 - 2023.02.18",
+      openingDate: ""
+    },{
       artist: "Sopheap Pich",
       showName: "Walking the Woods",
       date: "2022.11.05 - 2023.01.07",
@@ -1570,6 +1665,11 @@ export const GALLERIES = [
     website: "https://yang-arts.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various artists",
+      showName: "Human Desire",
+      date: "2023.02.18 - 2023.03.18",
+      openingDate: ""
+    },{
       artist: "Ayako Ishiba / Daisuke Yokota / Ken Kitano / Kohei Kobayashi / Mika Ninagawa / Nara Yoshitomo / Nobuyoshi Araki / Rika Noguchi / Sadaharu Horio / Shiho Yoshida / Takashi Homma / Taisuke Koyama / Thomas Struth / Yoichi Umetsu",
       showName: "芃 How lush the world is, how full of things that don't belong to me",
       date: "2022.10.15 - 2022.12.15",
@@ -1590,6 +1690,16 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Wu Chia-Yun",
+      showName: "Five, Four, Three, Two",
+      date: "2023.01.27 - 2023.02.18",
+      openingDate: "2023.01.28 sat. 16:00"
+    },{
+      artist: "Wang Huan-Jhen",
+      showName: "Breathing Ghost",
+      date: "2023.01.27 - 2023.02.18",
+      openingDate: "2023.01.28 sat. 16:00"
+    },{
       artist: "Chiu Huai-Hsuan",
       showName: "The Hidden Traces in the Tree",
       date: "2022.12.15 - 2023.01.07",
