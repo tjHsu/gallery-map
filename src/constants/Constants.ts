@@ -155,6 +155,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kazuhiro ITO / Marefumi KOMURA / Satoshi OHNO / Martin GALLE / Chien-Chian HUA",
+      showName: "The Essence of Existence",
+      date: "2023.01.07 - 2023.02.12",
+      openingDate: "2023.01.07 sat. 16:00"
+    },{
       artist: "Marc Desgrandchamp",
       showName: "Ephemeral memories",
       date: "2022.11.05 - 2022.12.04",
