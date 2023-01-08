@@ -790,6 +790,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Teppei KANEUJI / Pao-Leng KUNG / CHEN Bo-Ruei",
+      showName: "Remembrance",
+      date: "2023.01.07 - 2023.02.04",
+      openingDate: "2023.01.07 sat 15:00"
+    },{
       artist: "TSONG Pu",
       showName: "Distant Proximity",
       date: "2022.12.03 - 2022.12.31",
