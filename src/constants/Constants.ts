@@ -550,10 +550,15 @@ export const GALLERIES = [
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "CHEN Cheng Wei",
+      showName: "Blossoms of Life – The Seasons",
+      date: "2023.01.14 - 2023.03.05",
+      openingDate: "2023.01.14 sat 16:30"
+    },{
       artist: "Song Sheau-Ming",
       showName: "Concrete Poetry",
       date: "2022.11.26 - 2023.01.08",
-      openingDate: "2022.12.04 sun. 16:30"
+      openingDate: "2022.12.04 sun 16:30"
     },{
       artist: "Nick DONG / CHANG Yung-Ta",
       showName: "Re-sensing the Cosmos",
