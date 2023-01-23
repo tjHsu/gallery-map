@@ -1360,6 +1360,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tsai Chih-Chi",
+      showName: "soft tumultn",
+      date: "2023.02.04-2023.03.04",
+      openingDate: "2023.02.11 sat 15:00"
+    },{
       artist: "ZHANG XU ZHAN",
       showName: "Jungle Jungle homecoming exhibition",
       date: "2022.12.17-2023.01.14",
@@ -1702,6 +1707,11 @@ export const GALLERIES = [
     },{
       artist: "Wang Huan-Jhen",
       showName: "Breathing Ghost",
+      date: "2023.01.27 - 2023.02.18",
+      openingDate: "2023.01.28 sat. 16:00"
+    },{
+      artist: "CChin Peng",
+      showName: "Something Old",
       date: "2023.01.27 - 2023.02.18",
       openingDate: "2023.01.28 sat. 16:00"
     },{
