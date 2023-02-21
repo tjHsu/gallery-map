@@ -30,9 +30,14 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Benzilla",
+      showName: "Diamond In The Desert",
+      date: "2022.12.10 - 2023.01.18",
+      openingDate: ""
+    },{
       artist: "Ryosuke Misawa",
       showName: "Tracing the Night",
-      date: "2022.12.10 - 2023.01.18",
+      date: "2023.02.04 - 2023.03.04",
       openingDate: ""
     },{
       artist: "Juwin",
@@ -130,6 +135,16 @@ export const GALLERIES = [
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tao Kang",
+      showName: "Slow",
+      date: "2023.03.10 - 2023.05.06",
+      openingDate: "2023.03.10 fri. 16:00"
+    },{
+      artist: "Hsieh Mu-Chi & Wang Liang-Yin & Kao Ya-Ting & Li Bing-Ao & PAn Chi-Fang",
+      showName: "Cathing",
+      date: "2023.01.13 - 2023.03.04",
+      openingDate: ""
+    },{
       artist: "LI Cheng Hsun",
       showName: "Properties Properties ",
       date: "2022.11.18 - 2023.01.07",
@@ -285,6 +300,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yu-Kai CHEN",
+      showName: "Terrestrial planet",
+      date: "2023.02.23 - 2023.04.23",
+      openingDate: "2023.03.04 sat 15:00"
+    },{
       artist: "Yu-Hung Cheng",
       showName: "I Have a Restless Soul",
       date: "2022.12.15 - 2022.02.19",
@@ -375,6 +395,11 @@ export const GALLERIES = [
     website: "https://blueriderart.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various artists",
+      showName: "Wild Grass",
+      date: "2023.02.11 - 2023.04.16",
+      openingDate: ""
+    },{
       artist: "Ramiro Smith Estrada & Rine Boyer",
       showName: "Profile Picture",
       date: "2022.12.24 - 2023.02.19",
@@ -445,6 +470,11 @@ export const GALLERIES = [
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ping-yi Li",
+      showName: "breathing landscape",
+      date: "2023.03.03 - 2023.03.31",
+      openingDate: "2023.03.04 sat 15:00"
+    },{
       artist: "Akiko Noguchi / Hanaki Kaneda / Hiroko Takahashi / HUIT / Keisuke Oda / Okada Mariko / Shimi / Tamaho Togasaki / Muraki Noriyuki",
       showName: "Japanese Contemproray Art Exhibition",
       date: "2022.11.08 - 2022.12.03",
@@ -465,6 +495,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Martin Hsu",
+      showName: "Holst's Planets",
+      date: "2023.02.07 - 2023.03.04",
+      openingDate: ""
+    },{
       artist: "Zhang Jian",
       showName: "Wood Scupture Solo Exhibition",
       date: "2023.01.04 - 2023.02.04",
@@ -525,6 +560,11 @@ export const GALLERIES = [
     website: "https://chiwengallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chang Li-Ren",
+      showName: "Yesterday's Dream",
+      date: "2023.02.11 - 2023.03.18",
+      openingDate: ""
+    },{
       artist: "Tao Hui & Yu Cheng-Ta & Bruce Yonemoto",
       showName: "Rhapsody Unchained",
       date: "2022.12.17 - 2023.01.20",
@@ -585,6 +625,11 @@ export const GALLERIES = [
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various artists",
+      showName: "Expanded Existence",
+      date: "2023.02.04 - 2023.03.05",
+      openingDate: ""
+    },{
       artist: "Louise Yi",
       showName: "Solo Exhibition",
       date: "2022.12.24 - 2023.01.15",
@@ -625,6 +670,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Liao Min-Chun",
+      showName: "Dimmer and Dimmer : Memory box",
+      date: "2023.02.08 - 2023.03.12",
+      openingDate: ""
+    },{
       artist: "Tsai Ming Tsan",
       showName: "The Pleasant Days",
       date: "2023.01.11 - 2023.02.05",
@@ -772,7 +822,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Araki Nobuyoshi / Nakahira Takuma",
       showName: "OKINAWA",
-      date: "2023.01.10 - 2023.02.18",
+      date: "2023.01.10 - 2023.02.25",
       openingDate: ""
     },{
       artist: "Tseng ChienYing",
@@ -810,6 +860,11 @@ export const GALLERIES = [
     website: "https://elsaart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Satoshi SAITOH",
+      showName: "YURAMEKI",
+      date: "2023.02.18 - 2023.03.11",
+      openingDate: ""
+    },{
       artist: "Okubo Naomi",
       showName: "Closely Glazed Spaces",
       date: "2022.12.17 - 2023.01.07",
@@ -850,6 +905,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Fu-sheng KU & LIU Xiaodong & CAI Guo-Qiang & ZHAN Wang & Shida KUO & Kuang-Yu TSUI & JI Dachun & LU Zheng-Yuan & WU Chang Jung & Hiroto KITAGAWA & Jean-Francois Baltzeni",
+      showName: "Multiplicity",
+      date: "2023.02.11 - 2023.03.04",
+      openingDate: ""
+    },{
       artist: "Teppei KANEUJI / Pao-Leng KUNG / CHEN Bo-Ruei",
       showName: "Remembrance",
       date: "2023.01.07 - 2023.02.04",
@@ -905,6 +965,11 @@ export const GALLERIES = [
     website: "https://hirohiroartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "PAN Hsin-Hua",
+      showName: "Tread from the Hinterland",
+      date: "2023.02.11 - 2023.03.12",
+      openingDate: ""
+    },{
       artist: "Crystal Lupa",
       showName: "The Unspoken Tales",
       date: "2022.12.10 - 2023.01.15",
@@ -940,6 +1005,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chang Ku Cheng",
+      showName: "Watercolour solo exhibition",
+      date: "2023.02.04 - 2023.02.25",
+      openingDate: ""
+    },{
       artist: "Hin-Yao Tseng",
       showName: "Ephemeral and Renewal",
       date: "2022.12.03 - 2022.12.31",
@@ -1045,6 +1115,11 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various artists",
+      showName: "The Subtext - Beyond the Words",
+      date: "2023.02.11-2023.03.31",
+      openingDate: ""
+    },{
       artist: "Lee Zai-Qian / Hsu YungHsu",
       showName: "A Dialoguee Between Strength and Genntleness",
       date: "2022.10.29-2023.01.18",
@@ -1135,6 +1210,16 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Rui Miguel Leitão Ferreira",
+      showName: "Paintings for a Post-Pandemic World",
+      date: "2023.03.04 - 2023.04.14",
+      openingDate: ""
+    },{
+      artist: "Chou Kai-Lun",
+      showName: "Illusion of All Kinds of Love",
+      date: "2023.03.04 - 2023.04.14",
+      openingDate: ""
+    },{
       artist: "Chihhung Liu",
       showName: "SERPENT",
       date: "2023.01.07 - 2023.02.24",
@@ -1510,6 +1595,11 @@ export const GALLERIES = [
     website: "https://www.taoartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Mak2",
+      showName: "Palace of Love",
+      date: "2023.02.18 - 2023.04.15",
+      openingDate: ""
+    },{
       artist: "Jacky Tsai",
       showName: "A Floating Life - Rhapsody",
       date: "2022.10.21 - 2022.11.26",
@@ -1535,6 +1625,11 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various artists",
+      showName: "A Quarter: Hantoo in 25 Years",
+      date: "2023.02.11 - 2023.04.08",
+      openingDate: ""
+    },{
       artist: "Su Xiaobai",
       showName: "Bluee",
       date: "2022.12.17 - 2023.02.18",
@@ -1580,6 +1675,16 @@ export const GALLERIES = [
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hsu Jui-Chien",
+      showName: "Inch by Inch",
+      date: "2023.02.11 - 2023.05.27",
+      openingDate: ""
+    },{
+      artist: "Lee Kit",
+      showName: "The last piece of cloudThe last piece of cloud",
+      date: "2023.02.11 - 2023.04.22",
+      openingDate: ""
+    },{
       artist: "Kong Chun Hei",
       showName: "Absent Minded",
       date: "2022.11.05 - 2023.01.07",
