@@ -1398,6 +1398,26 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "PE Gallery 埤益藝廊",
+    englishName: "PE Gallery",
+    originalName: "埤益藝廊",
+    urlName: "PE_Gallery",
+    website: "https://performanceepistemology.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Jack Hogan",
+      showName: "Riddley Walker",
+      date: "2023.03.11 - 2023.03.26",
+      openingDate: "2023.03.11 sat. 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.5 Lane 129 Daoxiang Rd Beitou Taipei",
+      gMapLink: "https://goo.gl/maps/tDYToZPKKQUS4eUa6",
+      openingHours: "sat-sun 15:00-18:00 or by appointment"
+    }]
+  },
+  {
     name: "Powen Gallery 紅野畫廊",
     englishName: "Powen Gallery",
     originalName: "紅野畫廊",
