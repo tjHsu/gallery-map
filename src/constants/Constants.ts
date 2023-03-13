@@ -1917,7 +1917,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Various artists",
       showName: "Human Desire",
-      date: "2023.02.18 - 2023.03.18",
+      date: "2023.02.18 - 2023.04.18",
       openingDate: ""
     },{
       artist: "Ayako Ishiba / Daisuke Yokota / Ken Kitano / Kohei Kobayashi / Mika Ninagawa / Nara Yoshitomo / Nobuyoshi Araki / Rika Noguchi / Sadaharu Horio / Shiho Yoshida / Takashi Homma / Taisuke Koyama / Thomas Struth / Yoichi Umetsu",
