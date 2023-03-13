@@ -710,6 +710,11 @@ export const GALLERIES = [
       date: "2023.03.15 - 2023.04.16",
       openingDate: "2023.03.18 sat 15:00 - 16:30"
     },{
+      artist: "Indra Dodi",
+      showName: "Indra was here",
+      date: "2023.03.15 - 2023.04.29",
+      openingDate: ""
+    },{
       artist: "Liao Min-Chun",
       showName: "Dimmer and Dimmer : Memory box",
       date: "2023.02.08 - 2023.03.12",
@@ -755,6 +760,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Magda Kirk",
+      showName: "The Wild in Us",
+      date: "2023.03.18-2023.04.23",
+      openingDate: ""
+    },{
       artist: "REI NAKANISHI",
       showName: "yue",
       date: "2022.09.17-2022.10.09",
