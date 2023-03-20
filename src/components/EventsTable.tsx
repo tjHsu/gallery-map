@@ -14,6 +14,10 @@ type Exhibition = {
   date: string
 }
 
+interface GalleryExhibition extends Exhibition {
+  urlName: string
+}
+
 const galleriesWithEvents = GALLERIES.filter((gallery: TableItem) => {
   return gallery.exhibitions.length && !gallery.isSeparator
 })
@@ -38,7 +42,7 @@ const TableItem = ({
   exhibitions
 }: TableItem) => {
   const currentExhibitions = exhibitions.filter(exhibition => {
-    const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10).replaceAll('.','-'))
+    const dateAfterClosing = new Date(exhibition.date.substring(exhibition.date.length - 10).replaceAll('.', '-'))
     dateAfterClosing.setDate(dateAfterClosing.getDate() + 1);
     const now = new Date()
     return now < dateAfterClosing
@@ -58,7 +62,7 @@ const TableItem = ({
           <td></td>
         </tr>
         {currentExhibitions.map((exhibition: Exhibition) =>
-          <ExhibitionItem key={exhibition.showName} date={exhibition.date} showName={exhibition.showName} />
+          <ExhibitionItem key={exhibition.showName} date={exhibition.date} showName={exhibition.showName} urlName={urlName} />
         )}
       </React.Fragment>
     );
@@ -67,13 +71,20 @@ const TableItem = ({
 
 const ExhibitionItem = ({
   showName,
+  urlName,
   date
-}: Exhibition) => {
+}: GalleryExhibition) => {
   return (
     <tr>
-      <td>{date}</td>
+      <td>
+        <Link href={`/galleries/${urlName}`}>
+          {date}
+        </Link>
+      </td>
       <td className="break-word whitespace-normal">
-        {showName}
+        <Link href={`/galleries/${urlName}`}>
+          {showName}
+        </Link>
       </td>
     </tr>
   )
