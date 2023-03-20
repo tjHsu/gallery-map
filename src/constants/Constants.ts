@@ -772,8 +772,8 @@ export const GALLERIES = [
     }],
     locations: [{
       locationName: "",
-      address: "No. 60, Lane 308, Section 3, Heping E Rd, Da’an District, Taipei City, Taiwan 106",
-      gMapLink: "https://goo.gl/maps/i89kSqRYVtTdo9uC6",
+      address: "No. 170, Section 2, Keelung Rd, Da’an District, Taipei City, Taiwan 106",
+      gMapLink: "https://goo.gl/maps/sh8rCNxEpvfou5WV6",
       openingHours: "tue-sun 13:00-18:00"
     }]
   },
