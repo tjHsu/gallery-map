@@ -24,11 +24,11 @@ module.exports = {
   daisyui: {
     themes: [{
       mytheme: {
-        "primary": "#F6F6F6",
-        "secondary": "#BDF2D5",
-        "accent": "#7AD9F5",
+        "primary": "#2C272E",
+        "secondary": "#753188",
+        "accent": "#9AE66E",
         "neutral": "#F25F5C",
-        "base-100": "#5D13E7",
+        "base-100": "#E59934",
         "info": "#F5AC93",
         "success": "#36D399",
         "warning": "#FBBD23",
