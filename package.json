@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/mixpanel-browser": "^2.38.1",
+    "@vercel/analytics": "^0.1.11",
     "daisyui": "^2.24.0",
     "mixpanel-browser": "^2.45.0",
     "next": "12.2.5",
