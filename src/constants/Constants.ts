@@ -228,7 +228,7 @@ export const GALLERIES = [
       artist: "HUANG Wen-Ying & Caren SHEN & CHANG Ming-Chi & Laetitia Lin",
       showName: "Group Exhibition",
       date: "2023.03.04 - 2023.04.04",
-      openingDate: "
+      openingDate: ""
     },{
       artist: "Yosifu & Yabun Yuma",
       showName: "Joint Exhibition",
