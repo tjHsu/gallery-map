@@ -30,6 +30,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Daria Kolosova",
+      showName: "Solo exhibition",
+      date: "2023.04.01 - 2023.04.29",
+      openingDate: ""
+    },{
       artist: "Benzilla",
       showName: "Diamond In The Desert",
       date: "2022.12.10 - 2023.01.18",
@@ -180,6 +185,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Moyan & Etschan - Gutai",
+      showName: "The Essence of Existence",
+      date: "2023.03.23 - 2023.04.29",
+      openingDate: "2023.03.25 sat 16:00"
+    },{
       artist: "Kazuhiro ITO / Marefumi KOMURA / Satoshi OHNO / Martin GALLE / Chien-Chian HUA",
       showName: "The Essence of Existence",
       date: "2023.01.07 - 2023.02.12",
@@ -215,6 +225,11 @@ export const GALLERIES = [
     website: "http://www.artgalleryapollo.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "HUANG Wen-Ying & Caren SHEN & CHANG Ming-Chi & Laetitia Lin",
+      showName: "Group Exhibition",
+      date: "2023.03.04 - 2023.04.04",
+      openingDate: "
+    },{
       artist: "Yosifu & Yabun Yuma",
       showName: "Joint Exhibition",
       date: "2022.12.17 - 2023.01.19",
@@ -875,6 +890,11 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "IKEUCHI / Yukari Nishi / Keisuke Tada / Shohei Takasaki / Kazuma Yamamoto",
+      showName: "IMAGRATION",
+      date: "2023.04.06 - 2023.04.29",
+      openingDate: "2023.04.08 sat 17:00 - 19:00"
+    },{
       artist: "Araki Nobuyoshi / Nakahira Takuma",
       showName: "OKINAWA",
       date: "2023.01.10 - 2023.02.25",
@@ -1025,6 +1045,11 @@ export const GALLERIES = [
     website: "https://hirohiroartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "EGUCHI Ayane",
+      showName: "Sugar-coated Landscape",
+      date: "2023.04.01 - 2023.05.07",
+      openingDate: "2023.04.01 sat 15:00"
+    },{
       artist: "PAN Hsin-Hua",
       showName: "Tread from the Hinterland",
       date: "2023.02.11 - 2023.03.12",
@@ -1187,7 +1212,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Various artists",
       showName: "The Subtext - Beyond the Words",
-      date: "2023.02.11-2023.03.31",
+      date: "2023.02.11 - 2023.03.31",
       openingDate: ""
     },{
       artist: "Lee Zai-Qian / Hsu YungHsu",
@@ -1455,6 +1480,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "YUSUKE TODA",
+      showName: "YUM's Relaxing Space",
+      date: "2023.03.29 - 2023.04.14",
+      openingDate: ""
+    },{
       artist: "Bahaudin & Heru Priyono",
       showName: "Whispers of Wonder",
       date: "2023.03.08 - 2023.03.25",
@@ -1685,6 +1715,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Maho Takahashi",
+      showName: "Utsukushi",
+      date: "2023.04.01 - 2023.05.06",
+      openingDate: ""
+    },{
       artist: "Haruko Kawai",
       showName: "A Fable of Utopia",
       date: "2023.02.25 - 2023.03.25",
