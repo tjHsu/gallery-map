@@ -85,6 +85,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lien Chun YU",
+      showName: "Solo exhibition",
+      date: "2023.04.01 - 2023.04.30",
+      openingDate: "2023.04.15 sat. 15:00"
+    },{
       artist: "Jason Cole Mager",
       showName: "To Taiwan",
       date: "2023.03.04 - 2023.03.26",
@@ -185,8 +190,13 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ling-Yu TAI & Hsin-Ying LIU",
+      showName: "üppig",
+      date: "2023.04.15 - 2023.05.07",
+      openingDate: "2023.04.15 sat 16:00"
+    },{
       artist: "Moyan & Etschan - Gutai",
-      showName: "The Essence of Existence",
+      showName: "Gutai",
       date: "2023.03.23 - 2023.04.29",
       openingDate: "2023.03.25 sat 16:00"
     },{
@@ -225,6 +235,11 @@ export const GALLERIES = [
     website: "http://www.artgalleryapollo.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Santos Hu",
+      showName: "Solo Exhibition",
+      date: "2023.04.15 - 2023.05.27",
+      openingDate: ""
+    },{
       artist: "HUANG Wen-Ying & Caren SHEN & CHANG Ming-Chi & Laetitia Lin",
       showName: "Group Exhibition",
       date: "2023.03.04 - 2023.04.04",
@@ -505,6 +520,11 @@ export const GALLERIES = [
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yao Ting WU",
+      showName: "BE LIKE WATER",
+      date: "2023.04.08 - 2023.04.28",
+      openingDate: "2023.04.08 sat 15:00"
+    },{
       artist: "Ping-yi Li",
       showName: "breathing landscape",
       date: "2023.03.03 - 2023.03.31",
@@ -530,6 +550,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lin Yi Jon",
+      showName: "Short Pause",
+      date: "2023.04.11 - 2023.05.06",
+      openingDate: ""
+    },{
       artist: "RYOL",
       showName: "WHEN THE HEROES COME TO ME",
       date: "2023.03.10 - 2023.04.01",
@@ -670,6 +695,11 @@ export const GALLERIES = [
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chin-Lung Huang",
+      showName: "Flowing Imageries",
+      date: "2023.04.29 - 2023.05.28",
+      openingDate: "2023.04.29 sat 15:00"
+    },{
       artist: "Tun-Hao Chung",
       showName: "Storyteller and Painting Seller",
       date: "2023.03.11 - 2023.04.09",
@@ -935,6 +965,11 @@ export const GALLERIES = [
     website: "https://elsaart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "ABE Nyubo",
+      showName: "Chromakey sculpture: How to bound",
+      date: "2023.04.22 - 2023.05.13",
+      openingDate: "2023.04.29 sat 15:00"
+    },{
       artist: "Satoshi SAITOH",
       showName: "YURAMEKI",
       date: "2023.02.18 - 2023.03.11",
@@ -980,6 +1015,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "BU Zi, LI Yuan-chia, LEE An-cheng, LEE Mau-cheng, LIN Yan, HUANG Hung-Teh, Lalan",
+      showName: "Beyond Ink - From Breaking Boundaries to Blooming Everywhere",
+      date: "2023.04.15 - 2023.05.20",
+      openingDate: "2023.04.15 sat 15:00 - 17:00"
+    },{
       artist: "LIN Yen Wei ",
       showName: "Solo Exhibition ",
       date: "2023.03.11 - 2023.04.08",
@@ -1090,6 +1130,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "various artists",
+      showName: "Ceramics group exhibition",
+      date: "2023.04.08 - 2023.04.29",
+      openingDate: ""
+    },{
       artist: "Chang Ku Cheng",
       showName: "Watercolour solo exhibition",
       date: "2023.02.04 - 2023.02.25",
@@ -1305,6 +1350,11 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Marina CRUZ, QIN Yifeng, Albert Yonathan SETYAWAN, SHI Jin-Hua, SHI Jinsong, WU Tseng Jung",
+      showName: "Figurative Abstraction",
+      date: "2023.04.22 - 2023.06.01",
+      openingDate: "2023.04.22 sat 14:30"
+    },{
       artist: "Rui Miguel Leitão Ferreira",
       showName: "Paintings for a Post-Pandemic World",
       date: "2023.03.04 - 2023.04.14",
@@ -1370,6 +1420,11 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ryota KANNO",
+      showName: "Solo exhibition",
+      date: "2023.04.08 - 2023.05.07",
+      openingDate: ""
+    },{
       artist: "Tonn Hsu",
       showName: "Hidden",
       date: "2023.03.04 - 2023.03.31",
@@ -1480,6 +1535,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kawauso Sua",
+      showName: "care about",
+      date: "2023.04.19 - 2023.05.06",
+      openingDate: ""
+    },{
       artist: "YUSUKE TODA",
       showName: "YUM's Relaxing Space",
       date: "2023.03.29 - 2023.04.14",
@@ -1530,6 +1590,11 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kiki Kouniari",
+      showName: "Silhouettes",
+      date: "2023.04.15 - 2023.04.30",
+      openingDate: "2023.04.15 sat. 15:00"
+    },{
       artist: "Jack Hogan",
       showName: "Riddley Walker",
       date: "2023.03.11 - 2023.03.26",
@@ -1550,6 +1615,11 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "WU Hsichi",
+      showName: "Mirror & Waves",
+      date: "2023.04.15 - 2023.05.13",
+      openingDate: ""
+    },{
       artist: "George Byrne & Peter Opheim & HUANG Poren",
       showName: "Group exhibition",
       date: "2023.03.01 - 2023.03.21",
@@ -1595,6 +1665,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Jun-Yu",
+      showName: "Attention!",
+      date: "2023.04.08-2023.04.29",
+      openingDate: ""
+    },{
       artist: "Hou I-Ting & Wang Yu-Song",
       showName: "WHISKY GOSSIP Vs. ANGEL’S SHARE",
       date: "2023.03.11-2023.04.01",
@@ -1673,6 +1748,11 @@ export const GALLERIES = [
       artist: "Hsiao Pei-I ",
       showName: "The Garden of Earthly Delights",
       date: "2023.03.04 - 2023.04.09",
+      openingDate: ""
+    },{
+      artist: "Hayashi Takeshi",
+      showName: "Haku-U",
+      date: "2023.04.15 - 2023.05.28",
       openingDate: ""
     },{
       artist: "LEE Mau-Cheng",
@@ -1770,6 +1850,11 @@ export const GALLERIES = [
     website: "https://www.taoartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LAURENT GRASSO",
+      showName: "TIME LEAVES",
+      date: "2023.05.10 - 2023.07.15",
+      openingDate: ""
+    },{
       artist: "Mak2",
       showName: "Palace of Love",
       date: "2023.02.18 - 2023.04.15",
@@ -1800,6 +1885,11 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yuan Hui-Li",
+      showName: "Motion Within Stillness",
+      date: "2023.04.22 - 2023.06.03",
+      openingDate: "2023.04.22 sat 16:30"
+    },{
       artist: "Various artists",
       showName: "A Quarter: Hantoo in 25 Years",
       date: "2023.02.11 - 2023.04.08",
@@ -1985,6 +2075,21 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "KINJO",
+      showName: "Transparent Gardener",
+      date: "2023.04.08 - 2023.04.29",
+      openingDate: ""
+    },{
+      artist: "Amelia Tru Harrel, Holly Chang, Titus McBeath",
+      showName: "Group exhibition",
+      date: "2023.04.06 - 2023.04.29",
+      openingDate: ""
+    },{
+      artist: "Claire Borde",
+      showName: "Inner Sceneries",
+      date: "2023.04.06 - 2023.04.29",
+      openingDate: ""
+    },{
       artist: "Chen Wei-Chen",
       showName: "Geometric Code",
       date: "2023.03.02 - 2023.03.25",
