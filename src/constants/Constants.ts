@@ -290,6 +290,11 @@ export const GALLERIES = [
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Carlo D’Anselmi",
+      showName: "POINT BLANK RANGE",
+      date: "2023.05.06 - 2023.06.11",
+      openingDate: "2023.05.06 sat 16:00"
+    },{
       artist: "Li Chen",
       showName: "Paradox in Elegance—Spiritual Journey through the Mundane World",
       date: "2023.03.11 - 2023.04.30",
@@ -655,6 +660,11 @@ export const GALLERIES = [
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "TSAI Meng Chang",
+      showName: "Invisible Gaze",
+      date: "2023.04.29 - 2023.06.11",
+      openingDate: "2023.04.29 sat 16:30"
+    },{
       artist: "YANG Pei-Chen",
       showName: "“Reflection on Realism” A Selection from Transcribe Ancient Book Series",
       date: "2023.03.11 - 2023.04.23",
@@ -750,6 +760,16 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Indra Dodi",
+      showName: "Together",
+      date: "2023.05.02 - 2023.05.28",
+      openingDate: ""
+    },{
+      artist: "Kang Dong Hyun",
+      showName: "Forest of Coexistence - Four Seasons",
+      date: "2023.05.01 - 2023.06.16",
+      openingDate: ""
+    },{
       artist: "Makoto Lin & KONDO Satoru & Mong-jane Wu & Ma Li-Chun",
       showName: "Wandering before, condensing after",
       date: "2023.03.15 - 2023.04.16",
@@ -830,6 +850,11 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lin Kun-Ying, Lin Shu-Kai, Ni Hsiang, Huang Wan-Ling, Chang Li-Ren, Mia Liu, Ou Li-Ting",
+      showName: "Haven’t seen Abraham",
+      date: "2023.05.06 - 2023.06.17",
+      openingDate: "2023.05.06 sat. 15:00"
+    },{
       artist: "Lee Shi-Chi & Yeh Chu-Sheng & Wang Wei-Ho & Wu Ying-Hai & Wu Meng-Chang & Chen Shiau-Peng & Wu Shang-Yung & Hsu Jui-Chien & Kung Pao-Leng",
       showName: "Lineage 2023",
       date: "2023.03.11 - 2023.04.22",
@@ -920,6 +945,11 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "David Diao / Mari Eastman / Peter Fischli David Weiss / Gaylen Gerber / Max Guy / Arnold J. Kemp / Margaret Lee / Kevin Weil / Cici Wu",
+      showName: "Daily Pictures",
+      date: "2023.05.10 - 2023.06.21",
+      openingDate: "2023.04.08 sat 17:00 - 19:00"
+    },{
       artist: "IKEUCHI / Yukari Nishi / Keisuke Tada / Shohei Takasaki / Kazuma Yamamoto",
       showName: "IMAGRATION",
       date: "2023.04.06 - 2023.04.29",
@@ -1325,6 +1355,11 @@ export const GALLERIES = [
     website: "https://michaelkugallery.com/en/home/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jian Yi-Hong, Chiang Hsun, Wei Jia, Wu Junyong",
+      showName: "Secret Garden",
+      date: "2023.04.29 - 2023.06.25",
+      openingDate: "2023.04.29 sat. 15:00"
+    },{
       artist: "Chiang Hsin & Nick Dong",
       showName: "40 Years Since",
       date: "2022.11.05 - 2023.02.05",
@@ -1590,6 +1625,11 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Bela Bartok",
+      showName: "Mikrokosmos",
+      date: "2023.05.06 - 2023.05.27",
+      openingDate: "2023.05.06 sat. 17:00"
+    },{
       artist: "Kiki Kouniari",
       showName: "Silhouettes",
       date: "2023.04.15 - 2023.04.30",
@@ -1665,6 +1705,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "OU Jing-Yun",
+      showName: "The end of illusions",
+      date: "2023.05.06 - 2023.06.17",
+      openingDate: "2023.05.06 sat 14:00 - 19:00"
+    },{
       artist: "Chen Jun-Yu",
       showName: "Attention!",
       date: "2023.04.08-2023.04.29",
@@ -1710,6 +1755,11 @@ export const GALLERIES = [
     website: "https://www.pttspace.com/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hung Zhen-You",
+      showName: "Breath",
+      date: "2023.05.06 - 2023.06.10",
+      openingDate: "2023.05.06 sat 16:00-19:00"
+    },{
       artist: "HSU Tung-Lung",
       showName: "Beyond the Lake",
       date: "2023.03.04 - 2023.04.15",
@@ -2000,6 +2050,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chris Succo",
+      showName: "Recent Paintings",
+      date: "2023.05.06 - 2023.06.17",
+      openingDate: "2023.05.06 sat 16:00"
+    },{
       artist: "JY",
       showName: "Carefree Excursionu",
       date: "2023.03.04 - 2023.04.15",
@@ -2050,6 +2105,11 @@ export const GALLERIES = [
     website: "https://yang-arts.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "",
+      showName: "Fusion in Serendipity",
+      date: "2023.05.27 - 2023.06.17",
+      openingDate: ""
+    },{
       artist: "Various artists",
       showName: "Human Desire",
       date: "2023.02.18 - 2023.04.18",
