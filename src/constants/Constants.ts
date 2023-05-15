@@ -30,6 +30,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kim Jihee",
+      showName: "Gilding Fever",
+      date: "2023.05.20 - 2023.06.25",
+      openingDate: "2023.05.20 sat 14:00"
+    },{
       artist: "Daria Kolosova",
       showName: "Solo exhibition",
       date: "2023.04.01 - 2023.04.29",
@@ -85,6 +90,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "CHEN Jun Lang",
+      showName: "Solo exhibition",
+      date: "2023.05.06 - 2023.05.28",
+      openingDate: ""
+    },{
       artist: "Lien Chun YU",
       showName: "Solo exhibition",
       date: "2023.04.01 - 2023.04.30",
@@ -150,6 +160,11 @@ export const GALLERIES = [
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chou Yo Chen",
+      showName: "Infinite Sea",
+      date: "2023.05.12 - 2023.07.01",
+      openingDate: ""
+    },{
       artist: "Tao Kang",
       showName: "Slow",
       date: "2023.03.10 - 2023.05.06",
@@ -190,6 +205,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Nicolas Jullien, Ryuichi Ohira, James Jarvis",
+      showName: "Playground",
+      date: "2023.05.13 - 2023.06.11",
+      openingDate: ""
+    },{
       artist: "Ling-Yu TAI & Hsin-Ying LIU",
       showName: "üppig",
       date: "2023.04.15 - 2023.05.07",
@@ -345,6 +365,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Haru K",
+      showName: "Honey, I Blew Up the Food",
+      date: "2023.04.27 - 2023.06.25",
+      openingDate: ""
+    },{
       artist: "Yu-Kai CHEN",
       showName: "Terrestrial planet",
       date: "2023.02.23 - 2023.04.23",
@@ -489,7 +514,7 @@ export const GALLERIES = [
       locationName: "Bluerider ART RenAi Gallery",
       address: "10F., No. 25-1, Sec. 4, Ren'ai Rd., Da’an Dist., Taipei City 106 , Taiwan",
       gMapLink: "https://g.page/BlueriderRenai?share",
-      openingHours: "tue-sat 09:00-18:00"
+      openingHours: "tue-sun 10:00-18:00"
     }, {
       locationName: "X by Bluerider",
       address: "10F., No. 25-1, Sec. 4, Ren'ai Rd., Da’an Dist., Taipei City 106 , Taiwan",
@@ -525,6 +550,11 @@ export const GALLERIES = [
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LIN Hung Hsin",
+      showName: "Over. Abundance",
+      date: "2023.05.05 - 2023.06.03",
+      openingDate: ""
+    },{
       artist: "Yao Ting WU",
       showName: "BE LIKE WATER",
       date: "2023.04.08 - 2023.04.28",
@@ -558,6 +588,11 @@ export const GALLERIES = [
       artist: "Lin Yi Jon",
       showName: "Short Pause",
       date: "2023.04.11 - 2023.05.06",
+      openingDate: ""
+    },{
+      artist: "Taili Wu",
+      showName: "Little Peanut",
+      date: "2023.05.09 - 2023.06.03",
       openingDate: ""
     },{
       artist: "RYOL",
@@ -630,6 +665,11 @@ export const GALLERIES = [
     website: "https://chiwengallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "WANG Jun-Jieh + CHEANG Shu-Lea, YAO Jui-Chung, PENG Hung-Chih, SU Hui-Yu, CHANG Li-Ren + CHENG Yuan + RUI Lanxin, and YU Cheng-Ta",
+      showName: "Chi-Wen Cinema - How Was History Wounded",
+      date: "2023.05.13 - 2023.05.27",
+      openingDate: ""
+    },{
       artist: "Chang Li-Ren",
       showName: "Yesterday's Dream",
       date: "2023.02.11 - 2023.03.18",
@@ -649,7 +689,7 @@ export const GALLERIES = [
       locationName: "",
       address: "No. 32, Ln 2, Sec. 6, Zhongshan N. Rd. Shilin Dist., Taipei 11155, Taiwan",
       gMapLink: "https://goo.gl/maps/4Y8qNWCB1ms6hjKSA",
-      openingHours: "tue-sat 11:00-18:00 by appointment"
+      openingHours: "tue-sat 13:00-18:00 by appointment"
     }]
   },
   {
@@ -825,6 +865,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
     exhibitions: [{
+      artist: "David Williams",
+      showName: "Night, Day & In Between",
+      date: "2023.05.13 - 2023.06.25",
+      openingDate: ""
+    },{
       artist: "Magda Kirk",
       showName: "The Wild in Us",
       date: "2023.03.18-2023.04.23",
@@ -997,7 +1042,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "ABE Nyubo",
       showName: "Chromakey sculpture: How to bound",
-      date: "2023.04.22 - 2023.05.13",
+      date: "2023.04.22 - 2023.05.20",
       openingDate: "2023.04.29 sat 15:00"
     },{
       artist: "Satoshi SAITOH",
@@ -1115,6 +1160,11 @@ export const GALLERIES = [
     website: "https://hirohiroartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "IZUMI Keiji",
+      showName: "Today we take a different path from what we did yesterday",
+      date: "2023.05.20 - 2023.06.25",
+      openingDate: "2023.05.20 sat 15:00"
+    },{
       artist: "EGUCHI Ayane",
       showName: "Sugar-coated Landscape",
       date: "2023.04.01 - 2023.05.07",
@@ -1195,6 +1245,11 @@ export const GALLERIES = [
     website: "https://www.inriver.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Shao Yen, Hung Yu Hsi",
+      showName: "Creating Light",
+      date: "2023.05.13 - 2023.07.12",
+      openingDate: ""
+    },{
       artist: "Chen San",
       showName: "Year of The Rabbit",
       date: "2023.03.11 - 2023.05.03",
@@ -1455,6 +1510,16 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Meng-Shu You",
+      showName: "Getting Lost in My Mind",
+      date: "2023.05.13 - 2023.06.18",
+      openingDate: ""
+    },{
+      artist: "Dao-Ming Chuang",
+      showName: "A World of Angels",
+      date: "2023.05.13 - 2023.06.18",
+      openingDate: ""
+    },{
       artist: "Ryota KANNO",
       showName: "Solo exhibition",
       date: "2023.04.08 - 2023.05.07",
@@ -1570,6 +1635,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Han Ji Min",
+      showName: "Solitude",
+      date: "2023.05.10 - 2023.05.20",
+      openingDate: ""
+    },{
       artist: "Kawauso Sua",
       showName: "care about",
       date: "2023.04.19 - 2023.05.06",
@@ -1625,8 +1695,8 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
-      artist: "Bela Bartok",
-      showName: "Mikrokosmos",
+      artist: "PE Public Domain",
+      showName: "Mikrokosmos(Bela Bartok)",
       date: "2023.05.06 - 2023.05.27",
       openingDate: "2023.05.06 sat. 17:00"
     },{
@@ -1795,6 +1865,11 @@ export const GALLERIES = [
     website: "http://www.redgoldfineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hayashi Takeshi",
+      showName: "Haku-U",
+      date: "2023.04.15 - 2023.05.28",
+      openingDate: ""
+    },{
       artist: "Hsiao Pei-I ",
       showName: "The Garden of Earthly Delights",
       date: "2023.03.04 - 2023.04.09",
@@ -1845,6 +1920,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "NKSIN",
+      showName: "UNRELATED",
+      date: "2023.05.13 - 2023.06.03",
+      openingDate: ""
+    },{
       artist: "Maho Takahashi",
       showName: "Utsukushi",
       date: "2023.04.01 - 2023.05.06",
@@ -2135,6 +2215,16 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Wu Chieh-Fan",
+      showName: "Big Shot Bookstore",
+      date: "2023.05.11 - 2023.06.03",
+      openingDate: ""
+    },{
+      artist: "Cai Ruei-Heng",
+      showName: "Slippery Game",
+      date: "2023.05.11 - 2023.06.03",
+      openingDate: ""
+    },{
       artist: "KINJO",
       showName: "Transparent Gardener",
       date: "2023.04.08 - 2023.04.29",
