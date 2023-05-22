@@ -470,6 +470,11 @@ export const GALLERIES = [
     website: "https://blueriderart.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various artists",
+      showName: "Abstraction",
+      date: "2023.05.09 - 2023.07.29",
+      openingDate: ""
+    },{
       artist: "Jan Kaláb",
       showName: "Blue Horizon",
       date: "2023.03.11 - 2023.05.28",
@@ -1857,6 +1862,21 @@ export const GALLERIES = [
       openingHours: "tue-fri 12:30-18:30 sat 12:30-19:00"
     }]
   },
+{
+    name: "R",
+    englishName: "",
+    originalName: "",
+    urlName: "",
+    website: "",
+    isSeparator: true,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "",
+      gMapLink: "",
+      openingHours: ""
+    }]
+  },
   {
     name: "Red Gold Fine Art 赤粒藝術",
     englishName: "Red Gold Fine Art",
@@ -2070,9 +2090,14 @@ export const GALLERIES = [
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Joyce Ho",
+      showName: "Counting",
+      date: "2023.05.10 - 2023.07.29",
+      openingDate: ""
+    },{
       artist: "Hsu Jui-Chien",
       showName: "Inch by Inch",
-      date: "2023.02.11 - 2023.05.27",
+      date: "2023.02.11 - 2023.05.13",
       openingDate: ""
     },{
       artist: "Lee Kit",
