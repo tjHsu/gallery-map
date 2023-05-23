@@ -81,6 +81,10 @@ const Gallery: React.FC<GalleryDetail> = ({ gallery }) => {
               </tr>
             </tbody>
           </table>
+          <div className="ml-10">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.1625478230744!2d121.57627657558199!3d25.062479237143748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab4ef4986425%3A0xe6a1c88273288bb5!2zMzMz55Wr5buKIDMzMyBHQUxMRVJZICjlhafmuZYp!5e0!3m2!1sde!2sde!4v1684853604329!5m2!1sde!2sde" width="300" height="300" loading="lazy"></iframe>
+          
+        </div>
         </div>
       </div >
     )

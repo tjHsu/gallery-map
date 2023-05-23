@@ -20,6 +20,9 @@ const LandingPage: NextPage = () => {
               <td className="text-base"><Link href='/galleries'><a>Galleries A - Z</a></Link></td>
             </tr>
             <tr>
+              <td className="text-base"><Link href='/map'><a>Map View</a></Link></td>
+            </tr>
+            <tr>
               <td className="text-base"><Link href='/about'><a>About taipei gallery map</a></Link></td>
             </tr>
             <tr>
