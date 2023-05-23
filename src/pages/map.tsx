@@ -9,7 +9,7 @@ const Galleries: NextPage = () => {
             <iframe className="w-full aspect-[4/3] sm:aspect-[3/2] md:aspect-[5/2] lg:aspect-[3/1]" src="https://www.google.com/maps/d/embed?mid=1lv1vWZ8_q0BL0DjJKn2Vj9Hh1gXbIbo&ehbc=2E312F"></iframe>
             <div className="text-right">
                 <Link href={`/events`}>
-                    What's on &#8594;
+                    What&apos;s on &#8594;
                 </Link>
             </div>
             <div className="text-right">
