@@ -412,21 +412,21 @@ export const GALLERIES = [
       openingHours: ""
     }]
   },
-  {
-    name: "Be Fine Art Gallery 比劃比畫",
-    englishName: "Be Fine Art Gallery",
-    originalName: "比劃比畫",
-    urlName: "Be_Fine_Art_Gallery",
-    website: "https://www.befineartgallery.com/",
-    isSeparator: false,
-    exhibitions: [],
-    locations: [{
-      locationName: "",
-      address: "6F No.127 DongMing St. Nangang Dist. Taipei City",
-      gMapLink: "https://goo.gl/maps/rozKW9EntYSGpVrh8",
-      openingHours: "by appointment only"
-    }]
-  },
+  // {
+  //   name: "Be Fine Art Gallery 比劃比畫",
+  //   englishName: "Be Fine Art Gallery",
+  //   originalName: "比劃比畫",
+  //   urlName: "Be_Fine_Art_Gallery",
+  //   website: "https://www.befineartgallery.com/",
+  //   isSeparator: false,
+  //   exhibitions: [],
+  //   locations: [{
+  //     locationName: "",
+  //     address: "6F No.127 DongMing St. Nangang Dist. Taipei City",
+  //     gMapLink: "https://goo.gl/maps/rozKW9EntYSGpVrh8",
+  //     openingHours: "by appointment only"
+  //   }]
+  // },
   {
     name: "Beyond Gallery 非畫廊",
     englishName: "Beyond Gallery",
@@ -658,7 +658,7 @@ export const GALLERIES = [
     locations: [{
       locationName: "",
       address: "No.100, Bade Rd., Sec 2, ZhongShan Dist. Taipei City 11011, Taiwan",
-      gMapLink: "https://goo.gl/maps/2iD61FFuKgyWaHJ38",
+      gMapLink: "https://goo.gl/maps/v6iy7X2oPpfwFzMi6",
       openingHours: "tue-sat 11:00-19:00"
     }]
   },
@@ -952,26 +952,26 @@ export const GALLERIES = [
       openingHours: "tue-sat 11:00-18:00"
     }]
   },
-  {
-    name: "Dynasty Gallery 朝代畫廊",
-    englishName: "Dynasty Gallery",
-    originalName: "朝代畫廊",
-    urlName: "Dynasty_Gallery",
-    website: "https://dynastyart.com",
-    isSeparator: false,
-    exhibitions: [],
-    locations: [{
-      locationName: "Dynasty Gallery Hall A",
-      address: "1F, No.41, Le Li Road, Taipei City 10678 Taiwan",
-      gMapLink: "",
-      openingHours: "mon-sat 13:00-19:00"
-    }, {
-      locationName: "Dynasty Gallery Hall B",
-      address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
-      gMapLink: "https://goo.gl/maps/6NUrMMrnyEGgMzsR6",
-      openingHours: "mon-sat 13:00-19:00"
-    }]
-  },
+  // {
+  //   name: "Dynasty Gallery 朝代畫廊",
+  //   englishName: "Dynasty Gallery",
+  //   originalName: "朝代畫廊",
+  //   urlName: "Dynasty_Gallery",
+  //   website: "https://dynastyart.com",
+  //   isSeparator: false,
+  //   exhibitions: [],
+  //   locations: [{
+  //     locationName: "Dynasty Gallery Hall A",
+  //     address: "1F, No.41, Le Li Road, Taipei City 10678 Taiwan",
+  //     gMapLink: "",
+  //     openingHours: "mon-sat 13:00-19:00"
+  //   }, {
+  //     locationName: "Dynasty Gallery Hall B",
+  //     address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
+  //     gMapLink: "https://goo.gl/maps/6NUrMMrnyEGgMzsR6",
+  //     openingHours: "mon-sat 13:00-19:00"
+  //   }]
+  // },
   {
     name: "E",
     englishName: "",
@@ -1208,7 +1208,7 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "Imavision Gallery",
+    name: "Imavision Gallery 晴山藝術中心",
     englishName: "Imavision Gallery",
     originalName: "晴山藝術中心",
     urlName: "Imavision_Gallery",
@@ -1307,21 +1307,21 @@ export const GALLERIES = [
       openingHours: "mon-sat 11:00-20:00 sun 10:30-19:00"
     }]
   },
-  {
-    name: "isart Gallery 御書房藝廊",
-    englishName: "isart Gallery",
-    originalName: "御書房藝廊",
-    urlName: "isart_Gallery",
-    website: "https://www.isart.tw/en",
-    isSeparator: false,
-    exhibitions: [],
-    locations: [{
-      locationName: "isart Gallery",
-      address: "No. 6, Fujin Street, Songshan District, Taipei City 105 , Taiwan",
-      gMapLink: "https://goo.gl/maps/FuFCfub9W3ZMEWsz8",
-      openingHours: "by appointment only"
-    }]
-  },
+  // {
+  //   name: "isart Gallery 御書房藝廊",
+  //   englishName: "isart Gallery",
+  //   originalName: "御書房藝廊",
+  //   urlName: "isart_Gallery",
+  //   website: "https://www.isart.tw/en",
+  //   isSeparator: false,
+  //   exhibitions: [],
+  //   locations: [{
+  //     locationName: "isart Gallery",
+  //     address: "No. 6, Fujin Street, Songshan District, Taipei City 105 , Taiwan",
+  //     gMapLink: "https://goo.gl/maps/FuFCfub9W3ZMEWsz8",
+  //     openingHours: "by appointment only"
+  //   }]
+  // },
   {
     name: "L",
     englishName: "",
@@ -1508,7 +1508,7 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "Neptune Gallery",
+    name: "Neptune Gallery 涅普頓畫廊",
     englishName: "Neptune Gallery",
     originalName: "涅普頓畫廊",
     urlName: "Neptune_Gallery",
@@ -1567,21 +1567,21 @@ export const GALLERIES = [
       openingHours: "tue-sun 11:00-18:30"
     }]
   },
-  {
-    name: "nichido contemporary art 日動畫廊",
-    englishName: "nichido contemporary art",
-    originalName: "日動畫廊",
-    urlName: "nichido_contemporary_art",
-    website: "https://www.nca-g.com/en/",
-    isSeparator: false,
-    exhibitions: [],
-    locations: [{
-      locationName: "",
-      address: "3F-2, No.57. Sec.1, Dunhua South Road, Taipei 10557, Taiwan",
-      gMapLink: "https://goo.gl/maps/CD5ntxqZAJV3sQjf9",
-      openingHours: "tue-sat 11:00-19:00"
-    }]
-  },
+  // {
+  //   name: "nichido contemporary art 日動畫廊",
+  //   englishName: "nichido contemporary art",
+  //   originalName: "日動畫廊",
+  //   urlName: "nichido_contemporary_art",
+  //   website: "https://www.nca-g.com/en/",
+  //   isSeparator: false,
+  //   exhibitions: [],
+  //   locations: [{
+  //     locationName: "",
+  //     address: "3F-2, No.57. Sec.1, Dunhua South Road, Taipei 10557, Taiwan",
+  //     gMapLink: "https://goo.gl/maps/CD5ntxqZAJV3sQjf9",
+  //     openingHours: "tue-sat 11:00-19:00"
+  //   }]
+  // },
   {
     name: "Nunu Fine Art 路由藝術",
     englishName: "Nunu Fine Art",
@@ -2205,7 +2205,7 @@ export const GALLERIES = [
     website: "https://yang-arts.com/",
     isSeparator: false,
     exhibitions: [{
-      artist: "",
+      artist: "Various artists",
       showName: "Fusion in Serendipity",
       date: "2023.05.27 - 2023.06.17",
       openingDate: ""
