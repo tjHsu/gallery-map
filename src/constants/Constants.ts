@@ -34,27 +34,27 @@ export const GALLERIES = [
       showName: "Gilding Fever",
       date: "2023.05.20 - 2023.06.25",
       openingDate: "2023.05.20 sat 14:00"
-    },{
+    }, {
       artist: "Daria Kolosova",
       showName: "Solo exhibition",
       date: "2023.04.01 - 2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Benzilla",
       showName: "Diamond In The Desert",
       date: "2022.12.10 - 2023.01.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Ryosuke Misawa",
       showName: "Tracing the Night",
       date: "2023.02.04 - 2023.03.04",
       openingDate: ""
-    },{
+    }, {
       artist: "Juwin",
       showName: "Non-stop Beating",
       date: "2022.11.05 - 2022.11.26",
       openingDate: ""
-    },{
+    }, {
       artist: "ANTAKANTA / CHIHARU KIHARA feebee / HARUKI TAJIMA / ISSEI SUZUKI / KOTARO HOSHIYAMA / SHIGEKI MATSUYAMA / NAOHISA YAMAGUCHI / RYOSUKE SAITO / SHINYA NAGASHIMA / YOSHIYUKI UMEHARA / YUKA NUMATA / YUKIKO SUGIYAMA",
       showName: "ART and PULSE",
       date: "2022.09.17 - 2022.10.11",
@@ -94,37 +94,37 @@ export const GALLERIES = [
       showName: "Solo exhibition",
       date: "2023.05.06 - 2023.05.28",
       openingDate: ""
-    },{
+    }, {
       artist: "Lien Chun YU",
       showName: "Solo exhibition",
       date: "2023.04.01 - 2023.04.30",
       openingDate: "2023.04.15 sat. 15:00"
-    },{
+    }, {
       artist: "Jason Cole Mager",
       showName: "To Taiwan",
       date: "2023.03.04 - 2023.03.26",
       openingDate: "2023.03.04 sat. 15:00"
-    },{
+    }, {
       artist: "Hsieh Chia-Heng",
       showName: "Solo Exhibition",
       date: "2023.01.07 - 2023.02.26",
       openingDate: "2023.01.07 sat. 15:00"
-    },{
+    }, {
       artist: "Chen Tzu-Yu",
       showName: "The Creation of Plant Modules",
       date: "2022.12.03 - 2022.12.28",
       openingDate: "2022.12.10 sat. 15:00"
-    },{
+    }, {
       artist: "Cheng Hung-Chang & Kuo Cheng-San",
       showName: "2022 Human White Paper",
       date: "2022.11.05 - 2022.11.27",
       openingDate: "2022.11.05 sat. 14:00"
-    },{
+    }, {
       artist: "Jan Chin Shui",
       showName: "2022 Solo Exhibition",
       date: "2022.09.03 -2022.09.25",
       openingDate: "2022.09.03 sat 15:00"
-    },{
+    }, {
       artist: "Kuo Hkun",
       showName: "連動的視覺效應",
       date: "2022.10.01 - 2022.10.30",
@@ -164,27 +164,27 @@ export const GALLERIES = [
       showName: "Infinite Sea",
       date: "2023.05.12 - 2023.07.01",
       openingDate: ""
-    },{
+    }, {
       artist: "Tao Kang",
       showName: "Slow",
       date: "2023.03.10 - 2023.05.06",
       openingDate: "2023.03.10 fri. 16:00"
-    },{
+    }, {
       artist: "Hsieh Mu-Chi & Wang Liang-Yin & Kao Ya-Ting & Li Bing-Ao & PAn Chi-Fang",
       showName: "Cathing",
       date: "2023.01.13 - 2023.03.04",
       openingDate: ""
-    },{
+    }, {
       artist: "LI Cheng Hsun",
       showName: "Properties Properties ",
       date: "2022.11.18 - 2023.01.07",
       openingDate: "2022.11.18 fri. 16:00"
-    },{
+    }, {
       artist: "Li Fei Wen",
       showName: "Mist Meditation",
       date: "2022.08.12 - 2022.09.24",
       openingDate: "2022.08.12 fri 16:00"
-    },{
+    }, {
       artist: "LIU Hsin Yi",
       showName: "Writing Body",
       date: "2022.10.01 - 2022.11.12",
@@ -209,32 +209,32 @@ export const GALLERIES = [
       showName: "Playground",
       date: "2023.05.13 - 2023.06.11",
       openingDate: ""
-    },{
+    }, {
       artist: "Ling-Yu TAI & Hsin-Ying LIU",
       showName: "üppig",
       date: "2023.04.15 - 2023.05.07",
       openingDate: "2023.04.15 sat 16:00"
-    },{
+    }, {
       artist: "Moyan & Etschan - Gutai",
       showName: "Gutai",
       date: "2023.03.23 - 2023.04.29",
       openingDate: "2023.03.25 sat 16:00"
-    },{
+    }, {
       artist: "Kazuhiro ITO / Marefumi KOMURA / Satoshi OHNO / Martin GALLE / Chien-Chian HUA",
       showName: "The Essence of Existence",
       date: "2023.01.07 - 2023.02.12",
       openingDate: "2023.01.07 sat. 16:00"
-    },{
+    }, {
       artist: "Marc Desgrandchamp",
       showName: "Ephemeral memories",
       date: "2022.11.05 - 2022.12.04",
       openingDate: "2022.11.05 sat. 16:00"
-    },{
+    }, {
       artist: "Chien-Chiang HUA",
       showName: "A Blue Account",
       date: "2022.09.03-2022.09.25",
       openingDate: "2022.09.03 sat 16:00"
-    },{
+    }, {
       artist: "Willy VERGINER",
       showName: "The Lost Garden",
       date: "2022.10.01 - 2022.10.30",
@@ -259,17 +259,17 @@ export const GALLERIES = [
       showName: "Solo Exhibition",
       date: "2023.04.15 - 2023.05.27",
       openingDate: ""
-    },{
+    }, {
       artist: "HUANG Wen-Ying & Caren SHEN & CHANG Ming-Chi & Laetitia Lin",
       showName: "Group Exhibition",
       date: "2023.03.04 - 2023.04.04",
       openingDate: ""
-    },{
+    }, {
       artist: "Yosifu & Yabun Yuma",
       showName: "Joint Exhibition",
       date: "2022.12.17 - 2023.01.19",
       openingDate: "2022.12.17 sat. 15:00"
-    },{
+    }, {
       artist: "Xiao Ru-Song",
       showName: "A memorial exhibition for Xiao Ru-Song's 100th birthday",
       date: "2022.08.27 - 2022.10.15",
@@ -314,22 +314,22 @@ export const GALLERIES = [
       showName: "POINT BLANK RANGE",
       date: "2023.05.06 - 2023.06.11",
       openingDate: "2023.05.06 sat 16:00"
-    },{
+    }, {
       artist: "Li Chen",
       showName: "Paradox in Elegance—Spiritual Journey through the Mundane World",
       date: "2023.03.11 - 2023.04.30",
       openingDate: "2023.03.11 sat 16:00"
-    },{
+    }, {
       artist: "Michelle Blade",
       showName: "Maker of Meaning",
       date: "2023.01.07 - 2023.02.26",
       openingDate: "2023.01.07 sat 16:00"
-    },{
+    }, {
       artist: "Claire Colette",
       showName: "Desiring-Machines",
       date: "2023.01.07 - 2023.02.26",
       openingDate: "2023.01.07 sat 16:00"
-    },{
+    }, {
       artist: "Kayla Mattes",
       showName: "Cute Cat Theory",
       date: "2023.01.07 - 2023.02.26",
@@ -369,22 +369,22 @@ export const GALLERIES = [
       showName: "Honey, I Blew Up the Food",
       date: "2023.04.27 - 2023.06.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Yu-Kai CHEN",
       showName: "Terrestrial planet",
       date: "2023.02.23 - 2023.04.23",
       openingDate: "2023.03.04 sat 15:00"
-    },{
+    }, {
       artist: "Yu-Hung Cheng",
       showName: "I Have a Restless Soul",
       date: "2022.12.15 - 2022.02.19",
       openingDate: ""
-    },{
+    }, {
       artist: "Dennis HWANG",
       showName: "Surface Beyond",
       date: "2022.10.05 - 2022.12.10",
       openingDate: "2022.10.08 sat 15:00"
-    },{
+    }, {
       artist: "Pei-Jyun Lin",
       showName: "Kawaii Generation",
       date: "2022.09.08-2022.10.02",
@@ -439,17 +439,17 @@ export const GALLERIES = [
       showName: "Chapters as Dreams",
       date: "2023.03.11 - 2023.05.06",
       openingDate: ""
-    },{
+    }, {
       artist: "Jiun-yang LI & En-tzu CHANG",
       showName: "Duo Exhibition",
       date: "2022.12.17 - 2023.02.18",
       openingDate: ""
-    },{
+    }, {
       artist: "HUNG YI",
       showName: "Drawing",
       date: "2022.12.17 - 2023.02.18",
       openingDate: ""
-    },{
+    }, {
       artist: "George Ho",
       showName: "The Invitation from Simultaneity",
       date: "2022.10.01 – 2022.11.26",
@@ -474,27 +474,27 @@ export const GALLERIES = [
       showName: "Abstraction",
       date: "2023.05.09 - 2023.07.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Jan Kaláb",
       showName: "Blue Horizon",
       date: "2023.03.11 - 2023.05.28",
       openingDate: "2023.03.11 sat 17:00 - 19:00"
-    },{
+    }, {
       artist: "Various artists",
       showName: "Wild Grass",
       date: "2023.02.11 - 2023.04.16",
       openingDate: ""
-    },{
+    }, {
       artist: "Ramiro Smith Estrada & Rine Boyer",
       showName: "Profile Picture",
       date: "2022.12.24 - 2023.02.19",
       openingDate: "2022.12.24 sat. 17:00"
-    },{
+    }, {
       artist: "Various Artists",
       showName: "Autumn 22",
       date: "2022.10.27 - 2023.01.31",
       openingDate: ""
-    },{
+    }, {
       artist: "Desire Obtain Cherish/ Nick Veasey/ Pascal Dombis/ Jan Kalab/ Christiane Grimm/ Jonathan Rosen",
       showName: "When the Wind Blows",
       date: "2022.08.26 - 2022.09.25",
@@ -559,17 +559,17 @@ export const GALLERIES = [
       showName: "Over. Abundance",
       date: "2023.05.05 - 2023.06.03",
       openingDate: ""
-    },{
+    }, {
       artist: "Yao Ting WU",
       showName: "BE LIKE WATER",
       date: "2023.04.08 - 2023.04.28",
       openingDate: "2023.04.08 sat 15:00"
-    },{
+    }, {
       artist: "Ping-yi Li",
       showName: "breathing landscape",
       date: "2023.03.03 - 2023.03.31",
       openingDate: "2023.03.04 sat 15:00"
-    },{
+    }, {
       artist: "Akiko Noguchi / Hanaki Kaneda / Hiroko Takahashi / HUIT / Keisuke Oda / Okada Mariko / Shimi / Tamaho Togasaki / Muraki Noriyuki",
       showName: "Japanese Contemproray Art Exhibition",
       date: "2022.11.08 - 2022.12.03",
@@ -594,42 +594,42 @@ export const GALLERIES = [
       showName: "Short Pause",
       date: "2023.04.11 - 2023.05.06",
       openingDate: ""
-    },{
+    }, {
       artist: "Taili Wu",
       showName: "Little Peanut",
       date: "2023.05.09 - 2023.06.03",
       openingDate: ""
-    },{
+    }, {
       artist: "RYOL",
       showName: "WHEN THE HEROES COME TO ME",
       date: "2023.03.10 - 2023.04.01",
       openingDate: "2023.03.11 sat 15:00"
-    },{
+    }, {
       artist: "Martin Hsu",
       showName: "Holst's Planets",
       date: "2023.02.07 - 2023.03.04",
       openingDate: ""
-    },{
+    }, {
       artist: "Zhang Jian",
       showName: "Wood Scupture Solo Exhibition",
       date: "2023.01.04 - 2023.02.04",
       openingDate: ""
-    },{
+    }, {
       artist: "ALDRIN C. TAMIDLES",
       showName: "Unluck",
       date: "2022.12.12 - 2022.12.31",
       openingDate: ""
-    },{
+    }, {
       artist: "Wang Mei Ling / Chen Yi Long",
       showName: "Duo Exhibition",
       date: "2022.11.08 - 2022.12.03",
       openingDate: ""
-    },{
+    }, {
       artist: "Pan Yi Chun / Liu Yu Chi",
       showName: "Joint exhibition",
       date: "2022.09.01 - 2022.10.01",
       openingDate: "2022.10.03 sat 15:00"
-    },{
+    }, {
       artist: "Bai Nia",
       showName: "IS ANOTHER YOU",
       date: "2022.10.05 - 2022.11.05",
@@ -674,17 +674,17 @@ export const GALLERIES = [
       showName: "Chi-Wen Cinema - How Was History Wounded",
       date: "2023.05.13 - 2023.05.27",
       openingDate: ""
-    },{
+    }, {
       artist: "Chang Li-Ren",
       showName: "Yesterday's Dream",
       date: "2023.02.11 - 2023.03.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Tao Hui & Yu Cheng-Ta & Bruce Yonemoto",
       showName: "Rhapsody Unchained",
       date: "2022.12.17 - 2023.01.20",
       openingDate: ""
-    },{
+    }, {
       artist: "Lin Yu-Sheng",
       showName: "God-Men Screening | 24-7-holics Anonymous Association",
       date: "2022.10.02 - 2022.10.23",
@@ -709,27 +709,27 @@ export const GALLERIES = [
       showName: "Invisible Gaze",
       date: "2023.04.29 - 2023.06.11",
       openingDate: "2023.04.29 sat 16:30"
-    },{
+    }, {
       artist: "YANG Pei-Chen",
       showName: "“Reflection on Realism” A Selection from Transcribe Ancient Book Series",
       date: "2023.03.11 - 2023.04.23",
       openingDate: "2023.03.11 sat 16:30"
-    },{
+    }, {
       artist: "CHEN Cheng Wei",
       showName: "Blossoms of Life – The Seasons",
       date: "2023.01.14 - 2023.03.05",
       openingDate: "2023.01.14 sat 16:30"
-    },{
+    }, {
       artist: "Song Sheau-Ming",
       showName: "Concrete Poetry",
       date: "2022.11.26 - 2023.01.08",
       openingDate: "2022.12.04 sun 16:30"
-    },{
+    }, {
       artist: "Nick DONG / CHANG Yung-Ta",
       showName: "Re-sensing the Cosmos",
       date: "2022.08.20 - 2022.10.02",
       openingDate: "2022.08.20 sat 14:30 / 2022.09.24 sat 15:00"
-    },{
+    }, {
       artist: "Jo Hsieh",
       showName: "The Blue Overture",
       date: "2022.10.08 - 2022.11.20",
@@ -754,22 +754,22 @@ export const GALLERIES = [
       showName: "Flowing Imageries",
       date: "2023.04.29 - 2023.05.28",
       openingDate: "2023.04.29 sat 15:00"
-    },{
+    }, {
       artist: "Tun-Hao Chung",
       showName: "Storyteller and Painting Seller",
       date: "2023.03.11 - 2023.04.09",
       openingDate: "2023.03.11 sat 15:00"
-    },{
+    }, {
       artist: "Various artists",
       showName: "Expanded Existence",
       date: "2023.02.04 - 2023.03.05",
       openingDate: ""
-    },{
+    }, {
       artist: "Louise Yi",
       showName: "Solo Exhibition",
       date: "2022.12.24 - 2023.01.15",
       openingDate: "2022.12.24 sat. 15:00"
-    },{
+    }, {
       artist: "Hung Hsin / Rayna Chen / Wei Ting Tsai / Hsu Yu Hsin / Tseng Tzu-Ting / Lin Chun-Fang / Hsu Ching-Yu / Hsin-Chiun Ko / Peng Cian-You / Chang Hao Yu / Huang Chih-Wei",
       showName: "Petit secret de dix",
       date: "2022.11.12 - 2022.12.11",
@@ -809,42 +809,42 @@ export const GALLERIES = [
       showName: "Together",
       date: "2023.05.02 - 2023.05.28",
       openingDate: ""
-    },{
+    }, {
       artist: "Kang Dong Hyun",
       showName: "Forest of Coexistence - Four Seasons",
       date: "2023.05.01 - 2023.06.16",
       openingDate: ""
-    },{
+    }, {
       artist: "Makoto Lin & KONDO Satoru & Mong-jane Wu & Ma Li-Chun",
       showName: "Wandering before, condensing after",
       date: "2023.03.15 - 2023.04.16",
       openingDate: "2023.03.18 sat 15:00 - 16:30"
-    },{
+    }, {
       artist: "Indra Dodi",
       showName: "Indra was here",
       date: "2023.03.15 - 2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Liao Min-Chun",
       showName: "Dimmer and Dimmer : Memory box",
       date: "2023.02.08 - 2023.03.12",
       openingDate: ""
-    },{
+    }, {
       artist: "Tsai Ming Tsan",
       showName: "The Pleasant Days",
       date: "2023.01.11 - 2023.02.05",
       openingDate: "2023.01.15 sun 14:00"
-    },{
+    }, {
       artist: "Kang Dong Hyun",
       showName: "Forest of Coexistence",
       date: "2022.11.02 - 2022.12.04",
       openingDate: ""
-    },{
+    }, {
       artist: "Chou Cheng-Wei",
       showName: "Telling Stories",
       date: "2022.12.07 - 2023.01.08",
       openingDate: "2022.12.11 sun. 15:00"
-    },{
+    }, {
       artist: "Sanyu",
       showName: "Blossom - Print Exhibition",
       date: "2022.09.28 - 2022.11.07",
@@ -855,7 +855,7 @@ export const GALLERIES = [
       address: "7F No. 112, Section 2, Keelung Rd, Da’an District, Taipei City",
       gMapLink: "https://g.page/donnaart?share",
       openingHours: "mon-sat 13:00-19:00"
-    },{
+    }, {
       locationName: "Donna Art Huashan",
       address: "W7-2 Camphor Refinery, No. 1, Section 1, Bade Rd, Zhongzheng District, Taipei City",
       gMapLink: "https://goo.gl/maps/fxFugwdGvdSrrcFa8",
@@ -874,12 +874,12 @@ export const GALLERIES = [
       showName: "Night, Day & In Between",
       date: "2023.05.13 - 2023.06.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Magda Kirk",
       showName: "The Wild in Us",
       date: "2023.03.18-2023.04.23",
       openingDate: ""
-    },{
+    }, {
       artist: "REI NAKANISHI",
       showName: "yue",
       date: "2022.09.17-2022.10.09",
@@ -904,37 +904,37 @@ export const GALLERIES = [
       showName: "Haven’t seen Abraham",
       date: "2023.05.06 - 2023.06.17",
       openingDate: "2023.05.06 sat. 15:00"
-    },{
+    }, {
       artist: "Lee Shi-Chi & Yeh Chu-Sheng & Wang Wei-Ho & Wu Ying-Hai & Wu Meng-Chang & Chen Shiau-Peng & Wu Shang-Yung & Hsu Jui-Chien & Kung Pao-Leng",
       showName: "Lineage 2023",
       date: "2023.03.11 - 2023.04.22",
       openingDate: "2023.03.11 sat. 15:00"
-    },{
+    }, {
       artist: "Chen Ching-Yao / Tsui Kuang-Yu / Huang Hai-Hsin / Chenn Wan-Jen",
       showName: "#Facts About Me That My Surprise You",
       date: "2023.01.07 - 2023.02.25",
       openingDate: "2023.01.07 sat. 15:00"
-    },{
+    }, {
       artist: "Lee Jo-Mei",
       showName: "The Lithe Return",
       date: "2023.01.07 - 2023.02.25",
       openingDate: "2023.01.07 sat. 15:00"
-    },{
+    }, {
       artist: "Huang Li-Ying",
       showName: "Surpass",
       date: "2023.01.07 - 2023.02.25",
       openingDate: "2023.01.07 sat. 15:00"
-    },{
+    }, {
       artist: "Yeh Shih-Chiang / Cynthia Sah / Yang Mao-Lin / Huang Hung-De / Hsiao Sheng-Chien / Tsui Kuang-Yu / Isa Ho / Chou Chu-Wang / Moritz Partenheimer / Akiyama Izumi / Chen Wan-Jen",
       showName: "Along the objects",
       date: "2022.11.12 - 2022.12.24",
       openingDate: "2022.11.12 sat. 15:00"
-    },{
+    }, {
       artist: "Fang Fang - Che Chien-Jung",
       showName: "Solo Exhibition",
       date: "2022.11.12 - 2022.12.24",
       openingDate: "2022.11.12 sat. 15:00"
-    },{
+    }, {
       artist: "Juan Zamora",
       showName: "The Broken Seas",
       date: "2022.09.13-2022.10.29",
@@ -965,7 +965,7 @@ export const GALLERIES = [
       address: "1F, No.41, Le Li Road, Taipei City 10678 Taiwan",
       gMapLink: "",
       openingHours: "mon-sat 13:00-19:00"
-    },{
+    }, {
       locationName: "Dynasty Gallery Hall B",
       address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
       gMapLink: "https://goo.gl/maps/6NUrMMrnyEGgMzsR6",
@@ -999,32 +999,32 @@ export const GALLERIES = [
       showName: "Daily Pictures",
       date: "2023.05.10 - 2023.06.21",
       openingDate: "2023.04.08 sat 17:00 - 19:00"
-    },{
+    }, {
       artist: "IKEUCHI / Yukari Nishi / Keisuke Tada / Shohei Takasaki / Kazuma Yamamoto",
       showName: "IMAGRATION",
       date: "2023.04.06 - 2023.04.29",
       openingDate: "2023.04.08 sat 17:00 - 19:00"
-    },{
+    }, {
       artist: "Araki Nobuyoshi / Nakahira Takuma",
       showName: "OKINAWA",
       date: "2023.01.10 - 2023.02.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Tseng ChienYing",
       showName: "Skin Depth",
       date: "2022.12.03 - 2022.12.30",
       openingDate: "2022.12.03 sat. 15:00"
-    },{
+    }, {
       artist: "Antone Könst",
       showName: "Sirens",
       date: "2022.10.22 - 2022.11.26",
       openingDate: "2022.10.22 sat 15:00"
-    },{
+    }, {
       artist: "Xu Jiong",
       showName: "Shanshui 2022 SS",
       date: "2022.08.30-2022.10.01",
       openingDate: "2022.09.02 17:00"
-    },{
+    }, {
       artist: "Xu Jiong",
       showName: "2014 - 2018",
       date: "2022.08.18-2022.09.30",
@@ -1049,12 +1049,12 @@ export const GALLERIES = [
       showName: "Chromakey sculpture: How to bound",
       date: "2023.04.22 - 2023.05.20",
       openingDate: "2023.04.29 sat 15:00"
-    },{
+    }, {
       artist: "Satoshi SAITOH",
       showName: "YURAMEKI",
       date: "2023.02.18 - 2023.03.11",
       openingDate: ""
-    },{
+    }, {
       artist: "Okubo Naomi",
       showName: "Closely Glazed Spaces",
       date: "2022.12.17 - 2023.01.07",
@@ -1099,37 +1099,37 @@ export const GALLERIES = [
       showName: "Beyond Ink - From Breaking Boundaries to Blooming Everywhere",
       date: "2023.04.15 - 2023.05.20",
       openingDate: "2023.04.15 sat 15:00 - 17:00"
-    },{
+    }, {
       artist: "LIN Yen Wei ",
       showName: "Solo Exhibition ",
       date: "2023.03.11 - 2023.04.08",
       openingDate: "2023.03.11 sat 15:00 - 17:00"
-    },{
+    }, {
       artist: "Fu-sheng KU & LIU Xiaodong & CAI Guo-Qiang & ZHAN Wang & Shida KUO & Kuang-Yu TSUI & JI Dachun & LU Zheng-Yuan & WU Chang Jung & Hiroto KITAGAWA & Jean-Francois Baltzeni",
       showName: "Multiplicity",
       date: "2023.02.11 - 2023.03.04",
       openingDate: ""
-    },{
+    }, {
       artist: "Teppei KANEUJI / Pao-Leng KUNG / CHEN Bo-Ruei",
       showName: "Remembrance",
       date: "2023.01.07 - 2023.02.04",
       openingDate: "2023.01.07 sat 15:00"
-    },{
+    }, {
       artist: "TSONG Pu",
       showName: "Distant Proximity",
       date: "2022.12.03 - 2022.12.31",
       openingDate: ""
-    },{
+    }, {
       artist: "Mei Ling WANG",
       showName: "Solo Exhibition",
       date: "2022.11.05 - 2022.11.26",
       openingDate: "2022.11.05 sat. 15:00"
-    },{
+    }, {
       artist: "LIU Shih-Fen",
       showName: "Müllerian's Garden",
       date: "2022.09.03-2022.09.24 ",
       openingDate: "2022.09.03 sat 15:00"
-    },{
+    }, {
       artist: "SZETO Keung / CHEN Ching-Yao / CHIU Chao-Tsai / HUANG Hai-Hsin / HUANG Yen Ying / SU Hui-Yu / Liang-Pin TSAO / YAO Jui-Chung",
       showName: "SZETO Keung and Friends Under His Wings",
       date: "2022.10.01 - 2022.10.29",
@@ -1169,17 +1169,17 @@ export const GALLERIES = [
       showName: "Today we take a different path from what we did yesterday",
       date: "2023.05.20 - 2023.06.25",
       openingDate: "2023.05.20 sat 15:00"
-    },{
+    }, {
       artist: "EGUCHI Ayane",
       showName: "Sugar-coated Landscape",
       date: "2023.04.01 - 2023.05.07",
       openingDate: "2023.04.01 sat 15:00"
-    },{
+    }, {
       artist: "PAN Hsin-Hua",
       showName: "Tread from the Hinterland",
       date: "2023.02.11 - 2023.03.12",
       openingDate: ""
-    },{
+    }, {
       artist: "Crystal Lupa",
       showName: "The Unspoken Tales",
       date: "2022.12.10 - 2023.01.15",
@@ -1219,18 +1219,18 @@ export const GALLERIES = [
       showName: "Ceramics group exhibition",
       date: "2023.04.08 - 2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Chang Ku Cheng",
       showName: "Watercolour solo exhibition",
       date: "2023.02.04 - 2023.02.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Hin-Yao Tseng",
       showName: "Ephemeral and Renewal",
       date: "2022.12.03 - 2022.12.31",
       openingDate: "2022.12.03 sat. 15:00"
-    },{
-      artist:"Koji Kasatani / Taro Tasaki",
+    }, {
+      artist: "Koji Kasatani / Taro Tasaki",
       showName: "Art Imagination through Ceramic",
       date: "2022.10.01 - 2022.10.29",
       openingDate: ""
@@ -1254,22 +1254,22 @@ export const GALLERIES = [
       showName: "Creating Light",
       date: "2023.05.13 - 2023.07.12",
       openingDate: ""
-    },{
+    }, {
       artist: "Chen San",
       showName: "Year of The Rabbit",
       date: "2023.03.11 - 2023.05.03",
       openingDate: "2023.03.11 sat 15:00"
-    },{
+    }, {
       artist: "Chen San / Yu Chuan / Chou Chen / Liu Hsin Yi",
       showName: "Group Exhibition",
       date: "2023.01.10 - 2023.02.26",
       openingDate: ""
-    },{
+    }, {
       artist: "Liu Hsin Yi",
       showName: "Distant Forest",
       date: "2022.11.12 - 2022.12.31",
       openingDate: ""
-    },{
+    }, {
       artist: "Chou Chen",
       showName: "Transformation",
       date: "2022.10.01 - 2022.11.03",
@@ -1294,7 +1294,7 @@ export const GALLERIES = [
       showName: "Balloon Dog",
       date: "2023.03.18 - 2023.03.31",
       openingDate: "2023.03.18 sat. 15:00"
-    },{
+    }, {
       artist: "Yang San Lang",
       showName: "The Pioneering Era of Taiwan Art History",
       date: "2022.12.03 - 2022.12.22",
@@ -1349,12 +1349,12 @@ export const GALLERIES = [
       showName: "The Subtext - Beyond the Words",
       date: "2023.02.11 - 2023.03.31",
       openingDate: ""
-    },{
+    }, {
       artist: "Lee Zai-Qian / Hsu YungHsu",
       showName: "A Dialoguee Between Strength and Genntleness",
       date: "2022.10.29-2023.01.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Lee YANG",
       showName: "Wonderful Life",
       date: "2022.09.03-2022.10.02",
@@ -1379,7 +1379,7 @@ export const GALLERIES = [
       showName: "Yūgen: Thee Hidden Grace",
       date: "2022.12.10 - 2023.02.25",
       openingDate: "2022.12.10 sat. 16:00"
-    },{
+    }, {
       artist: "Wu Meng-Chang/ Wang Ya-Hui/ Zhao Zhao",
       showName: "Śūnyatā_Being at Liberty",
       date: "2022.09.03-2022.11.19",
@@ -1419,12 +1419,12 @@ export const GALLERIES = [
       showName: "Secret Garden",
       date: "2023.04.29 - 2023.06.25",
       openingDate: "2023.04.29 sat. 15:00"
-    },{
+    }, {
       artist: "Chiang Hsin & Nick Dong",
       showName: "40 Years Since",
       date: "2022.11.05 - 2023.02.05",
       openingDate: "2022.11.05 sat. 19:00"
-    },{
+    }, {
       artist: "Wei Jia",
       showName: "Strenuous Journey II",
       date: "2022.07.10-2022.09.25",
@@ -1449,37 +1449,37 @@ export const GALLERIES = [
       showName: "Figurative Abstraction",
       date: "2023.04.22 - 2023.06.01",
       openingDate: "2023.04.22 sat 14:30"
-    },{
+    }, {
       artist: "Rui Miguel Leitão Ferreira",
       showName: "Paintings for a Post-Pandemic World",
       date: "2023.03.04 - 2023.04.14",
       openingDate: ""
-    },{
+    }, {
       artist: "Chou Kai-Lun",
       showName: "Illusion of All Kinds of Love",
       date: "2023.03.04 - 2023.04.14",
       openingDate: ""
-    },{
+    }, {
       artist: "Chihhung Liu",
       showName: "SERPENT",
       date: "2023.01.07 - 2023.02.24",
       openingDate: ""
-    },{
+    }, {
       artist: "Marina Cruz",
       showName: "Fabric, Interior and Water",
       date: "2023.01.07 - 2023.02.24",
       openingDate: ""
-    },{
+    }, {
       artist: "Shinji Ohmaki",
       showName: "Flotage-Techonics",
       date: "2022.11.12 - 2022.12.24",
       openingDate: ""
-    },{
+    }, {
       artist: "TANG Jo-Hung",
       showName: "As You Sleep Worry-Free",
       date: "2022.11.12 - 2022.12.24",
       openingDate: "2022.11.12 sat. 15:00"
-    },{
+    }, {
       artist: "Rui Miguel Leitão FERREIRA / Rao FU / LEE Jo-Mei / LIN Chuan-Chu / Mia LIU / JHONG Jiang-Ze / SHI Jin-Hua / SHI Jinsong / Juin SHIEH / TZENG Yong-Ning / YANG Yu-Ning / CHOU Kai-Lun",
       showName: "Variation: A Contemporary Group Exhibition",
       date: "2022.09.17-2022.10.22",
@@ -1519,44 +1519,44 @@ export const GALLERIES = [
       showName: "Getting Lost in My Mind",
       date: "2023.05.13 - 2023.06.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Dao-Ming Chuang",
       showName: "A World of Angels",
       date: "2023.05.13 - 2023.06.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Ryota KANNO",
       showName: "Solo exhibition",
       date: "2023.04.08 - 2023.05.07",
       openingDate: ""
-    },{
+    }, {
       artist: "Tonn Hsu",
       showName: "Hidden",
       date: "2023.03.04 - 2023.03.31",
       openingDate: "2023.03.04 sat 14:00"
-    },{
+    }, {
       artist: "Ryosuke TEI",
       showName: "D.O.A.T.Why Fight?",
       date: "2023.03.04 - 2023.03.31",
       openingDate: "2023.03.04 sat 15:00"
-    },{
+    }, {
       artist: "Yiyi Tartare",
       showName: "Solo exhibition",
       date: "2023.03.04 - 2023.03.31",
       openingDate: "2023.03.04 sat 14:30"
-    },{
+    }, {
       artist: "Masumi Yamamoto",
       showName: "Solo. Exhibition",
       date: "2022.12.10 - 2023.01.31",
       openingDate: ""
-    },{
+    }, {
       artist: "Yuta Tamura",
       showName: "Solo Exhibition",
       date: "2022.11.18 - 2022.12.04",
       openingDate: ""
-    },{
-      artist:"Masumi YAMAMOTO / Yi Shuan WU / Yu Hua LIN / Chi Chih WANG / Jui Wen TAN",
-      showName:"The Golden River Basin of Mineral Pigments",
+    }, {
+      artist: "Masumi YAMAMOTO / Yi Shuan WU / Yu Hua LIN / Chi Chih WANG / Jui Wen TAN",
+      showName: "The Golden River Basin of Mineral Pigments",
       date: "2022.09.24 - 2022.10.30",
       openingDate: ""
     }],
@@ -1594,17 +1594,17 @@ export const GALLERIES = [
       showName: "Best Place Map Series",
       date: "2023.03.04 - 2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Kaspar Bonnén",
       showName: "This Is not a Text",
       date: "2022.12.23 - 2023.02.17",
       openingDate: ""
-    },{
+    }, {
       artist: "Rosy Keyser",
       showName: "I'll Fly Away",
       date: "2022.11.05 - 2022.12.25",
       openingDate: "2022.11.05 sat. 17:00"
-    },{
+    }, {
       artist: "Kees Goudzwaard",
       showName: "In Progress",
       date: "2022.09.11 - 2022.10.30",
@@ -1644,27 +1644,27 @@ export const GALLERIES = [
       showName: "Solitude",
       date: "2023.05.10 - 2023.05.20",
       openingDate: ""
-    },{
+    }, {
       artist: "Kawauso Sua",
       showName: "care about",
       date: "2023.04.19 - 2023.05.06",
       openingDate: ""
-    },{
+    }, {
       artist: "YUSUKE TODA",
       showName: "YUM's Relaxing Space",
       date: "2023.03.29 - 2023.04.14",
       openingDate: ""
-    },{
+    }, {
       artist: "Bahaudin & Heru Priyono",
       showName: "Whispers of Wonder",
       date: "2023.03.08 - 2023.03.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Diren Lee",
       showName: "Soul Mate",
       date: "2022.11.30 - 2022.12.17",
       openingDate: ""
-    },{
+    }, {
       artist: "Blic",
       showName: "Shēng Xiào",
       date: "2022.09.21 - 2022.10.08",
@@ -1704,12 +1704,12 @@ export const GALLERIES = [
       showName: "Mikrokosmos(Bela Bartok)",
       date: "2023.05.06 - 2023.05.27",
       openingDate: "2023.05.06 sat. 17:00"
-    },{
+    }, {
       artist: "Kiki Kouniari",
       showName: "Silhouettes",
       date: "2023.04.15 - 2023.04.30",
       openingDate: "2023.04.15 sat. 15:00"
-    },{
+    }, {
       artist: "Jack Hogan",
       showName: "Riddley Walker",
       date: "2023.03.11 - 2023.03.26",
@@ -1734,32 +1734,32 @@ export const GALLERIES = [
       showName: "Mirror & Waves",
       date: "2023.04.15 - 2023.05.13",
       openingDate: ""
-    },{
+    }, {
       artist: "George Byrne & Peter Opheim & HUANG Poren",
       showName: "Group exhibition",
       date: "2023.03.01 - 2023.03.21",
       openingDate: ""
-    },{
+    }, {
       artist: "HUANG Poren",
       showName: "New & Classics",
       date: "2022.12.23 - 2023.02.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Liú Yung-Jen",
       showName: "Cruising Alone in Painting",
       date: "2022.11.19 - 2022.12.17",
       openingDate: "2022.11.19 sat. 15:00"
-    },{
+    }, {
       artist: "Che Han Sheng",
       showName: "Isn't it a Beautiful Meadow?",
       date: "2022.10.15 - 2022.11.05",
       openingDate: ""
-    },{
+    }, {
       artist: "CHENG Chung-chuan",
       showName: "Quiet Times",
       date: "2022.08.27-2022.09.24",
       openingDate: ""
-    },{
+    }, {
       artist: "Hoho Lin",
       showName: "Figure and Space",
       date: "2022.09.08 - 2022.10.02",
@@ -1784,32 +1784,32 @@ export const GALLERIES = [
       showName: "The end of illusions",
       date: "2023.05.06 - 2023.06.17",
       openingDate: "2023.05.06 sat 14:00 - 19:00"
-    },{
+    }, {
       artist: "Chen Jun-Yu",
       showName: "Attention!",
       date: "2023.04.08-2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Hou I-Ting & Wang Yu-Song",
       showName: "WHISKY GOSSIP Vs. ANGEL’S SHARE",
       date: "2023.03.11-2023.04.01",
       openingDate: "2023.03.11 sat 19:00 - 21:00"
-    },{
+    }, {
       artist: "Tsai Chih-Chi",
       showName: "soft tumultn",
       date: "2023.02.04-2023.03.04",
       openingDate: "2023.02.11 sat 15:00"
-    },{
+    }, {
       artist: "ZHANG XU ZHAN",
       showName: "Jungle Jungle homecoming exhibition",
       date: "2022.12.17-2023.01.14",
       openingDate: ""
-    },{
+    }, {
       artist: "Au Sow Yee",
       showName: "Planet Traveler and Its Broken Song",
       date: "2022.08.06-2022.09.24",
       openingDate: ""
-    },{
+    }, {
       artist: "Y2K: Chou Chiao-Chi & Hu You-Yang",
       showName: "Lighthesis",
       date: "2022.10.16 - 2022.11.19",
@@ -1834,22 +1834,22 @@ export const GALLERIES = [
       showName: "Breath",
       date: "2023.05.06 - 2023.06.10",
       openingDate: "2023.05.06 sat 16:00-19:00"
-    },{
+    }, {
       artist: "HSU Tung-Lung",
       showName: "Beyond the Lake",
       date: "2023.03.04 - 2023.04.15",
       openingDate: ""
-    },{
+    }, {
       artist: "Huang Xuan",
       showName: "Space Out",
       date: "2022.12.24 - 2023.02.14",
       openingDate: "2022.12.24 sat. 16:00"
-    },{
+    }, {
       artist: "David Noro",
       showName: "When The Night Mocks You",
       date: "2022.10.22 - 2022.12.02",
       openingDate: "2022.10.22 sat 16:00"
-    },{
+    }, {
       artist: "Wang Yi, Ju Ting / Hsieh Yu-Cheng​",
       showName: "Light is A verb​",
       date: "2022.09.08 - 2022.10.15",
@@ -1862,7 +1862,7 @@ export const GALLERIES = [
       openingHours: "tue-fri 12:30-18:30 sat 12:30-19:00"
     }]
   },
-{
+  {
     name: "R",
     englishName: "",
     originalName: "",
@@ -1881,7 +1881,7 @@ export const GALLERIES = [
     name: "Red Gold Fine Art 赤粒藝術",
     englishName: "Red Gold Fine Art",
     originalName: "赤粒藝術",
-    urlName: "",
+    urlName: "Red_Gold_Fine_Art",
     website: "http://www.redgoldfineart.com/",
     isSeparator: false,
     exhibitions: [{
@@ -1889,22 +1889,17 @@ export const GALLERIES = [
       showName: "Haku-U",
       date: "2023.04.15 - 2023.05.28",
       openingDate: ""
-    },{
+    }, {
       artist: "Hsiao Pei-I ",
       showName: "The Garden of Earthly Delights",
       date: "2023.03.04 - 2023.04.09",
       openingDate: ""
-    },{
-      artist: "Hayashi Takeshi",
-      showName: "Haku-U",
-      date: "2023.04.15 - 2023.05.28",
-      openingDate: ""
-    },{
+    }, {
       artist: "LEE Mau-Cheng",
       showName: "Selected Calligraphy",
       date: "2023.01.07 - 2023.02.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Ruan Weng-Mong",
       showName: "Eco Echo",
       date: "2022.11.19 - 2022.12.31",
@@ -1944,27 +1939,27 @@ export const GALLERIES = [
       showName: "UNRELATED",
       date: "2023.05.13 - 2023.06.03",
       openingDate: ""
-    },{
+    }, {
       artist: "Maho Takahashi",
       showName: "Utsukushi",
       date: "2023.04.01 - 2023.05.06",
       openingDate: ""
-    },{
+    }, {
       artist: "Haruko Kawai",
       showName: "A Fable of Utopia",
       date: "2023.02.25 - 2023.03.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Huang Baoying",
       showName: "New Leaves, Fireworks, and the Obscure Home",
       date: "2023.01.07 - 2023.02.04",
       openingDate: "2023.01.07 sat. 16:00"
-    },{
+    }, {
       artist: "IIDA Kiriko",
       showName: "Time is Silent",
       date: "2022.11.05 - 2022.12.24",
       openingDate: "2022.11.05 sat. 16:00"
-    },{
+    }, {
       artist: "LIN Bao Ling",
       showName: "The Light of Freedom",
       date: "2022.09.03 - 2022.10.29",
@@ -2004,17 +1999,17 @@ export const GALLERIES = [
       showName: "TIME LEAVES",
       date: "2023.05.10 - 2023.07.15",
       openingDate: ""
-    },{
+    }, {
       artist: "Mak2",
       showName: "Palace of Love",
       date: "2023.02.18 - 2023.04.15",
       openingDate: ""
-    },{
+    }, {
       artist: "Jacky Tsai",
       showName: "A Floating Life - Rhapsody",
       date: "2022.10.21 - 2022.11.26",
       openingDate: "2022.10.21 fri 16:00"
-    },{
+    }, {
       artist: "Manuel Stehli",
       showName: "in its place",
       date: "2022.08.20-2022.10.08",
@@ -2039,22 +2034,22 @@ export const GALLERIES = [
       showName: "Motion Within Stillness",
       date: "2023.04.22 - 2023.06.03",
       openingDate: "2023.04.22 sat 16:30"
-    },{
+    }, {
       artist: "Various artists",
       showName: "A Quarter: Hantoo in 25 Years",
       date: "2023.02.11 - 2023.04.08",
       openingDate: ""
-    },{
+    }, {
       artist: "Su Xiaobai",
       showName: "Bluee",
       date: "2022.12.17 - 2023.02.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Sopheap Pich",
       showName: "Walking the Woods",
       date: "2022.11.05 - 2023.01.07",
       openingDate: "2022.11.05 sat. 16:30"
-    },{
+    }, {
       artist: "Jenny Chen",
       showName: "Order in Chaos",
       date: "2022.08.06-2022.10.22",
@@ -2094,27 +2089,27 @@ export const GALLERIES = [
       showName: "Counting",
       date: "2023.05.10 - 2023.07.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Hsu Jui-Chien",
       showName: "Inch by Inch",
       date: "2023.02.11 - 2023.05.13",
       openingDate: ""
-    },{
+    }, {
       artist: "Lee Kit",
       showName: "The last piece of cloudThe last piece of cloud",
       date: "2023.02.11 - 2023.04.22",
       openingDate: ""
-    },{
+    }, {
       artist: "Kong Chun Hei",
       showName: "Absent Minded",
       date: "2022.11.05 - 2023.01.07",
       openingDate: "2022.11.05 sat. 16:30"
-    },{
+    }, {
       artist: "Minia Biabiany / En-Man Chang / Naomi Rincón Gallardo",
       showName: "How to Sing Our Songs on Their Land",
       date: "2022.11.05 - 2023.01.07",
       openingDate: "2022.11.05 sat. 16:30"
-    },{
+    }, {
       artist: "Wu Chi-Yu",
       showName: "The Epoch of Other Things",
       date: "2022.08.27-2022.10.22",
@@ -2159,22 +2154,22 @@ export const GALLERIES = [
       showName: "Recent Paintings",
       date: "2023.05.06 - 2023.06.17",
       openingDate: "2023.05.06 sat 16:00"
-    },{
+    }, {
       artist: "JY",
       showName: "Carefree Excursionu",
       date: "2023.03.04 - 2023.04.15",
       openingDate: ""
-    },{
+    }, {
       artist: "K. Tsai CAI",
       showName: "Always for You",
       date: "2022.12.16 - 2023.02.04",
       openingDate: "2022.12.16 fri. 16:00"
-    },{
+    }, {
       artist: "YANG YONGLIANG",
       showName: "Imagined Landscape",
       date: "2022.08.13-2022.10.01",
       openingDate: ""
-    },{
+    }, {
       artist: "Huang Pin Tong / Miyako Terakura",
       showName: "Fairy Whisper",
       date: "2022.09.03 - 2022.10.15",
@@ -2214,12 +2209,12 @@ export const GALLERIES = [
       showName: "Fusion in Serendipity",
       date: "2023.05.27 - 2023.06.17",
       openingDate: ""
-    },{
+    }, {
       artist: "Various artists",
       showName: "Human Desire",
       date: "2023.02.18 - 2023.04.18",
       openingDate: ""
-    },{
+    }, {
       artist: "Ayako Ishiba / Daisuke Yokota / Ken Kitano / Kohei Kobayashi / Mika Ninagawa / Nara Yoshitomo / Nobuyoshi Araki / Rika Noguchi / Sadaharu Horio / Shiho Yoshida / Takashi Homma / Taisuke Koyama / Thomas Struth / Yoichi Umetsu",
       showName: "芃 How lush the world is, how full of things that don't belong to me",
       date: "2022.10.15 - 2022.12.15",
@@ -2244,97 +2239,97 @@ export const GALLERIES = [
       showName: "Big Shot Bookstore",
       date: "2023.05.11 - 2023.06.03",
       openingDate: ""
-    },{
+    }, {
       artist: "Cai Ruei-Heng",
       showName: "Slippery Game",
       date: "2023.05.11 - 2023.06.03",
       openingDate: ""
-    },{
+    }, {
       artist: "KINJO",
       showName: "Transparent Gardener",
       date: "2023.04.08 - 2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Amelia Tru Harrel, Holly Chang, Titus McBeath",
       showName: "Group exhibition",
       date: "2023.04.06 - 2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Claire Borde",
       showName: "Inner Sceneries",
       date: "2023.04.06 - 2023.04.29",
       openingDate: ""
-    },{
+    }, {
       artist: "Chen Wei-Chen",
       showName: "Geometric Code",
       date: "2023.03.02 - 2023.03.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Tang Ya-Wen & Wei Po-Jen",
       showName: "Earthworm and Dust",
       date: "2023.03.02 - 2023.03.25",
       openingDate: ""
-    },{
+    }, {
       artist: "Wu Chia-Yun",
       showName: "Five, Four, Three, Two",
       date: "2023.01.27 - 2023.02.18",
       openingDate: "2023.01.28 sat. 16:00"
-    },{
+    }, {
       artist: "Wang Huan-Jhen",
       showName: "Breathing Ghost",
       date: "2023.01.27 - 2023.02.18",
       openingDate: "2023.01.28 sat. 16:00"
-    },{
+    }, {
       artist: "CChin Peng",
       showName: "Something Old",
       date: "2023.01.27 - 2023.02.18",
       openingDate: "2023.01.28 sat. 16:00"
-    },{
+    }, {
       artist: "Chiu Huai-Hsuan",
       showName: "The Hidden Traces in the Tree",
       date: "2022.12.15 - 2023.01.07",
       openingDate: "2022.12.17 sat. 15:00"
-    },{
+    }, {
       artist: "Maru Quiñonero",
       showName: "CONN RUIDO, NO VEO.",
       date: "2022.12.15 - 2023.01.07",
       openingDate: "2022.12.17 sat. 15:00"
-    },{
+    }, {
       artist: "Kyoko Shindo",
       showName: "Flowing, Slowly, Deeply",
       date: "2022.12.15 - 2023.01.07",
       openingDate: "2022.12.17 sat. 15:00"
-    },{
+    }, {
       artist: "Taichi Nakamura",
       showName: "Sleepwalking",
       date: "2022.11.10 - 2022.12.03",
       openingDate: "2022.11.12 sat. 16:00"
-    },{
+    }, {
       artist: "HOU Chen-Lu / Tetsuya ISHIYAMA / Yasuhiro MARUO / Takahiro MATSUMOTO / Shoko MIHIRA / ONG Hong-Chuan / Tomoya SAKAI",
       showName: "Freak",
       date: "2022.11.10 - 2022.12.03",
       openingDate: "2022.11.12 sat. 16:00"
-    },{
+    }, {
       artist: "Chen Sung Chih",
       showName: "Elsewhere",
       date: "2022.11.10 - 2022.12.03",
       openingDate: "2022.11.12 sat. 16:00"
-    },{
+    }, {
       artist: "Chang Ting-Tong / Hui Tak-Cheun",
       showName: "Remains for those remain",
       date: "2022.09.22 - 2022.10.15",
       openingDate: "2022.09.24 sat. 15:00"
-    },{
+    }, {
       artist: "Laba",
       showName: "Love war",
       date: "2022.09.22 - 2022.10.15",
       openingDate: "2022.09.24 sat. 15:00"
-    },{
+    }, {
       artist: "Hou Chen-Lu",
       showName: "Observant Mock-Ups",
       date: "2022.09.22 - 2022.10.15",
       openingDate: "2022.09.24 sat. 15:00"
-    },{
+    }, {
       artist: "Butaoxi",
       showName: "The Crying Game",
       date: "2022.09.22 - 2022.10.15",
