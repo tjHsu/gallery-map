@@ -805,6 +805,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Clayton An",
+      showName: "Dialogue in the Imagined Garden",
+      date: "2023.05.31 - 2023.06.25",
+      openingDate: "2023.06.03 sat 15:00"
+    }, {
       artist: "Indra Dodi",
       showName: "Together",
       date: "2023.05.02 - 2023.05.28",
@@ -1095,6 +1100,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ryo SHINAGAWA",
+      showName: "Solo exhibition",
+      date: "2023.05.27 - 2023.06.24",
+      openingDate: "2023.05.27 sat 15:00 - 17:00"
+    }, {
       artist: "BU Zi, LI Yuan-chia, LEE An-cheng, LEE Mau-cheng, LIN Yan, HUANG Hung-Teh, Lalan",
       showName: "Beyond Ink - From Breaking Boundaries to Blooming Everywhere",
       date: "2023.04.15 - 2023.05.20",
@@ -1730,6 +1740,11 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "𝐆𝐞𝐨𝐫𝐠𝐞 𝐁𝐲𝐫𝐧𝐞",
+      showName: "𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐞 𝐂𝐢𝐭𝐲",
+      date: "2023.06.03 - 2023.07.08",
+      openingDate: ""
+    },{
       artist: "WU Hsichi",
       showName: "Mirror & Waves",
       date: "2023.04.15 - 2023.05.13",
@@ -2030,6 +2045,16 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Li-lan",
+      showName: "The Art of Flight",
+      date: "2023.05.27 - 2023.07.01",
+      openingDate: "2023.05.27 sat 16:30"
+    }, {
+      artist: "Yun Gee",
+      showName: "Midjourney",
+      date: "2023.05.27 - 2023.07.29",
+      openingDate: "2023.05.27 sat 16:30"
+    }, {
       artist: "Yuan Hui-Li",
       showName: "Motion Within Stillness",
       date: "2023.04.22 - 2023.06.03",
@@ -2245,6 +2270,11 @@ export const GALLERIES = [
       date: "2023.05.11 - 2023.06.03",
       openingDate: ""
     }, {
+      artist: "monouno",
+      showName: "Evening’s Blinking Yellow Lights",
+      date: "2023.05.11 - 2023.06.03",
+      openingDate: ""
+    },{
       artist: "KINJO",
       showName: "Transparent Gardener",
       date: "2023.04.08 - 2023.04.29",
