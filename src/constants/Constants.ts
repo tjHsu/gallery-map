@@ -663,6 +663,26 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "Gallery x Chiao 瞧瞧藝術",
+    englishName: "Gallery x Chiao",
+    originalName: "瞧瞧藝術",
+    urlName: "Galleru_x_Chaio",
+    website: "https://www.galleryxchiao.com/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Heath West & WU Wei-ting",
+      showName: "Breathing Room",
+      date: "2023.03.22 - 2023.05.06",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "3F-2, No. 56, Nanjing E. Rd. Sec. 4, Taipei, Taiwan 105",
+      gMapLink: "https://goo.gl/maps/oePGFuUrtC5xE4YH9",
+      openingHours: "tue-fri 11:00-18:00 sat 13:00-18:00"
+    }]
+  },
+  {
     name: "Chi-Wen Gallery",
     englishName: "Chi-Wen Gallery",
     originalName: "Chi-Wen Gallery",
@@ -1225,6 +1245,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chang Wei Yuan & Chien Shih Ju",
+      showName: "Contemplation of the Huma Realm- Joint Exhibition of Ink and Rock color",
+      date: "2023.06.03 - 2023.06.24",
+      openingDate: "2023.06.03 sat 15:00"
+    }, {
       artist: "various artists",
       showName: "Ceramics group exhibition",
       date: "2023.04.08 - 2023.04.29",
@@ -1457,7 +1482,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Marina CRUZ, QIN Yifeng, Albert Yonathan SETYAWAN, SHI Jin-Hua, SHI Jinsong, WU Tseng Jung",
       showName: "Figurative Abstraction",
-      date: "2023.04.22 - 2023.06.01",
+      date: "2023.04.22 - 2023.06.24",
       openingDate: "2023.04.22 sat 14:30"
     }, {
       artist: "Rui Miguel Leitão Ferreira",
@@ -1650,6 +1675,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "SHIGEKI MATSUYAMA X feebee",
+      showName: "UBIQUITOUS IV",
+      date: "2023.05.24 - 2023.06.10",
+      openingDate: ""
+    },{
       artist: "Han Ji Min",
       showName: "Solitude",
       date: "2023.05.10 - 2023.05.20",
@@ -1902,7 +1932,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Hayashi Takeshi",
       showName: "Haku-U",
-      date: "2023.04.15 - 2023.05.28",
+      date: "2023.04.15 - 2023.06.14",
       openingDate: ""
     }, {
       artist: "Hsiao Pei-I ",
