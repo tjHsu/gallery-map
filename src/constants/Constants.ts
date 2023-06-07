@@ -90,6 +90,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "WU Ying Hai",
+      showName: "Meditation Garden",
+      date: "2023.06.03 - 2023.06.24",
+      openingDate: "2023.06.10 sat 15:00"
+    }, {
       artist: "CHEN Jun Lang",
       showName: "Solo exhibition",
       date: "2023.05.06 - 2023.05.28",
@@ -595,6 +600,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LDRIN C. TAMIDLES, TWO FRONT TEETH",
+      showName: "Adventures in the Painting",
+      date: "2023.06.06 - 2023.07.08",
+      openingDate: ""
+    }, {
       artist: "Lin Yi Jon",
       showName: "Short Pause",
       date: "2023.04.11 - 2023.05.06",
@@ -1635,6 +1645,11 @@ export const GALLERIES = [
     website: "https://www.nunufineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Petah Coyne",
+      showName: "North Star",
+      date: "2023.05.07 - 2023.08.xx",
+      openingDate: ""
+    }, {
       artist: "Qi-Heng Xiao",
       showName: "Best Place Map Series",
       date: "2023.03.04 - 2023.04.29",
