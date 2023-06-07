@@ -1750,6 +1750,11 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chuang CheWei",
+      showName: "HORIZON",
+      date: "2023.06.10 - 2023.07.01",
+      openingDate: "2023.06.10 sat 19:00"
+    }, {
       artist: "PE Public Domain",
       showName: "Mikrokosmos(Bela Bartok)",
       date: "2023.05.06 - 2023.05.27",
