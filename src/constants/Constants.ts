@@ -555,6 +555,11 @@ export const GALLERIES = [
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "various artists",
+      showName: "Trasversing x Networking",
+      date: "2023.06.09 - 2023.06.24",
+      openingDate: "2023.06.09 fri 15:00"
+    }, {
       artist: "LIN Hung Hsin",
       showName: "Over. Abundance",
       date: "2023.05.05 - 2023.06.03",
@@ -1022,7 +1027,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "David Diao / Mari Eastman / Peter Fischli David Weiss / Gaylen Gerber / Max Guy / Arnold J. Kemp / Margaret Lee / Kevin Weil / Cici Wu",
       showName: "Daily Pictures",
-      date: "2023.05.10 - 2023.06.21",
+      date: "2023.05.10 - 2023.07.15",
       openingDate: "2023.04.08 sat 17:00 - 19:00"
     }, {
       artist: "IKEUCHI / Yukari Nishi / Keisuke Tada / Shohei Takasaki / Kazuma Yamamoto",
@@ -1325,6 +1330,11 @@ export const GALLERIES = [
     website: "https://www.insiangallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "various artist",
+      showName: "Group exhibition",
+      date: "2023.06.10 - 2023.06.30",
+      openingDate: "2023.06.10 sat 15:30"
+    }, {
       artist: "Jeff Koons",
       showName: "Balloon Dog",
       date: "2023.03.18 - 2023.03.31",
@@ -2075,6 +2085,11 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Po-Chun Liu",
+      showName: "Field of the Unknown",
+      date: "2023.06.10 - 2023.07.29",
+      openingDate: "2023.06.10 sat 16:30"
+    },{
       artist: "Li-lan",
       showName: "The Art of Flight",
       date: "2023.05.27 - 2023.07.01",
@@ -2290,6 +2305,26 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ong Hong Chuan",
+      showName: "What if?",
+      date: "2023.06.10 - 2023.07.01",
+      openingDate: "2023.06.10 sat 15:00-19:00"
+    }, {
+      artist: "Mai Yokoyama",
+      showName: "Hidden Mountain",
+      date: "2023.06.10 - 2023.07.01",
+      openingDate: "2023.06.10 sat 15:00-19:00"
+    }, {
+      artist: "Takahiro Matsumoto",
+      showName: "Not human but human",
+      date: "2023.06.10 - 2023.07.08",
+      openingDate: "2023.06.10 sat 15:00-19:00"
+    }, {
+      artist: "Mayuko Ose",
+      showName: "Teaching the shape of the moon",
+      date: "2023.06.10 - 2023.07.08",
+      openingDate: "2023.06.10 sat 15:00-19:00"
+    }, {
       artist: "Wu Chieh-Fan",
       showName: "Big Shot Bookstore",
       date: "2023.05.11 - 2023.06.03",
