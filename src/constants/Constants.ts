@@ -310,6 +310,21 @@ export const GALLERIES = [
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Joseph Olisaemeka Wilson",
+      showName: "	A witness to the Rub",
+      date: "2023.06.17 - 2023.07.30",
+      openingDate: "2023.06.07 sat 16:00"
+    },{
+      artist: "Laís Amaral, Samuel Bassett, Tomo Campbell",
+      showName: "Stream under Representation",
+      date: "2023.06.17 - 2023.07.30",
+      openingDate: "2023.06.07 sat 16:00"
+    },{
+      artist: "Izumi Kato",
+      showName: "Izumi Kato: The Asia Art Center Collection",
+      date: "2023.06.17 - 2023.07.30",
+      openingDate: "2023.06.07 sat 16:00"
+    }, {
       artist: "Carlo D’Anselmi",
       showName: "POINT BLANK RANGE",
       date: "2023.05.06 - 2023.06.11",
@@ -474,6 +489,11 @@ export const GALLERIES = [
       showName: "Abstraction",
       date: "2023.05.09 - 2023.07.29",
       openingDate: ""
+    }, {
+      artist: "Riera i Aragó",
+      showName: "The Voyage",
+      date: "2023.06.17 - 2023.09.10",
+      openingDate: "2023.06.17 sat 14:30 - 17:00"
     }, {
       artist: "Jan Kaláb",
       showName: "Blue Horizon",
@@ -842,7 +862,7 @@ export const GALLERIES = [
     }, {
       artist: "Kang Dong Hyun",
       showName: "Forest of Coexistence - Four Seasons",
-      date: "2023.05.01 - 2023.06.16",
+      date: "2023.05.01 - 2023.07.01",
       openingDate: ""
     }, {
       artist: "Makoto Lin & KONDO Satoru & Mong-jane Wu & Ma Li-Chun",
@@ -1995,6 +2015,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "XX LI",
+      showName: "It feels good to be me",
+      date: "2023.06.10 - 2023.07.01",
+      openingDate: ""
+    }, {
       artist: "NKSIN",
       showName: "UNRELATED",
       date: "2023.05.13 - 2023.06.03",
