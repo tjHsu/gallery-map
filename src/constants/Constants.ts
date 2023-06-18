@@ -750,6 +750,11 @@ export const GALLERIES = [
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "HSU Yu-Jen, LEE Kuang-Yu",
+      showName: "Void Garden",
+      date: "2023.06.17 - 2023.07.30",
+      openingDate: "2023.06.17 sat 16:30"
+    }, {
       artist: "TSAI Meng Chang",
       showName: "Invisible Gaze",
       date: "2023.04.29 - 2023.06.11",
@@ -2105,6 +2110,26 @@ export const GALLERIES = [
       address: "8F, NO.79-1, ZHOUZI ST., NEIHU DIST., TAIPEI CITY",
       gMapLink: "https://g.page/taoartspace?share",
       openingHours: "tue-sat 11:00-19:00"
+    }]
+  },
+    {
+    name: "TARTCH 得然藝術",
+    englishName: "TARTCH",
+    originalName: "得然藝術",
+    urlName: "TARTCH",
+    website: "https://www.tartch.com/index.aspx",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Zeng Lin-Yuan, Pan Chi-Fang",
+      showName: "The Light Catchers",
+      date: "2023.06.17 - 2023.07.29",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "114, Taipei City, Neihu District, Section 6, Nanjing E Rd, No. 503",
+      gMapLink: "https://goo.gl/maps/hrhGr6TA1xyd4AyT6",
+      openingHours: "mon-sat 10:00-18:30"
     }]
   },
   {
