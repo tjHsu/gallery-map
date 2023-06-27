@@ -800,6 +800,11 @@ export const GALLERIES = [
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lin Hao-Bai",
+      showName: "Encounters with Light",
+      date: "2023.06.24 - 2023.08.06",
+      openingDate: "2023.07.01 sat 16:00"
+    }, {
       artist: "Chin-Lung Huang",
       showName: "Flowing Imageries",
       date: "2023.04.29 - 2023.05.28",
@@ -1710,6 +1715,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Timm Blandin",
+      showName: "Have A Nice Day",
+      date: "2023.06.21 - 2023.07.02",
+      openingDate: ""
+    },{
       artist: "SHIGEKI MATSUYAMA X feebee",
       showName: "UBIQUITOUS IV",
       date: "2023.05.24 - 2023.06.10",
@@ -1915,6 +1925,11 @@ export const GALLERIES = [
     website: "https://www.pttspace.com/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Christine Wang",
+      showName: "Banana Philosophy",
+      date: "2023.06.24 - 2023.07.29",
+      openingDate: "2023.06.24 sat 16:00"
+    },{
       artist: "Hung Zhen-You",
       showName: "Breath",
       date: "2023.05.06 - 2023.06.10",
