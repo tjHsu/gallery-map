@@ -2359,7 +2359,7 @@ export const GALLERIES = [
   },
   {
     name: "Vaikuntha Art Gallery",
-    englishName: "Whitestone Gallery",
+    englishName: "Vaikuntha Gallery",
     originalName: "外琨塔 Vaikuntha 藝術生活中心",
     urlName: "Vaikuntha_Art_Gallery",
     website: "https://vaikunthakala.wixsite.com/vaikuntha?fbclid=IwAR1EfGvMyX8tjR5Zb9_Ve8fXnFvdBMT1g5aTU086T8S0s5ALvtY43IWKrqo",
