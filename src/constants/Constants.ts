@@ -90,6 +90,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "WU Ying Hai",
+      showName: "Meditation Garden",
+      date: "2023.06.03 - 2023.07.01",
+      openingDate: ""
+    },{
       artist: "CHEN Jun Lang",
       showName: "Solo exhibition",
       date: "2023.05.06 - 2023.05.28",
@@ -205,6 +210,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chung-Hsuan LAN",
+      showName: "αβγθ",
+      date: "2023.07.08 - 2023.07.30",
+      openingDate: "2023.07.08 sat 16:00"
+    }, {
       artist: "Nicolas Jullien, Ryuichi Ohira, James Jarvis",
       showName: "Playground",
       date: "2023.05.13 - 2023.06.11",
@@ -255,6 +265,11 @@ export const GALLERIES = [
     website: "http://www.artgalleryapollo.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "HUNG Jui-Ling, CHEN Te-Wang, CHANG Wan-Chuan, LU Chi-Cheng, HUANG Ching-Cheng, CHEN Chun-Te, HSIEH Kuo-Yung",
+      showName: "MOUVE 85 Anniversary",
+      date: "2023.07.01 - 2023.07.31",
+      openingDate: "2023.07.01 sat 15:00"
+    },{
       artist: "Santos Hu",
       showName: "Solo Exhibition",
       date: "2023.04.15 - 2023.05.27",
@@ -380,6 +395,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Mr. RED",
+      showName: "Solo exhibition",
+      date: "2023.06.29 - 2023.08.27",
+      openingDate: "2023.07.02 sun 14:30"
+    },{
       artist: "Haru K",
       showName: "Honey, I Blew Up the Food",
       date: "2023.04.27 - 2023.06.25",
@@ -575,6 +595,11 @@ export const GALLERIES = [
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hiroko TAKAHASHI",
+      showName: "SHOTO The Soughing of The Wind in The Pines",
+      date: "2023.07.07 - 2023.07.29",
+      openingDate: "2023.07.08 sat 15:00"
+    },{
       artist: "various artists",
       showName: "Trasversing x Networking",
       date: "2023.06.09 - 2023.06.24",
@@ -860,6 +885,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various Artists",
+      showName: "Animal Chat Room",
+      date: "2023.06.28 - 2023.07.23",
+      openingDate: ""
+    },{
       artist: "Clayton An",
       showName: "Dialogue in the Imagined Garden",
       date: "2023.05.31 - 2023.06.25",
@@ -960,6 +990,16 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Huang Chih-Cheng",
+      showName: "Ū-iánn",
+      date: "2023.07.01 - 2023.08.12",
+      openingDate: "2023.07.01 sat 15:00"
+    },{
+      artist: "Lolo & Sosaku",
+      showName: "Spectrum Motion",
+      date: "2023.07.01 - 2023.08.12",
+      openingDate: "2023.07.01 sat 15:00"
+    },{
       artist: "Lin Kun-Ying, Lin Shu-Kai, Ni Hsiang, Huang Wan-Ling, Chang Li-Ren, Mia Liu, Ou Li-Ting",
       showName: "Haven’t seen Abraham",
       date: "2023.05.06 - 2023.06.17",
@@ -1155,6 +1195,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LI Yuan-Chia, Yi-Chen HUNG, Szumin KUO",
+      showName: "Joint exhibition",
+      date: "2023.07.01 - 2023.08.05",
+      openingDate: "2023.07.01 sat 15:00 - 17:00"
+    }, {
       artist: "Ryo SHINAGAWA",
       showName: "Solo exhibition",
       date: "2023.05.27 - 2023.06.24",
@@ -1520,6 +1565,21 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LEE Ming-tse",
+      showName: "Dashu Contemporary",
+      date: "2023.07.08 - 2023.08.19",
+      openingDate: "2023.07.08 sat 15:00"
+    }, {
+      artist: "Christopher TAYLOR",
+      showName: "Woodlands",
+      date: "2023.07.08 - 2023.08.19",
+      openingDate: "2023.07.08 sat 15:00"
+    }, {
+      artist: "Dan MĂCIUCĂ",
+      showName: "Spots of Reality Hidden Under the Gray Lens",
+      date: "2023.07.08 - 2023.08.19",
+      openingDate: "2023.07.08 sat 15:00"
+    }, {
       artist: "Marina CRUZ, QIN Yifeng, Albert Yonathan SETYAWAN, SHI Jin-Hua, SHI Jinsong, WU Tseng Jung",
       showName: "Figurative Abstraction",
       date: "2023.04.22 - 2023.06.24",
@@ -1590,6 +1650,11 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "I Ting KUO",
+      showName: "be with you in the wilderness",
+      date: "2023.07.01 - 2023.08.20",
+      openingDate: "2023.07.08 sat 15:00"
+    }, {
       artist: "Meng-Shu You",
       showName: "Getting Lost in My Mind",
       date: "2023.05.13 - 2023.06.18",
@@ -1665,6 +1730,11 @@ export const GALLERIES = [
     website: "https://www.nunufineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Thordis Adalsteinsdottir",
+      showName: "Conversations During a Heatwave",
+      date: "2023.07.08 - 2023.08.31",
+      openingDate: "2023.07.08 sat 17:00"
+    }, {
       artist: "Qi-Heng Xiao",
       showName: "Best Place Map Series",
       date: "2023.03.04 - 2023.04.29",
@@ -1875,6 +1945,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Candy Bird",
+      showName: "there, there",
+      date: "2023.07.01 - 2023.08.05",
+      openingDate: "2023.07.08 sat 15:30"
+    }, {
       artist: "OU Jing-Yun",
       showName: "The end of illusions",
       date: "2023.05.06 - 2023.06.17",
@@ -2268,6 +2343,41 @@ export const GALLERIES = [
     }]
   },
   {
+    name: "V",
+    englishName: "",
+    originalName: "",
+    urlName: "",
+    website: "",
+    isSeparator: true,
+    exhibitions: [],
+    locations: [{
+      locationName: "",
+      address: "",
+      gMapLink: "",
+      openingHours: ""
+    }]
+  },
+  {
+    name: "Vaikuntha Art Gallery",
+    englishName: "Whitestone Gallery",
+    originalName: "外琨塔 Vaikuntha 藝術生活中心",
+    urlName: "Vaikuntha_Art_Gallery",
+    website: "https://vaikunthakala.wixsite.com/vaikuntha?fbclid=IwAR1EfGvMyX8tjR5Zb9_Ve8fXnFvdBMT1g5aTU086T8S0s5ALvtY43IWKrqo",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Chen Fang Ho",
+      showName: "Sometimes",
+      date: "2023.07.15 - 2023.08.06",
+      openingDate: "2023.07.15 sat 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 3-1, Lane 55, Chaozhou St, Da’an District, Taipei City 10642",
+      gMapLink: "https://goo.gl/maps/FzF2MsSKgAvS9yBs6",
+      openingHours: "tue-sat 11:00-18:00 sun by appointment"
+    }]
+  },
+  {
     name: "W",
     englishName: "",
     originalName: "",
@@ -2290,6 +2400,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Soonik KWON",
+      showName: "Interstice of Time: Soonik KWON at Present",
+      date: "2023.07.01 - 2023.08.12",
+      openingDate: "2023.07.01 sat 16:00"
+    }, {
       artist: "Chris Succo",
       showName: "Recent Paintings",
       date: "2023.05.06 - 2023.06.17",
