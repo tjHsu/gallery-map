@@ -640,6 +640,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LDRIN C. TAMIDLES, TWO FRONT TEETH ",
+      showName: "Adventures in the Painting",
+      date: "2023.06.06 - 2023.07.08",
+      openingDate: ""
+    }, {
       artist: "Lin Yi Jon",
       showName: "Short Pause",
       date: "2023.04.11 - 2023.05.06",
@@ -720,6 +725,11 @@ export const GALLERIES = [
     website: "https://www.galleryxchiao.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Beryl Wu",
+      showName: "Icky Hickey!",
+      date: "2023.07.22 - ",
+      openingDate: ""
+    },{
       artist: "Heath West & WU Wei-ting",
       showName: "Breathing Room",
       date: "2023.03.22 - 2023.05.06",
@@ -960,6 +970,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Nio Ni",
+      showName: "Side by Side",
+      date: "2023.07.08 - 2023.08.20",
+      openingDate: "2023.07.08 sat 14:00-17:00"
+    }, {
       artist: "David Williams",
       showName: "Night, Day & In Between",
       date: "2023.05.13 - 2023.06.25",
@@ -2358,7 +2373,7 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "Vaikuntha Art Gallery",
+    name: "Vaikuntha Art Gallery 外琨塔 Vaikuntha 藝術生活中心",
     englishName: "Vaikuntha Art Gallery",
     originalName: "外琨塔 Vaikuntha 藝術生活中心",
     urlName: "Vaikuntha_Art_Gallery",
