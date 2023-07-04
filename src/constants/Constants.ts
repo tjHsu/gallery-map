@@ -1800,6 +1800,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
+      showName: "plus plus ++",
+      date: "2023.07.05 - 2023.07.19",
+      openingDate: ""
+    },{
       artist: "Timm Blandin",
       showName: "Have A Nice Day",
       date: "2023.06.21 - 2023.07.02",
