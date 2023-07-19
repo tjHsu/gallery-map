@@ -1938,7 +1938,7 @@ export const GALLERIES = [
     },{
       showName: "Tseng Chun-Jia",
       artist: "",
-      date: "2023.08.02",
+      date: "2023.08.03",
       openingDate: ""
     },{
       showName: "Reza Afisina",
