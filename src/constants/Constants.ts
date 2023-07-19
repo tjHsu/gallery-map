@@ -30,6 +30,16 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Akio Onishi, Syu Kanesawa, Ko Kikuchi, Cocoro Nakaura, Ami Kondo, Miki Takizawa, neuronoa, Yuka Numata, Misaki Furukawa, Misaki Furukawa, Haruna Mitobe",
+      showName: "IGNITION Japan-Taiwan Exhibition ArtSticker X 333 GALLERY",
+      date: "2023.07.15 - 2023.08.05",
+      openingDate: "2023.07.21 fri 14:00-17:00"
+    },{
+      artist: "Austyn Taylor, Cc, Chisato Tatumi, Eggzy, getFreaky, Han Han, Hyung Seok Shin, lan Bertolucci, Iurum, Kim Jihee, Nathan Paddison, PoppyKa, Sanghee Park, Tingky, Yeji Seo, Yi Shu",
+      showName: "B3ARS",
+      date: "2023.07.22 - 2023.09.01",
+      openingDate: "2023.07.22 sat 14:00-17:00"
+    },{
       artist: "Kim Jihee",
       showName: "Gilding Fever",
       date: "2023.05.20 - 2023.06.25",
@@ -61,10 +71,15 @@ export const GALLERIES = [
       openingDate: ""
     }],
     locations: [{
-      locationName: "",
+      locationName: "333GALLERY",
       address: "No. 130, Xinhu 2nd Rd, Neihu District",
       gMapLink: "https://goo.gl/maps/HJEw5GbJVTXGsALx9",
       openingHours: "tue-sat 11:00-19:00"
+    }, {
+      locationName: "333GALLERY BREEZE NAN SHAN",
+      address: "3F, No.39, Sec.1, Fu-Xing S. Rd., Taipei 105",
+      gMapLink: "https://goo.gl/maps/LCkEYorcpWRjSQQD6",
+      openingHours: "sun–wed 11:00-21:30 thur-sat 11:00-22:00"
     }]
   },
   {
@@ -90,6 +105,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yang Yu Lin",
+      showName: "THE LEAF",
+      date: "2023.07.08 - 2023.07.29",
+      openingDate: ""
+    },{
       artist: "WU Ying Hai",
       showName: "Meditation Garden",
       date: "2023.06.03 - 2023.07.01",
@@ -165,6 +185,11 @@ export const GALLERIES = [
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Huang Yu-Shan",
+      showName: "Sardine",
+      date: "2023.07.07 - 2023.08.19",
+      openingDate: ""
+    }, {
       artist: "Chou Yo Chen",
       showName: "Infinite Sea",
       date: "2023.05.12 - 2023.07.01",
@@ -640,6 +665,11 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: Nia Bai, Ching-Chih Wu, Pei-Yu Shih, Le-Yuan Ma, Shu-Fan Kuo, Yu-Lin Chen, Julia Hsin-Yi Yang, Yu-Chi Liu, Yi-Chun Pan, Yu-Jheng Cai, Yi-Te Tsai, Yi-Hsin Cheng, Ssu-Yu Zheng",
+      showName: "Summer Sweet Harmony",
+      date: "2023.07.11 - 2023.09.02",
+      openingDate: ""
+    }, {
       artist: "LDRIN C. TAMIDLES, TWO FRONT TEETH ",
       showName: "Adventures in the Painting",
       date: "2023.06.06 - 2023.07.08",
@@ -727,8 +757,8 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Beryl Wu",
       showName: "Icky Hickey!",
-      date: "2023.07.22 - ",
-      openingDate: ""
+      date: "2023.07.22 - 2023.09.02",
+      openingDate: "2023.07.22 sat 15:00-17:00"
     },{
       artist: "Heath West & WU Wei-ting",
       showName: "Breathing Room",
@@ -1110,6 +1140,11 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lin YiHsuan",
+      showName: "Density",
+      date: "2023.07.25 - 2023.09.02",
+      openingDate: "2023.07.29 sat 16:00-18:00"
+    }, {
       artist: "David Diao / Mari Eastman / Peter Fischli David Weiss / Gaylen Gerber / Max Guy / Arnold J. Kemp / Margaret Lee / Kevin Weil / Cici Wu",
       showName: "Daily Pictures",
       date: "2023.05.10 - 2023.07.15",
@@ -1290,6 +1325,11 @@ export const GALLERIES = [
     website: "https://hirohiroartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Melanie Daniel",
+      showName: "The Way of Flowers and Ghost",
+      date: "2023.07.15 - 2023.08.20",
+      openingDate: "2023.07.15 sat 16:00"
+    }, {
       artist: "IZUMI Keiji",
       showName: "Today we take a different path from what we did yesterday",
       date: "2023.05.20 - 2023.06.25",
@@ -1380,6 +1420,11 @@ export const GALLERIES = [
     website: "https://www.inriver.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chang Yi Sheng, Chen Yun Yi",
+      showName: "Joint exhibition",
+      date: "2023.07.22 - 2023.08.31",
+      openingDate: "2023.07.22 sat 15:00"
+    }, {
       artist: "Chen Shao Yen, Hung Yu Hsi",
       showName: "Creating Light",
       date: "2023.05.13 - 2023.07.12",
@@ -1875,6 +1920,46 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "",
+      showName: "PE Summer Program",
+      date: "2023.07.20 - 2023.08.31",
+      openingDate: ""
+    },{
+      artist: "Shuangxi",
+      showName: "",
+      date: "2023.07.20",
+      openingDate: ""
+    }, {
+      artist: "Vika Kirchenbauer",
+      showName: "",
+      date: "2023.07.27",
+      openingDate: ""
+    },{
+      artist: "Tseng Chun-Jia",
+      showName: "",
+      date: "2023.08.02",
+      openingDate: ""
+    },{
+      artist: "Reza Afisina",
+      showName: "",
+      date: "2023.08.10",
+      openingDate: ""
+    },{
+      artist: "Die Kette Moabit",
+      showName: "",
+      date: "2023.08.17",
+      openingDate: ""
+    },{
+      artist: "Samantha Sea Sea",
+      showName: "",
+      date: "2023.08.24",
+      openingDate: ""
+    },{
+      artist: "Objet A.D (80)",
+      showName: "",
+      date: "2023.08.31",
+      openingDate: ""
+    },{
       artist: "Chuang CheWei",
       showName: "HORIZON",
       date: "2023.06.10 - 2023.07.01",
@@ -1899,7 +1984,7 @@ export const GALLERIES = [
       locationName: "",
       address: "No.5 Lane 129 Daoxiang Rd Beitou Taipei",
       gMapLink: "https://goo.gl/maps/tDYToZPKKQUS4eUa6",
-      openingHours: "sat 17:00-19:00 or by appointment"
+      openingHours: "thur 18:00-22:00 or by appointment"
     }]
   },
   {
@@ -2130,6 +2215,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tai Xiangzhou",
+      showName: "River Map",
+      date: "2023.07.08 - 2023.08.05",
+      openingDate: ""
+    }, {
       artist: "XX LI",
       showName: "It feels good to be me",
       date: "2023.06.10 - 2023.07.01",
@@ -2197,7 +2287,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "LAURENT GRASSO",
       showName: "TIME LEAVES",
-      date: "2023.05.10 - 2023.07.15",
+      date: "2023.05.10 - 2023.07.22",
       openingDate: ""
     }, {
       artist: "Mak2",
@@ -2313,13 +2403,18 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "TKG+",
-    englishName: "TKG+",
-    originalName: "TKG+",
+    name: "TKG+ Projects",
+    englishName: "TKG+ Projects",
+    originalName: "TKG+ Projects",
     urlName: "TKG+",
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chung Chung-Yu",
+      showName: "Clock In, Clock Out",
+      date: "2023.07.15 - 2023.10.07",
+      openingDate: "2023.07.15 sat 16:30"
+    }, {
       artist: "Joyce Ho",
       showName: "Counting",
       date: "2023.05.10 - 2023.07.29",
@@ -2420,6 +2515,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "ARU Meng",
+      showName: "Dreams in the Starry Sky",
+      date: "2023.07.08 - 2023.08.26",
+      openingDate: ""
+    }, {
       artist: "Soonik KWON",
       showName: "Interstice of Time: Soonik KWON at Present",
       date: "2023.07.01 - 2023.08.12",
@@ -2510,6 +2610,21 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yuan Hsin-Yuan",
+      showName: "A faint sound",
+      date: "2023.07.15 - 2023.08.05",
+      openingDate: "2023.07.15 sat 15:00-19:00"
+    },{
+      artist: "Kyoko Shindo",
+      showName: "Duality",
+      date: "2023.07.15 - 2023.08.05",
+      openingDate: "2023.07.15 sat 15:00-19:00"
+    },{
+      artist: "Wen Chia-Ning",
+      showName: "Of Mice and Women",
+      date: "2023.07.15 - 2023.08.05",
+      openingDate: "2023.07.15 sat 15:00-19:00"
+    },{
       artist: "Ong Hong Chuan",
       showName: "What if?",
       date: "2023.06.10 - 2023.07.01",
