@@ -1919,47 +1919,49 @@ export const GALLERIES = [
     urlName: "PE_Gallery",
     website: "https://performanceepistemology.com/",
     isSeparator: false,
-    exhibitions: [{
-      artist: "",
-      showName: "PE Summer Program",
-      date: "2023.07.20 - 2023.08.31",
-      openingDate: ""
-    },{
-      artist: "Shuangxi",
-      showName: "",
-      date: "2023.07.20",
-      openingDate: ""
-    }, {
-      artist: "Vika Kirchenbauer",
-      showName: "",
-      date: "2023.07.27",
-      openingDate: ""
-    },{
-      artist: "Tseng Chun-Jia",
-      showName: "",
-      date: "2023.08.02",
-      openingDate: ""
-    },{
-      artist: "Reza Afisina",
-      showName: "",
-      date: "2023.08.10",
-      openingDate: ""
-    },{
-      artist: "Die Kette Moabit",
-      showName: "",
-      date: "2023.08.17",
-      openingDate: ""
-    },{
-      artist: "Samantha Sea Sea",
-      showName: "",
-      date: "2023.08.24",
-      openingDate: ""
-    },{
-      artist: "Objet A.D (80)",
-      showName: "",
-      date: "2023.08.31",
-      openingDate: ""
-    },{
+    exhibitions: [
+// {
+//       artist: "",
+//       showName: "PE Summer Program",
+//       date: "2023.07.20 - 2023.08.31",
+//       openingDate: ""
+//     },{
+//       artist: "Shuangxi",
+//       showName: "",
+//       date: "2023.07.20",
+//       openingDate: ""
+//     }, {
+//       artist: "Vika Kirchenbauer",
+//       showName: "",
+//       date: "2023.07.27",
+//       openingDate: ""
+//     },{
+//       artist: "Tseng Chun-Jia",
+//       showName: "",
+//       date: "2023.08.02",
+//       openingDate: ""
+//     },{
+//       artist: "Reza Afisina",
+//       showName: "",
+//       date: "2023.08.10",
+//       openingDate: ""
+//     },{
+//       artist: "Die Kette Moabit",
+//       showName: "",
+//       date: "2023.08.17",
+//       openingDate: ""
+//     },{
+//       artist: "Samantha Sea Sea",
+//       showName: "",
+//       date: "2023.08.24",
+//       openingDate: ""
+//     },{
+//       artist: "Objet A.D (80)",
+//       showName: "",
+//       date: "2023.08.31",
+//       openingDate: ""
+//     },
+{
       artist: "Chuang CheWei",
       showName: "HORIZON",
       date: "2023.06.10 - 2023.07.01",
