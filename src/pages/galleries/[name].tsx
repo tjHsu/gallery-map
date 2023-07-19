@@ -94,12 +94,22 @@ const ExhibitionItem = ({
   openingDate
 }: Exhibition) => {
   const opening = openingDate.length !== 0 ? 'Opening ' + openingDate : ''
+
+  if (!artist && !openingDate) {
+    return (
+    <tr>
+      <td className="break-word whitespace-normal">{showName}</td>
+      <td className="break-word whitespace-normal align-top">{date}</td>
+    </tr>
+    )
+  } else {
   return (
     <tr>
       <td className="break-word whitespace-normal">{artist} <br /> {showName}</td>
       <td className="break-word whitespace-normal align-top">{date} <br />  {opening}</td>
     </tr>
-  )
+    )
+  }
 };
 
 const LocationItem = ({
