@@ -665,7 +665,7 @@ export const GALLERIES = [
     website: "https://www.cc-gallery.com/",
     isSeparator: false,
     exhibitions: [{
-      artist: Nia Bai, Ching-Chih Wu, Pei-Yu Shih, Le-Yuan Ma, Shu-Fan Kuo, Yu-Lin Chen, Julia Hsin-Yi Yang, Yu-Chi Liu, Yi-Chun Pan, Yu-Jheng Cai, Yi-Te Tsai, Yi-Hsin Cheng, Ssu-Yu Zheng",
+      artist: "Nia Bai, Ching-Chih Wu, Pei-Yu Shih, Le-Yuan Ma, Shu-Fan Kuo, Yu-Lin Chen, Julia Hsin-Yi Yang, Yu-Chi Liu, Yi-Chun Pan, Yu-Jheng Cai, Yi-Te Tsai, Yi-Hsin Cheng, Ssu-Yu Zheng",
       showName: "Summer Sweet Harmony",
       date: "2023.07.11 - 2023.09.02",
       openingDate: ""
