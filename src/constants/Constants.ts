@@ -2405,9 +2405,9 @@ export const GALLERIES = [
     }]
   },
   {
-    name: "TKG+ Projects",
-    englishName: "TKG+ Projects",
-    originalName: "TKG+ Projects",
+    name: "TKG+",
+    englishName: "TKG+",
+    originalName: "TKG+",
     urlName: "TKG+",
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
