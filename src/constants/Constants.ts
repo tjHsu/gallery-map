@@ -1845,6 +1845,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Soichi Yamaguchi",
+      showName: "Flowers",
+      date: "2023.07.21 - 2023.08.04",
+      openingDate: ""
+    },{
       artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
       showName: "plus plus ++",
       date: "2023.07.05 - 2023.07.19",
