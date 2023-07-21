@@ -1792,7 +1792,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Thordis Adalsteinsdottir",
       showName: "Conversations During a Heatwave",
-      date: "2023.07.08 - 2023.08.31",
+      date: "2023.07.08 - 2023.08.06",
       openingDate: "2023.07.08 sat 17:00"
     }, {
       artist: "Qi-Heng Xiao",
