@@ -2002,6 +2002,11 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Peter Opheim",
+      showName: "The Sublime and Elusive Flower",
+      date: "2023.07.29 - 2023.07.26",
+      openingDate: "2023.07.29 sat 15:00"
+    },{
       artist: "𝐆𝐞𝐨𝐫𝐠𝐞 𝐁𝐲𝐫𝐧𝐞",
       showName: "𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐞 𝐂𝐢𝐭𝐲",
       date: "2023.06.03 - 2023.07.08",
@@ -2359,7 +2364,7 @@ export const GALLERIES = [
     }, {
       artist: "Yun Gee",
       showName: "Midjourney",
-      date: "2023.05.27 - 2023.07.29",
+      date: "2023.05.27 - 2023.08.12",
       openingDate: "2023.05.27 sat 16:30"
     }, {
       artist: "Yuan Hui-Li",
