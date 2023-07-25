@@ -2004,7 +2004,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Peter Opheim",
       showName: "The Sublime and Elusive Flower",
-      date: "2023.07.29 - 2023.07.26",
+      date: "2023.07.29 - 2023.08.26",
       openingDate: "2023.07.29 sat 15:00"
     },{
       artist: "𝐆𝐞𝐨𝐫𝐠𝐞 𝐁𝐲𝐫𝐧𝐞",
