@@ -109,6 +109,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "HUANG YU-CHIEN",
+      showName: "The topics of those affections, assemblages,and secrets",
+      date: "2023.08.05 - 2023.08.26",
+      openingDate: "2023.08.05 sat 15:00"
+    },{
       artist: "Yang Yu Lin",
       showName: "THE LEAF",
       date: "2023.07.08 - 2023.07.29",
@@ -242,6 +247,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Satoru KOIZUMI",
+      showName: "Portraits 100 Years On",
+      date: "2023.08.05 - 2023.08.27",
+      openingDate: "2023.08.05 sat 16:00"
+    },{
       artist: "Chung-Hsuan LAN",
       showName: "αβγθ",
       date: "2023.07.08 - 2023.07.30",
@@ -360,6 +370,21 @@ export const GALLERIES = [
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ju Ming",
+      showName: "Taichi Arch: Ju Ming Solo Exhibition",
+      date: "2023.08.05 - 2023.09.17",
+      openingDate: "2023.08.05 sat 16:00"
+    },{
+      artist: "Jeremy Olson",
+      showName: "zoognosis",
+      date: "2023.08.05 - 2023.09.17",
+      openingDate: "2023.08.12 sat 16:00"
+    },{
+      artist: "Hime",
+      showName: "ABEILLE",
+      date: "2023.08.05 - 2023.09.17",
+      openingDate: "2023.08.13 sun 16:00"
+    },{
       artist: "Joseph Olisaemeka Wilson",
       showName: "	A witness to the Rub",
       date: "2023.06.17 - 2023.07.30",
@@ -509,6 +534,11 @@ export const GALLERIES = [
     website: "https://www.loranger.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tadashi Kawamata",
+      showName: "DESTRUCTION",
+      date: "2023.07.15 - 2023.10.07",
+      openingDate: ""
+    },{
       artist: "Lin Hong-Wen",
       showName: "Chapters as Dreams",
       date: "2023.03.11 - 2023.05.06",
@@ -840,6 +870,11 @@ export const GALLERIES = [
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Torlarp Larpjaroensook",
+      showName: "Endless Memory",
+      date: "2023.08.05 - 2023.09.17",
+      openingDate: "2023.08.19 sat 15:00"
+    }, {
       artist: "HSU Yu-Jen, LEE Kuang-Yu",
       showName: "Void Garden",
       date: "2023.06.17 - 2023.07.30",
@@ -953,6 +988,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kang Dong Hyun",
+      showName: "Exotic Forest",
+      date: "2023.07.26 - 2023.08.20",
+      openingDate: ""
+    },{
       artist: "Various Artists",
       showName: "Animal Chat Room",
       date: "2023.06.28 - 2023.07.23",
@@ -1422,6 +1462,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various Artists",
+      showName: "Border Town - East Asian Painting in the Modern City",
+      date: "2023.08.05 - 2023.08.26",
+      openingDate: "2023.08.05 dat 15:00"
+    }, {
       artist: "Chang Wei Yuan & Chien Shih Ju",
       showName: "Contemplation of the Huma Realm- Joint Exhibition of Ink and Rock color",
       date: "2023.06.03 - 2023.06.24",
@@ -1572,6 +1617,11 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Chu-Li",
+      showName: "In the Making",
+      date: "2023.08.05 - 2023.09.10",
+      openingDate: "2023.08.05 sat 15:00"
+    },{
       artist: "Various artists",
       showName: "The Subtext - Beyond the Words",
       date: "2023.02.11 - 2023.03.31",
@@ -2241,6 +2291,16 @@ export const GALLERIES = [
     website: "http://www.redgoldfineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kazumi Nakamura",
+      showName: "A Bird in its Existence",
+      date: "2023.07.08 - 2023.08.27",
+      openingDate: ""
+    }, {
+      artist: "Yukie Ishikawa",
+      showName: "Impermanence",
+      date: "2023.07.08 - 2023.08.27",
+      openingDate: ""
+    }, {
       artist: "Hayashi Takeshi",
       showName: "Haku-U",
       date: "2023.04.15 - 2023.06.14",
@@ -2422,6 +2482,11 @@ export const GALLERIES = [
     website: "https://www.tinakenggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yao Jui-Chung",
+      showName: "Invidia",
+      date: "2023.08.05 - 2023.09.23",
+      openingDate: "2023.08.05 sat 16:30"
+    },{
       artist: "Po-Chun Liu",
       showName: "Field of the Unknown",
       date: "2023.06.10 - 2023.07.29",
