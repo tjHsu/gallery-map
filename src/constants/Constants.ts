@@ -1323,6 +1323,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Austin TZENG, Cowper WANG, HO Li, 57, Sangna Take, Pu CHEN, Laba, HUANG Yuan, Abei LIU, Umao, Masanori USHIKI, Kotaro TSUDA, Hiroyuki MORI, Taichi YOSHIMURA",
+      showName: "ANIMAMIX 2023",
+      date: "2023.08.12 - 2023.09.09",
+      openingDate: "2023.08.12 sat 15:00 - 17:00"
+    }, {
       artist: "LI Yuan-Chia, Yi-Chen HUNG, Szumin KUO",
       showName: "Joint exhibition",
       date: "2023.07.01 - 2023.08.05",
@@ -1952,9 +1957,19 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tombola Soh, oyasumi",
+      showName: "AKANESASUHI - Kissed by sun",
+      date: "2023.08.09 - 2023.08.19",
+      openingDate: ""
+    },{
       artist: "Soichi Yamaguchi",
       showName: "Flowers",
       date: "2023.07.21 - 2023.08.04",
+      openingDate: ""
+    },{
+      artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
+      showName: "plus plus ++",
+      date: "2023.07.05 - 2023.07.19",
       openingDate: ""
     },{
       artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
@@ -2353,6 +2368,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Vincent Fang",
+      showName: "The artist’s way of Vincent Fang",
+      date: "2023.08.12 - 2023.09.16",
+      openingDate: "2023.08.12 sat 16:00"
+    }, {
       artist: "Tai Xiangzhou",
       showName: "River Map",
       date: "2023.07.08 - 2023.08.05",
@@ -2425,6 +2445,11 @@ export const GALLERIES = [
     website: "https://www.taoartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lu Hao‐Yuan, Christina Liu, Chang Huei‐Ming, Tseng Chien‐Ying",
+      showName: "What's Old Becomes New Again",
+      date: "2023.08.11 - 2023.10.21",
+      openingDate: "2023.08.11 fri 16:00 - 19:00"
+    }, {
       artist: "LAURENT GRASSO",
       showName: "TIME LEAVES",
       date: "2023.05.10 - 2023.07.22",
@@ -2632,6 +2657,11 @@ export const GALLERIES = [
     website: "https://vaikunthakala.wixsite.com/vaikuntha?fbclid=IwAR1EfGvMyX8tjR5Zb9_Ve8fXnFvdBMT1g5aTU086T8S0s5ALvtY43IWKrqo",
     isSeparator: false,
     exhibitions: [{
+      artist: "Bo Ju Wu",
+      showName: "The Lover Of Island",
+      date: "2023.08.12 - 2023.09.03",
+      openingDate: "2023.08.12 sat 15:00"
+    },{
       artist: "Chen Fang Ho",
       showName: "Sometimes",
       date: "2023.07.15 - 2023.08.06",
