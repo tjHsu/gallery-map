@@ -1900,6 +1900,11 @@ export const GALLERIES = [
     website: "https://www.nunufineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Siri Kollandsrud",
+      showName: "We are in it together",
+      date: "2023.08.18 - 2023.09.08",
+      openingDate: "2023.08.18 sat 17:00"
+    },{
       artist: "Thordis Adalsteinsdottir",
       showName: "Conversations During a Heatwave",
       date: "2023.07.08 - 2023.08.06",
@@ -2188,6 +2193,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Sean Wang",
+      showName: "Emerging- Melt with Reality",
+      date: "2023.08.19 - 2023.09.30",
+      openingDate: "2023.08.19 sat 15:00"
+    }, {
       artist: "Candy Bird",
       showName: "there, there",
       date: "2023.07.01 - 2023.08.05",
@@ -2486,6 +2496,11 @@ export const GALLERIES = [
     website: "https://www.tartch.com/index.aspx",
     isSeparator: false,
     exhibitions: [{
+      artist: "Wu Tung Lung, Hung Zhen-You, Meng-Yu Wen, Crystal Lupa, Wang Liang-Yin, Yi-Fang Wang",
+      showName: "First Bloom",
+      date: "2023.08.12 - 2023.09.16",
+      openingDate: ""
+    },{
       artist: "Zeng Lin-Yuan, Pan Chi-Fang",
       showName: "The Light Catchers",
       date: "2023.06.17 - 2023.07.29",
@@ -2797,6 +2812,21 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lu Yi-Lin",
+      showName: "Slip Away Once in a While",
+      date: "2023.08.17 - 2023.09.09",
+      openingDate: "2023.08.19 sat 15:00-19:00"
+    },{
+      artist: "Kai-Chun Chang",
+      showName: "Neither Storm Nor Sunshine",
+      date: "2023.08.17 - 2023.09.09",
+      openingDate: "2023.08.19 sat 15:00-19:00"
+    },{
+      artist: "Wang Guan-Jhen, Chen Hsian-Jung, Chen Nien-Ying, Chen Ching-Ming, Huang Hung-Yu, Sun Pei-Mao, Liu Chih-hung, Yen Yu-Ting, Lin Lulu , Thijs Jaeger",
+      showName: "Unruly Clay 2.0",
+      date: "2023.08.17 - 2023.09.09",
+      openingDate: "2023.08.19 sat 15:00-19:00"
+    },{
       artist: "Yuan Hsin-Yuan",
       showName: "A faint sound",
       date: "2023.07.15 - 2023.08.05",
