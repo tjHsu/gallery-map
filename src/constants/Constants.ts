@@ -2714,6 +2714,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jiro YOSHIHARA, Kazuo SHIRAGA, Yasuo SUMI, Shozo SHIMAMOTO, Atsuko TANAKA",
+      showName: "AFTER GUTAI: Free Collision",
+      date: "2023.08.19 - 2023.09.30",
+      openingDate: ""
+    },{
       artist: "ARU Meng",
       showName: "Dreams in the Starry Sky",
       date: "2023.07.08 - 2023.08.26",
