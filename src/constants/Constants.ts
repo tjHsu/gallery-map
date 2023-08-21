@@ -988,6 +988,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "No Sooncheon",
+      showName: "Relic & Human",
+      date: "2023.08.23 - 2023.09.24",
+      openingDate: "2023.08.25 fri 16:30 - 17:30"
+    },{
       artist: "Kang Dong Hyun",
       showName: "Exotic Forest",
       date: "2023.07.26 - 2023.08.20",
@@ -1106,6 +1111,16 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chu Teh-I",
+      showName: "Euphony, Polyphony",
+      date: "2023.08.26 - 2023.10.07",
+      openingDate: "2023.09.02 sat 15:00"
+    },{
+      artist: "Florian Claar",
+      showName: "Sweet Dreams / Silent Music",
+      date: "2023.08.26 - 2023.10.07",
+      openingDate: "2023.09.02 sat 15:00"
+    },{
       artist: "Huang Chih-Cheng",
       showName: "Ū-iánn",
       date: "2023.07.01 - 2023.08.12",
@@ -2254,6 +2269,11 @@ export const GALLERIES = [
     website: "https://www.pttspace.com/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Sun Pei-Mao, Yang Lee, Hsieh Mu-Chi, Khong Kiang-Ze",
+      showName: "Dogfight",
+      date: "2023.08.26 - 2023.10.21",
+      openingDate: "2023.08.26 sat 15:00"
+    },{
       artist: "Christine Wang",
       showName: "Banana Philosophy",
       date: "2023.06.24 - 2023.07.29",
@@ -2318,12 +2338,12 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Kazumi Nakamura",
       showName: "A Bird in its Existence",
-      date: "2023.07.08 - 2023.08.27",
+      date: "2023.07.08 - 2023.09.03",
       openingDate: ""
     }, {
       artist: "Yukie Ishikawa",
       showName: "Impermanence",
-      date: "2023.07.08 - 2023.08.27",
+      date: "2023.07.08 - 2023.09.03",
       openingDate: ""
     }, {
       artist: "Hayashi Takeshi",
