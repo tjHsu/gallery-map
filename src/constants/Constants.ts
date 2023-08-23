@@ -926,6 +926,11 @@ export const GALLERIES = [
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tadakazu Maeda",
+      showName: "Healing Time",
+      date: "2023.08.12 - 2023.09.10",
+      openingDate: "2023.08.12 sat 15:00"
+    },{
       artist: "Lin Hao-Bai",
       showName: "Encounters with Light",
       date: "2023.06.24 - 2023.08.06",
@@ -1184,28 +1189,33 @@ export const GALLERIES = [
       openingHours: "tue-sat 11:00-18:00"
     }]
   },
-  // {
-  //   name: "Dynasty Gallery 朝代畫廊",
-  //   englishName: "Dynasty Gallery",
-  //   originalName: "朝代畫廊",
-  //   urlName: "Dynasty_Gallery",
-  //   website: "https://dynastyart.com",
-  //   isSeparator: false,
-  //   exhibitions: [],
-  //   locations: [{
-  //     locationName: "Dynasty Gallery Hall A",
-  //     address: "1F, No.41, Le Li Road, Taipei City 10678 Taiwan",
-  //     position: [],
-  //     gMapLink: "",
-  //     openingHours: "mon-sat 13:00-19:00"
-  //   }, {
-  //     locationName: "Dynasty Gallery Hall B",
-  //     address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
-  //     position: [],
-  //     gMapLink: "https://goo.gl/maps/6NUrMMrnyEGgMzsR6",
-  //     openingHours: "mon-sat 13:00-19:00"
-  //   }]
-  // },
+  {
+    name: "Dynasty Gallery 朝代畫廊",
+    englishName: "Dynasty Gallery",
+    originalName: "朝代畫廊",
+    urlName: "Dynasty_Gallery",
+    website: "https://dynastyart.com",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Pei-Chi KUO",
+      showName: "Salute to a Palm Tree",
+      date: "2023.08.12 - 2023.09.09",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "Dynasty Gallery Hall A",
+      address: "1F, No.41, Le Li Road, Taipei City 10678 Taiwan",
+      position: [],
+      gMapLink: "",
+      openingHours: "mon-sat 13:00-19:00"
+    }, {
+      locationName: "Dynasty Gallery Hall B",
+      address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
+      position: [],
+      gMapLink: "https://goo.gl/maps/6NUrMMrnyEGgMzsR6",
+      openingHours: "mon-sat 13:00-19:00"
+    }]
+  },
   {
     name: "E",
     englishName: "",
@@ -1286,6 +1296,11 @@ export const GALLERIES = [
     website: "https://elsaart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Inoha Mayumi",
+      showName: "What am I now that I was then",
+      date: "2023.08.26 - 2023.09.16",
+      openingDate: ""
+    }, {
       artist: "ABE Nyubo",
       showName: "Chromakey sculpture: How to bound",
       date: "2023.04.22 - 2023.05.20",
@@ -1835,7 +1850,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "I Ting KUO",
       showName: "be with you in the wilderness",
-      date: "2023.07.01 - 2023.08.20",
+      date: "2023.07.01 - 2023.08.27",
       openingDate: "2023.07.08 sat 15:00"
     }, {
       artist: "Meng-Shu You",
@@ -2602,7 +2617,12 @@ export const GALLERIES = [
     urlName: "TING_TING_ART_SPACE",
     website: "https://tingtingartspace.com/",
     isSeparator: false,
-    exhibitions: [],
+    exhibitions: [{
+      artist: "Nicolás Romero",
+      showName: "Solo exhibition",
+      date: "2023.08.26 - 2023.09.29",
+      openingDate: "2023.08.26 sat 14:00-19:00"
+    },],
     locations: [{
       locationName: "",
       address: "No. 111, Tianmu E Rd, Shilin District, Taipei City, Taiwan ",
