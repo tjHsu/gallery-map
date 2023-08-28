@@ -109,6 +109,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kuo Bor-Jou",
+      showName: "Following One's Nature: A Poetic Time and Space Between Reality and Illusion",
+      date: "2023.09.02 - 2023.10.21",
+      openingDate: "2023.09.02 sat 15:00"
+    },{
       artist: "HUANG YU-CHIEN",
       showName: "The topics of those affections, assemblages,and secrets",
       date: "2023.08.05 - 2023.08.26",
@@ -196,6 +201,11 @@ export const GALLERIES = [
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jiang-Yu, Lin Mei-Hui, Liao Ying-Hsi",
+      showName: "The abundance",
+      date: "2023.08.25 - 2023.10.14",
+      openingDate: "2023.08.25 fri 15:30-18:00"
+    }, {
       artist: "Huang Yu-Shan",
       showName: "Sardine",
       date: "2023.07.07 - 2023.08.19",
@@ -1497,6 +1507,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chiu Yi Ning",
+      showName: "Walking - Through the Time",
+      date: "2023.09.02 - 2023.09.30",
+      openingDate: "2023.09.02 sat 15:00"
+    }, {
       artist: "Various Artists",
       showName: "Border Town - East Asian Painting in the Modern City",
       date: "2023.08.05 - 2023.08.26",
@@ -1761,6 +1776,11 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LIN Wei-Hsiang",
+      showName: "Journey Through the Mind",
+      date: "2023.09.01 - 2023.10.07",
+      openingDate: "2023.09.02 sat 15:00"
+    },{
       artist: "LEE Ming-tse",
       showName: "Dashu Contemporary",
       date: "2023.07.08 - 2023.08.19",
@@ -1992,6 +2012,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Fanko",
+      showName: "A Solo Exhibition",
+      date: "2023.09.06 - 2023.09.23",
+      openingDate: ""
+    },{
       artist: "Tombola Soh, oyasumi",
       showName: "AKANESASUHI - Kissed by sun",
       date: "2023.08.09 - 2023.08.19",
