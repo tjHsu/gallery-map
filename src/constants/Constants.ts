@@ -257,6 +257,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Liang-Yin WANG, Hsuan HUNG, Jing-Yun OU",
+      showName: "Three Masked Dancers",
+      date: "2023.09.02 - 2023.09.24",
+      openingDate: "2023.09.02 sat 16:00"
+    },{
       artist: "Satoru KOIZUMI",
       showName: "Portraits 100 Years On",
       date: "2023.08.05 - 2023.08.27",
