@@ -31,6 +31,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Sakurai Hajime",
+      showName: "POP ART SOUL",
+      date: "2023.09.02 - 2023.10.13",
+      openingDate: "2023.09.02 sat 14:00-17:00"
+    },{
       artist: "Akio Onishi, Syu Kanesawa, Ko Kikuchi, Cocoro Nakaura, Ami Kondo, Miki Takizawa, neuronoa, Yuka Numata, Misaki Furukawa, Misaki Furukawa, Haruna Mitobe",
       showName: "IGNITION Japan-Taiwan Exhibition ArtSticker X 333 GALLERY",
       date: "2023.07.15 - 2023.08.05",
@@ -323,6 +328,11 @@ export const GALLERIES = [
     website: "http://www.artgalleryapollo.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chiou Yueh HUANG",
+      showName: "Solo Exhibition",
+      date: "2023.09.02 - 2023.10.14",
+      openingDate: ""
+    },{
       artist: "HUNG Jui-Ling, CHEN Te-Wang, CHANG Wan-Chuan, LU Chi-Cheng, HUANG Ching-Cheng, CHEN Chun-Te, HSIEH Kuo-Yung",
       showName: "MOUVE 85 Anniversary",
       date: "2023.07.01 - 2023.07.31",
@@ -471,6 +481,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chong-Xiao ZHENG",
+      showName: "Little Forest",
+      date: "2023.09.01 - 2023.10.29",
+      openingDate: "2023.09.02 sat 14:00"
+    },{
       artist: "Mr. RED",
       showName: "Solo exhibition",
       date: "2023.06.29 - 2023.08.27",
@@ -825,7 +840,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Beryl Wu",
       showName: "Icky Hickey!",
-      date: "2023.07.22 - 2023.09.02",
+      date: "2023.07.22 - 2023.09.09",
       openingDate: "2023.07.22 sat 15:00-17:00"
     },{
       artist: "Heath West & WU Wei-ting",
@@ -1095,6 +1110,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Keunmin Lee, Meeson Pae",
+      showName: "Embodied Depths",
+      date: "2023.09.03 - 2023.10.22",
+      openingDate: "2023.09.03 sat 14:00-17:00"
+    }, {
       artist: "Nio Ni",
       showName: "Side by Side",
       date: "2023.07.08 - 2023.08.20",
@@ -1368,6 +1388,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "HsienYu CHENG",
+      showName: "Solo Exhibition [.user ]",
+      date: "2023.09.16 - 2023.10.14",
+      openingDate: "2023.09.16 sat 15:00 - 17:00"
+    }, {
       artist: "Austin TZENG, Cowper WANG, HO Li, 57, Sangna Take, Pu CHEN, Laba, HUANG Yuan, Abei LIU, Umao, Masanori USHIKI, Kotaro TSUDA, Hiroyuki MORI, Taichi YOSHIMURA",
       showName: "ANIMAMIX 2023",
       date: "2023.08.12 - 2023.09.09",
@@ -1455,6 +1480,11 @@ export const GALLERIES = [
     website: "https://hirohiroartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "CHUNG Chia-Chun",
+      showName: "Soldier",
+      date: "2023.09.16 - 2023.10.22",
+      openingDate: "2023.09.16 sat 15:00"
+    },{
       artist: "Melanie Daniel",
       showName: "The Way of Flowers and Ghost",
       date: "2023.07.15 - 2023.08.20",
@@ -1563,6 +1593,11 @@ export const GALLERIES = [
     website: "https://www.inriver.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yu Chuan",
+      showName: "Solo Exhibition",
+      date: "2023.09.16 - 2023.11.02",
+      openingDate: "2023.09.16 sat 15:00"
+    }, {
       artist: "Chang Yi Sheng, Chen Yun Yi",
       showName: "Joint exhibition",
       date: "2023.07.22 - 2023.08.31",
@@ -1708,6 +1743,11 @@ export const GALLERIES = [
     website: "http://www.linlingallery.com/eng/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Chieh-jen",
+      showName: "Her and Her Children—Introduction and Prologue",
+      date: "2023.09.16 - 2023.11.25",
+      openingDate: "2023.09.16 sat. 16:00"
+    }, {
       artist: "Liu Shih-Tung",
       showName: "Yūgen: Thee Hidden Grace",
       date: "2022.12.10 - 2023.02.25",
@@ -1750,6 +1790,11 @@ export const GALLERIES = [
     website: "https://michaelkugallery.com/en/home/",
     isSeparator: false,
     exhibitions: [{
+      artist: "WANG SHAO-GANG",
+      showName: "ABOUT SEEING YOU AFTER A LONG TIME",
+      date: "2023.09.03 - 2023.11.11",
+      openingDate: ""
+    }, {
       artist: "Jian Yi-Hong, Chiang Hsun, Wei Jia, Wu Junyong",
       showName: "Secret Garden",
       date: "2023.04.29 - 2023.06.25",
@@ -1873,6 +1918,11 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Emi KATSUTA",
+      showName: "Made for convenience",
+      date: "2023.09.09 - 2023.11.05",
+      openingDate: "2023.09.09 sat 15:00"
+    }, {
       artist: "I Ting KUO",
       showName: "be with you in the wilderness",
       date: "2023.07.01 - 2023.08.27",
@@ -2114,7 +2164,12 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [
-{
+    {
+      artist: "Melanie Chacko",
+      showName: "Wind blows on the dust and snorts like a tremendous beast",
+      date: "2023.09.16 - 2023.10.21",
+      openingDate: ""
+    }, {
       artist: "",
       showName: "PE Summer Program",
       date: "2023.07.20 - 2023.08.31",
@@ -2381,6 +2436,11 @@ export const GALLERIES = [
     website: "http://www.redgoldfineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lin Yu-Pei",
+      showName: "When Shadows Take Shape",
+      date: "2023.09.09 - 2023.10.15",
+      openingDate: "2023.09.16 sat 15:00"
+    }, {
       artist: "Kazumi Nakamura",
       showName: "A Bird in its Existence",
       date: "2023.07.08 - 2023.09.03",
