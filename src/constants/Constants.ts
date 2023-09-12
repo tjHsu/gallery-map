@@ -1232,6 +1232,11 @@ export const GALLERIES = [
     website: "https://dynastyart.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Masayuki YATA, Kyoko Waits KOGISO, Yuki KAMIDE, Syuta MITOMO",
+      showName: "25mm Resonance: Japanese Artists Exchange Exhibition",
+      date: "2023.09.16 - 2023.11.04",
+      openingDate: "2023.09.16 sat 15:00"
+    },{
       artist: "Pei-Chi KUO",
       showName: "Salute to a Palm Tree",
       date: "2023.08.12 - 2023.09.09",
@@ -2236,7 +2241,7 @@ export const GALLERIES = [
       address: "No.5 Lane 129 Daoxiang Rd Beitou Taipei",
       position: [25.1417487,121.4899612],
       gMapLink: "https://goo.gl/maps/tDYToZPKKQUS4eUa6",
-      openingHours: "thur 18:00-22:00 or by appointment"
+      openingHours: "sat 17:00-19:00 or by appointment"
     }]
   },
   {
