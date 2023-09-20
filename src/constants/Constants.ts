@@ -395,6 +395,11 @@ export const GALLERIES = [
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Andrew Pierre Hart",
+      showName: "The Invention of a Graphic Score",
+      date: "2023.09.23 - 2023.11.15",
+      openingDate: "2023.09.24 sun 16:00"
+    },{
       artist: "Ju Ming",
       showName: "Taichi Arch: Ju Ming Solo Exhibition",
       date: "2023.08.05 - 2023.09.17",
@@ -905,6 +910,11 @@ export const GALLERIES = [
       date: "2023.08.05 - 2023.09.17",
       openingDate: "2023.08.19 sat 15:00"
     }, {
+      artist: "HO KAN",
+      showName: "90+ HO KAN",
+      date: "2023.09.23 - 2023.11.05",
+      openingDate: "2023.09.24 sun 16:30"
+    }, {
       artist: "HSU Yu-Jen, LEE Kuang-Yu",
       showName: "Void Garden",
       date: "2023.06.17 - 2023.07.30",
@@ -956,6 +966,11 @@ export const GALLERIES = [
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
     exhibitions: [{
+      artist: "",
+      showName: "Sculpture group show",
+      date: "2023.09.23 - 2023.10.22",
+      openingDate: "2023.09.23 sat 15:00"
+    },{
       artist: "Tadakazu Maeda",
       showName: "Healing Time",
       date: "2023.08.12 - 2023.09.10",
@@ -1338,7 +1353,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Inoha Mayumi",
       showName: "What am I now that I was then",
-      date: "2023.08.26 - 2023.09.16",
+      date: "2023.08.26 - 2023.09.23",
       openingDate: ""
     }, {
       artist: "ABE Nyubo",
@@ -1712,6 +1727,11 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Sinje Lee",
+      showName: "Beyond Silence",
+      date: "2023.09.16 - 2023.10.18",
+      openingDate: "2023.09.16 sat 15:00"
+    },{
       artist: "Chen Chu-Li",
       showName: "In the Making",
       date: "2023.08.05 - 2023.09.10",
@@ -1797,8 +1817,8 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "WANG SHAO-GANG",
       showName: "ABOUT SEEING YOU AFTER A LONG TIME",
-      date: "2023.09.03 - 2023.11.11",
-      openingDate: ""
+      date: "2023.09.23 - 2023.11.11",
+      openingDate: "2023.09.23 sat 15:00-18:00"
     }, {
       artist: "Jian Yi-Hong, Chiang Hsun, Wei Jia, Wu Junyong",
       showName: "Secret Garden",
@@ -2168,8 +2188,7 @@ export const GALLERIES = [
     urlName: "PE_Gallery",
     website: "https://performanceepistemology.com/",
     isSeparator: false,
-    exhibitions: [
-    {
+    exhibitions: [{
       artist: "Melanie Chacko",
       showName: "Wind blows on the dust and snorts like a tremendous beast",
       date: "2023.09.16 - 2023.10.21",
@@ -2508,6 +2527,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tatsuya Yokosaka",
+      showName: "DISCOVERY",
+      date: "2023.09.30 - 2023.11.04",
+      openingDate: "2023.09.30 sat 16:00"
+    },{
       artist: "Vincent Fang",
       showName: "The artist’s way of Vincent Fang",
       date: "2023.08.12 - 2023.09.16",
@@ -2626,6 +2650,11 @@ export const GALLERIES = [
     website: "https://www.tartch.com/index.aspx",
     isSeparator: false,
     exhibitions: [{
+      artist: "ESOW",
+      showName: "ESOW‘s Wonderland",
+      date: "2023.09.29 - 2023.11.04",
+      openingDate: "2023.09.29 fri 15:00"
+    },{
       artist: "Wu Tung Lung, Hung Zhen-You, Meng-Yu Wen, Crystal Lupa, Wang Liang-Yin, Yi-Fang Wang",
       showName: "First Bloom",
       date: "2023.08.12 - 2023.09.16",
@@ -2952,6 +2981,21 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LI Cheng-Liang",
+      showName: "Next Stop after Ten Thousand Years Station",
+      date: "2023.09.21 - 2023.10.14",
+      openingDate: "2023.09.23 sat 15:00-19:00"
+    },{
+      artist: "Shoko Mihira",
+      showName: "Humanity?",
+      date: "2023.09.21 - 2023.10.14",
+      openingDate: "2023.09.23 sat 15:00-19:00"
+    },{
+      artist: "Lin Yi-Lung",
+      showName: "You were on my mind",
+      date: "2023.09.21 - 2023.10.21",
+      openingDate: "2023.09.23 sat 15:00-19:00"
+    },{
       artist: "Lu Yi-Lin",
       showName: "Slip Away Once in a While",
       date: "2023.08.17 - 2023.09.09",
