@@ -2260,7 +2260,7 @@ export const GALLERIES = [
       address: "No.5 Lane 129 Daoxiang Rd Beitou Taipei",
       position: [25.1417487,121.4899612],
       gMapLink: "https://goo.gl/maps/tDYToZPKKQUS4eUa6",
-      openingHours: "sat 17:00-19:00 or by appointment"
+      openingHours: "sun 18:00 - 20:00 or by appointment"
     }]
   },
   {
