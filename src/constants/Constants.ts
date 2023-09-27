@@ -2030,6 +2030,11 @@ export const GALLERIES = [
     website: "https://www.nunufineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Franziska Fennert",
+      showName: "CONTEMPLATING WAYS OUT OF THE ANTHROPOCENE",
+      date: "2023.10.01 - ",
+      openingDate: "2023.10.01 sun 15:00-17:00"
+    },{
       artist: "Siri Kollandsrud",
       showName: "We are in it together",
       date: "2023.08.18 - 2023.09.08",
@@ -2271,6 +2276,11 @@ export const GALLERIES = [
     website: "https://powengallery.com/index.php/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Aruta Soup",
+      showName: "HIGH ALERT",
+      date: "2023.09.30 - 2023.10.21",
+      openingDate: "2023.09.30 sat 15:00"
+    },{
       artist: "Peter Opheim",
       showName: "The Sublime and Elusive Flower",
       date: "2023.07.29 - 2023.08.26",
