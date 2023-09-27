@@ -1038,6 +1038,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Tsai Yi-Ju",
+      showName: "Old is New",
+      date: "2023.09.27 - 2023.10.29",
+      openingDate: "2023.10.07 sat 16:00 - 17:30"
+    },{
       artist: "No Sooncheon",
       showName: "Relic & Human",
       date: "2023.08.23 - 2023.09.24",
