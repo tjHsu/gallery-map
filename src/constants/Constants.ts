@@ -262,6 +262,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Uwe KOWSKI、Kai SCHIEMENZ",
+      showName: " Order and Chaos",
+      date: "2023.10.07 - 2023.10.29",
+      openingDate: "2023.10.07 sat 16:00"
+    },{
       artist: "Liang-Yin WANG, Hsuan HUNG, Jing-Yun OU",
       showName: "Three Masked Dancers",
       date: "2023.09.02 - 2023.09.24",
@@ -843,6 +848,11 @@ export const GALLERIES = [
     website: "https://www.galleryxchiao.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "ss space space",
+      showName: "producing space: simplify, amplify, megaphone factory",
+      date: "2023.10.07 - 2023.11.18",
+      openingDate: "2023.10.07 sat 14:00-17:00"
+    },{
       artist: "Beryl Wu",
       showName: "Icky Hickey!",
       date: "2023.07.22 - 2023.09.09",
@@ -2778,6 +2788,11 @@ export const GALLERIES = [
     website: "https://www.tkgplus.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chou Yu-Cheng",
+      showName: "Paper Folding",
+      date: "2023.10.07 - 2024.01.27",
+      openingDate: "2023.10.07 sat 16:30"
+    },{
       artist: "Chung Chung-Yu",
       showName: "Clock In, Clock Out",
       date: "2023.07.15 - 2023.10.07",
