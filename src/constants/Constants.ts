@@ -1273,16 +1273,10 @@ export const GALLERIES = [
       openingDate: ""
     }],
     locations: [{
-      locationName: "Dynasty Gallery Hall A",
-      address: "1F, No.41, Le Li Road, Taipei City 10678 Taiwan",
-      position: [],
-      gMapLink: "",
-      openingHours: "mon-sat 13:00-19:00"
-    }, {
-      locationName: "Dynasty Gallery Hall B",
-      address: "1F, No.43, Le Li Road, Taipei City 10678 Taiwan",
-      position: [],
-      gMapLink: "https://goo.gl/maps/6NUrMMrnyEGgMzsR6",
+      locationName: "Dynasty Gallery Hall A & B",
+      address: "1F, No.41 & 43, Le Li Road, Taipei City 10678 Taiwan",
+      position: [25.0270396,121.5514763],
+      gMapLink: "https://maps.app.goo.gl/rMrFGifudxuratNK7",
       openingHours: "mon-sat 13:00-19:00"
     }]
   },
@@ -1394,27 +1388,27 @@ export const GALLERIES = [
       openingHours: "tue-sat 12:00-19:00"
     }]
   },
-  {
-    name: "EQUAL 等號",
-    englishName: "EQUAL",
-    originalName: "等號",
-    urlName: "EQUAL",
-    website: "http://www.facebook.com/equalartlab",
-    isSeparator: false,
-    exhibitions: [{
-      artist: "HSU Jui-Chien / TSENG Shang Jie / HUANG YuChia / LAN Chung Hsuan / CHUEH Chiao-Han / Kung Pao-Leng",
-      showName: "its",
-      date: "2022.10.20 - 2022.10.24",
-      openingDate: "2022.10.21 fri 15:00"
-    }],
-    locations: [{
-      locationName: "",
-      address: "No. 1, Lane 29, Zhengzhou Rd, Datong District, Taipei City",
-      position: [],
-      gMapLink: "https://goo.gl/maps/Vib2gHqVBT8zNJxA8",
-      openingHours: "Virtual"
-    }]
-  },
+  // {
+  //   name: "EQUAL 等號",
+  //   englishName: "EQUAL",
+  //   originalName: "等號",
+  //   urlName: "EQUAL",
+  //   website: "http://www.facebook.com/equalartlab",
+  //   isSeparator: false,
+  //   exhibitions: [{
+  //     artist: "HSU Jui-Chien / TSENG Shang Jie / HUANG YuChia / LAN Chung Hsuan / CHUEH Chiao-Han / Kung Pao-Leng",
+  //     showName: "its",
+  //     date: "2022.10.20 - 2022.10.24",
+  //     openingDate: "2022.10.21 fri 15:00"
+  //   }],
+  //   locations: [{
+  //     locationName: "",
+  //     address: "No. 1, Lane 29, Zhengzhou Rd, Datong District, Taipei City",
+  //     position: [],
+  //     gMapLink: "https://goo.gl/maps/Vib2gHqVBT8zNJxA8",
+  //     openingHours: "Virtual"
+  //   }]
+  // },
   {
     name: "ESLITE GALLERY 誠品畫廊",
     englishName: "ESLITE GALLERY",
