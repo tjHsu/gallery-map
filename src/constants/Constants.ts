@@ -31,6 +31,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Choi Eun Byeol",
+      showName: "Daydreamer",
+      date: "2023.10.14 - 2023.11.24",
+      openingDate: "2023.10.14 sat 14:00-17:00"
+    },{
       artist: "Sakurai Hajime",
       showName: "POP ART SOUL",
       date: "2023.09.02 - 2023.10.13",
@@ -1418,7 +1423,7 @@ export const GALLERIES = [
     isSeparator: false,
     exhibitions: [{
       artist: "HsienYu CHENG",
-      showName: "Solo Exhibition [.user ]",
+      showName: "[.user     ]",
       date: "2023.09.16 - 2023.10.14",
       openingDate: "2023.09.16 sat 15:00 - 17:00"
     }, {
@@ -1860,6 +1865,21 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Rao FU",
+      showName: "Flaming Image",
+      date: "2023.10.14 - 2023.11.24",
+      openingDate: "2023.10.14 sat 14:30"
+    },{
+      artist: "Marina Cruz",
+      showName: "Rhythmic Patterns",
+      date: "2023.10.14 - 2023.11.24",
+      openingDate: "2023.10.14 sat 16:30"
+    },{
+      artist: "Ioan De Moisa",
+      showName: "Solo exhibition",
+      date: "2023.10.14 - 2023.11.24",
+      openingDate: "2023.10.14 sat 16:30"
+    },{
       artist: "LIN Wei-Hsiang",
       showName: "Journey Through the Mind",
       date: "2023.09.01 - 2023.10.07",
@@ -2351,6 +2371,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chiu Chao-Tsai",
+      showName: "A Glimpse of Time and Motion",
+      date: "2023.10.14 - 2023.11.25",
+      openingDate: "2023.10.14 sat 15:00-19:00"
+    }, {
       artist: "Sean Wang",
       showName: "Emerging- Melt with Reality",
       date: "2023.08.19 - 2023.09.30",
@@ -3007,12 +3032,12 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "LI Cheng-Liang",
       showName: "Next Stop after Ten Thousand Years Station",
-      date: "2023.09.21 - 2023.10.14",
+      date: "2023.09.21 - 2023.10.21",
       openingDate: "2023.09.23 sat 15:00-19:00"
     },{
       artist: "Shoko Mihira",
       showName: "Humanity?",
-      date: "2023.09.21 - 2023.10.14",
+      date: "2023.09.21 - 2023.10.21",
       openingDate: "2023.09.23 sat 15:00-19:00"
     },{
       artist: "Lin Yi-Lung",
