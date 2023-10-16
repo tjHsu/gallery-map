@@ -119,6 +119,11 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jenna CHANG",
+      showName: "Evolutionism",
+      date: "2023.10.05 - 2023.10.29",
+      openingDate: "2023.10.07 sat 15:00"
+    },{
       artist: "Kuo Bor-Jou",
       showName: "Following One's Nature: A Poetic Time and Space Between Reality and Illusion",
       date: "2023.09.02 - 2023.10.21",
@@ -620,6 +625,11 @@ export const GALLERIES = [
     website: "https://blueriderart.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Marck",
+      showName: "Marck's Playground",
+      date: "2023.10.28 - 2024.01.07",
+      openingDate: "2023.10.28 sat 14:30 - 18:00"
+    }, {
       artist: "Various artists",
       showName: "Abstraction",
       date: "2023.05.09 - 2023.07.29",
@@ -1422,6 +1432,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "CHENG Nung-Hsuan",
+      showName: "Messenger",
+      date: "2023.10.21 - 2023.11.18",
+      openingDate: "2023.10.21 sat 15:00 - 17:00"
+    }, {
       artist: "HsienYu CHENG",
       showName: "[.user     ]",
       date: "2023.09.16 - 2023.10.14",
@@ -2225,7 +2240,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Melanie Chacko",
       showName: "Wind blows on the dust and snorts like a tremendous beast",
-      date: "2023.09.16 - 2023.10.21",
+      date: "2023.09.16 - 2023.10.22",
       openingDate: ""
     }, {
       artist: "",
@@ -2927,6 +2942,16 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Philip Colbert",
+      showName: "Journey to the Lobster Planet - Taipei",
+      date: "2023.10.21 - 2023.12.02",
+      openingDate: "2023.10.21 sat 18:00"
+    },{
+      artist: "Sinje Lee",
+      showName: "Beyond Silence",
+      date: "2023.09.16 - 2023.10.18",
+      openingDate: ""
+    },{
       artist: "Jiro YOSHIHARA, Kazuo SHIRAGA, Yasuo SUMI, Shozo SHIMAMOTO, Atsuko TANAKA",
       showName: "AFTER GUTAI: Free Collision",
       date: "2023.08.19 - 2023.09.30",
