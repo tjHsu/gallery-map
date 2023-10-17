@@ -2947,11 +2947,6 @@ export const GALLERIES = [
       date: "2023.10.21 - 2023.12.02",
       openingDate: "2023.10.21 sat 18:00"
     },{
-      artist: "Sinje Lee",
-      showName: "Beyond Silence",
-      date: "2023.09.16 - 2023.10.18",
-      openingDate: ""
-    },{
       artist: "Jiro YOSHIHARA, Kazuo SHIRAGA, Yasuo SUMI, Shozo SHIMAMOTO, Atsuko TANAKA",
       showName: "AFTER GUTAI: Free Collision",
       date: "2023.08.19 - 2023.09.30",
