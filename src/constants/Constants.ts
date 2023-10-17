@@ -2827,6 +2827,16 @@ export const GALLERIES = [
       date: "2023.10.07 - 2024.01.27",
       openingDate: "2023.10.07 sat 16:30"
     },{
+      artist: "Jam Wu",
+      showName: "Shadow Puppeteer",
+      date: "2023.10.07 - 2024.01.27",
+      openingDate: "2023.10.07 sat 16:30"
+    },{
+      artist: "Amol K. Patil",
+      showName: "Lines Between the City",
+      date: "2023.10.21 - 2024.01.27",
+      openingDate: "2023.10.21 sat 16:30"
+    },{
       artist: "Chung Chung-Yu",
       showName: "Clock In, Clock Out",
       date: "2023.07.15 - 2023.10.07",
