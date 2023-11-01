@@ -121,13 +121,13 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Jenna CHANG",
       showName: "Evolutionism",
-      date: "2023.10.05 - 2023.10.29",
-      openingDate: "2023.10.07 sat 15:00"
+      date: "2023.10.05 - 2023.11.25",
+      openingDate: ""
     },{
-      artist: "Kuo Bor-Jou",
+      artist: "Kuo Bor-Jou, Wang Ren-Jie",
       showName: "Following One's Nature: A Poetic Time and Space Between Reality and Illusion",
-      date: "2023.09.02 - 2023.10.21",
-      openingDate: "2023.09.02 sat 15:00"
+      date: "2023.11.01 - 2023.11.26",
+      openingDate: "2023.11.04 sat 15:00"
     },{
       artist: "HUANG YU-CHIEN",
       showName: "The topics of those affections, assemblages,and secrets",
@@ -216,6 +216,11 @@ export const GALLERIES = [
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Dung Ming-Lung",
+      showName: "The Pure - Sculpture Solo Exhibition",
+      date: "2023.10.20 - 2023.12.02",
+      openingDate: ""
+    }, {
       artist: "Jiang-Yu, Lin Mei-Hui, Liao Ying-Hsi",
       showName: "The abundance",
       date: "2023.08.25 - 2023.10.14",
@@ -272,6 +277,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ikuo INADA, Asuka IRIE, Yoshitoshi KANEMAKI, Ayako KITA, Yuta NAKAZATO, Ryota NISHIOKA, Ai SHINOHARA, Kohei YAMADA",
+      showName: "In depth",
+      date: "2023.11.04 - 2023.12.03",
+      openingDate: "2023.11.04 sat 16:00"
+    },{
       artist: "Uwe KOWSKI、Kai SCHIEMENZ",
       showName: " Order and Chaos",
       date: "2023.10.07 - 2023.10.29",
@@ -389,6 +399,11 @@ export const GALLERIES = [
     website: "http://www.artdoor.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jui Ping Chang",
+      showName: "The Door of All Wonders",
+      date: "2023.10.14 - 2023.11.30",
+      openingDate: "2023.10.14 sat 15:00"
+    },{
       artist: "Jorge Rivera",
       showName: "Decodig Light through Shapes annd Textures",
       date: "2022.10.08 - 2022.11.06",
@@ -584,6 +599,11 @@ export const GALLERIES = [
     website: "https://www.loranger.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Li Jiun-Yang",
+      showName: "Roles & Rituals",
+      date: "2023.10.28 - 2024.01.13",
+      openingDate: ""
+    },{
       artist: "Tadashi Kawamata",
       showName: "DESTRUCTION",
       date: "2023.07.15 - 2023.10.07",
@@ -1196,6 +1216,16 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Shyu Ruey-Shiann",
+      showName: "BETWEEN I / NINE DREAMS-HOPSCOTCH",
+      date: "2023.10.28 - 2023.12.07",
+      openingDate: "2023.10.28 sat 15:00"
+    },{
+      artist: "Fu Ning",
+      showName: "Crying is due to the glitch of messages that dazzle the eyes",
+      date: "2023.10.28 - 2023.12.07",
+      openingDate: "2023.10.28 sat 15:00"
+    },{
       artist: "Chu Teh-I",
       showName: "Euphony, Polyphony",
       date: "2023.08.26 - 2023.10.07",
@@ -1375,6 +1405,11 @@ export const GALLERIES = [
     website: "https://elsaart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chika OSAKA",
+      showName: "Bad Dream",
+      date: "2023.11.04 - 2023.11.25",
+      openingDate: "2023.11.04 sat 15:00-18:00"
+    },{
       artist: "Inoha Mayumi",
       showName: "What am I now that I was then",
       date: "2023.08.26 - 2023.09.23",
@@ -2076,7 +2111,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Franziska Fennert",
       showName: "CONTEMPLATING WAYS OUT OF THE ANTHROPOCENE",
-      date: "2023.10.01 - ",
+      date: "2023.10.01 - 2023.12.03",
       openingDate: "2023.10.01 sun 15:00-17:00"
     },{
       artist: "Siri Kollandsrud",
@@ -2141,6 +2176,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Otoko Onna Hana",
+      showName: "Solo Exhibition by Geoffrey Bouillot",
+      date: "2023.10.18 - 2023.11.04",
+      openingDate: ""
+    },{
       artist: "Fanko",
       showName: "A Solo Exhibition",
       date: "2023.09.06 - 2023.09.23",
@@ -2238,6 +2278,11 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Zoe Dittrich-Wamser, WANG Xiang",
+      showName: "Solid surface, blurry grounds",
+      date: "2023.10.29 - 2023.12.17",
+      openingDate: ""
+    }, {
       artist: "Melanie Chacko",
       showName: "Wind blows on the dust and snorts like a tremendous beast",
       date: "2023.09.16 - 2023.10.22",
@@ -2519,6 +2564,11 @@ export const GALLERIES = [
     website: "http://www.redgoldfineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hung Mei-Ling",
+      showName: "Looking for Tao",
+      date: "2023.10.27 - 2023.12.10",
+      openingDate: "2023.10.27 fri 15:00"
+    }, {
       artist: "Lin Yu-Pei",
       showName: "When Shadows Take Shape",
       date: "2023.09.09 - 2023.10.15",
@@ -2668,6 +2718,11 @@ export const GALLERIES = [
     website: "https://www.taoartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ryan Mosley",
+      showName: "The Bridge",
+      date: "2023.11.04 - 2023.12.23",
+      openingDate: "2023.11.04 sat 16:00 - 19:00"
+    }, {
       artist: "Lu Hao‐Yuan, Christina Liu, Chang Huei‐Ming, Tseng Chien‐Ying",
       showName: "What's Old Becomes New Again",
       date: "2023.08.11 - 2023.10.21",
@@ -3060,6 +3115,21 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Yun",
+      showName: "Entering The Dissipating Fog of Fragments Light",
+      date: "2023.11.03 - 2023.12.02",
+      openingDate: "2023.11.04 sat 15:00-19:00"
+    },{
+      artist: "Ｗang Hsiao-Ai",
+      showName: "River of Retrospection",
+      date: "2023.11.03 - 2023.12.02",
+      openingDate: "2023.11.04 sat 15:00-19:00"
+    },{
+      artist: "Miju Lee",
+      showName: "Soft Strong",
+      date: "2023.11.03 - 2023.12.02",
+      openingDate: "2023.11.04 sat 15:00-19:00"
+    },{
       artist: "LI Cheng-Liang",
       showName: "Next Stop after Ten Thousand Years Station",
       date: "2023.09.21 - 2023.10.21",
