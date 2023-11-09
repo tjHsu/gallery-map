@@ -745,6 +745,11 @@ export const GALLERIES = [
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Ting Yao",
+      showName: "Wings",
+      date: "2023.11.08 - 2023.11.29",
+      openingDate: "2023.11.11 sat 15:00"
+    },{
       artist: "Hiroko TAKAHASHI",
       showName: "SHOTO The Soughing of The Wind in The Pines",
       date: "2023.07.07 - 2023.07.29",
@@ -950,6 +955,11 @@ export const GALLERIES = [
     website: "https://www.chinigallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Suling Wang",
+      showName: "New Paintings",
+      date: "2023.11.11 - 2023.12.24",
+      openingDate: "2023.11.12 sun 15:00"
+    },{
       artist: "Torlarp Larpjaroensook",
       showName: "Endless Memory",
       date: "2023.08.05 - 2023.09.17",
@@ -1349,6 +1359,11 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hell Gette",
+      showName: "CTLR3R",
+      date: "2023.11.14 - 2023.12.23",
+      openingDate: "2023.11.18 sat 16:00-18:00"
+    }, {
       artist: "Lin YiHsuan",
       showName: "Density",
       date: "2023.07.25 - 2023.09.02",
@@ -1564,6 +1579,11 @@ export const GALLERIES = [
     website: "https://hirohiroartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "FU Ning",
+      showName: "Red Eyes when I miss you",
+      date: "2023.11.11 - 2023.12.17",
+      openingDate: "2023.11.11 sat 15:00"
+    },{
       artist: "CHUNG Chia-Chun",
       showName: "Soldier",
       date: "2023.09.16 - 2023.10.22",
@@ -1677,6 +1697,11 @@ export const GALLERIES = [
     website: "https://www.inriver.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Liu Hsin Yi, Chen Ting Chang",
+      showName: "Penetration",
+      date: "2023.11.11 - 2023.12.31",
+      openingDate: "2023.11.11 sat 15:00"
+    }, {
       artist: "Yu Chuan",
       showName: "Solo Exhibition",
       date: "2023.09.16 - 2023.11.02",
