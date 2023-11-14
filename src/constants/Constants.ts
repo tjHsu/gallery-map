@@ -1361,7 +1361,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Hell Gette",
       showName: "CTLR3R",
-      date: "2023.11.14 - 2023.12.23",
+      date: "2023.11.16 - 2023.12.23",
       openingDate: "2023.11.18 sat 16:00-18:00"
     }, {
       artist: "Lin YiHsuan",
