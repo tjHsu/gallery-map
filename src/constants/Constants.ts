@@ -1406,10 +1406,10 @@ export const GALLERIES = [
     }],
     locations: [{
       locationName: "",
-      address: "38 Lane 79 Sec. 2 Xinyi Rd. Taipei 100 Taiwan",
-      position: [25.0361993,121.5270551],
-      gMapLink: "https://goo.gl/maps/G5AE4aEPzJ9swRD57",
-      openingHours: "tue-sat 12:00-19:00"
+      address: "3F 97 Sec. 2 DunHua S. Rd. Taipei Taiwan",
+      position: [25.0290034,121.5466197],
+      gMapLink: "https://maps.app.goo.gl/ebCc5XxpDUBgcT478",
+      openingHours: "tue-sat 12:30-18:30"
     }]
   },
   {
