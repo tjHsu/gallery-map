@@ -3084,6 +3084,27 @@ export const GALLERIES = [
       openingHours: ""
     }]
   },
+ {
+    name: "Waley Art 水谷藝術",
+    englishName: "Waley Art",
+    originalName: "水谷藝術",
+    urlName: "Waley_Art",
+    website: "https://waleyart.wixsite.com/website",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Hung Sheng-Hsiung",
+      showName: "The Dwelling of Collaborators",
+      date: "2023.11.26 - 2023.12.24",
+      openingDate: "2023.11.26 sun 15:00"
+    }],
+    locations: [{
+      locationName: "",
+      address: "No. 6, Lane 322, Wanda Rd, Wanhua District, Taipei City, Taiwan 108",
+      position: [25.024434,121.500039],
+      gMapLink: "https://maps.app.goo.gl/8714Qx9KkoLBW3LN8",
+      openingHours: "mon-sun 12:00-19:30"
+    }]
+  },
   {
     name: "Whitestone Gallery 白石畫廊",
     englishName: "Whitestone Gallery",
