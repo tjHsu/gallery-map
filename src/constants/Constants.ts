@@ -427,7 +427,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Andrew Pierre Hart",
       showName: "The Invention of a Graphic Score",
-      date: "2023.09.23 - 2023.11.15",
+      date: "2023.09.23 - 2023.12.24",
       openingDate: "2023.09.24 sun 16:00"
     },{
       artist: "Ju Ming",
@@ -516,6 +516,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Claudia Wang",
+      showName: "Solo exhibition",
+      date: "2023.11.08 - 2023.12.09",
+      openingDate: ""
+    },{
       artist: "Chong-Xiao ZHENG",
       showName: "Little Forest",
       date: "2023.09.01 - 2023.10.29",
@@ -1021,6 +1026,11 @@ export const GALLERIES = [
     website: "http://www.cloud-gallery.org/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yamamoto Daigo、Seo You Yeong、Yul Min",
+      showName: "Petit doux",
+      date: "2023.11.11 - 2023.12.10",
+      openingDate: ""
+    },{
       artist: "",
       showName: "Sculpture group show",
       date: "2023.09.23 - 2023.10.22",
@@ -1093,6 +1103,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yvonne Chen",
+      showName: "The Lion, the Princess, and the Unicorn",
+      date: "2023.11.01 - 2023.12.03",
+      openingDate: ""
+    },{
       artist: "Tsai Yi-Ju",
       showName: "Old is New",
       date: "2023.09.27 - 2023.10.29",
@@ -1185,6 +1200,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
     exhibitions: [{
+      artist: "",
+      showName: "Multiverse - Contemporary art collection exhibition",
+      date: "2023.11.11 - 2023.12.24",
+      openingDate: ""
+    }, {
       artist: "Keunmin Lee, Meeson Pae",
       showName: "Embodied Depths",
       date: "2023.09.03 - 2023.10.22",
@@ -1646,6 +1666,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lee Tzu-Wei",
+      showName: "Solo exhibition",
+      date: "2023.11.04 - 2023.12.27",
+      openingDate: "2023.09.02 sat 15:00"
+    },{
       artist: "Chiu Yi Ning",
       showName: "Walking - Through the Time",
       date: "2023.09.02 - 2023.09.30",
@@ -1816,6 +1841,11 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yuma Taru, Aluai Kaumakan, Milay Mavaliw, Iming Mavaliw, Labay Eyong",
+      showName: "Ruturn to the Wilderness",
+      date: "2023.11.04 - 2023.12.03",
+      openingDate: "2023.11.04 sat 15:00"
+    },{
       artist: "Sinje Lee",
       showName: "Beyond Silence",
       date: "2023.09.16 - 2023.10.18",
@@ -2047,6 +2077,16 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ai HAIBARA, Akiko TOJO, Hisanori KOJIMA, Emi KATSUTA, Susumu AKO, Hirokazu ICHII, Takashi AKIYAMA, Tatsuya MARUYAMA, Takeshi MACHIYA, Kumiko NEGAMI, Kei KAIYA",
+      showName: "La Mer - Japanese Sculpture Group Exhibition",
+      date: "2023.11.18 - 2023.12.24",
+      openingDate: ""
+    },{
+      artist: "Reina TANIHO, Aiko SAKAMOTO, Rakusui KO, Masumi YAMAMOTO, Yi Shuan WU, Jui Wen TAN, Nanami SHIMOJU",
+      showName: "La Mer - Japanese Painting Group Exhibition",
+      date: "2023.11.18 - 2023.12.24",
+      openingDate: ""
+    },{
       artist: "Emi KATSUTA",
       showName: "Made for convenience",
       date: "2023.09.09 - 2023.11.05",
@@ -2522,6 +2562,11 @@ export const GALLERIES = [
     website: "https://www.pttspace.com/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "ERICK ALEJANDRO HERNÁNDEZ, LIZETTE HERNANDEZ, PEDRAM SAZESH, JONATHAN HERRERA SOTO",
+      showName: "Low Clearance",
+      date: "2023.11.18 - 2023.12.30",
+      openingDate: "2023.11.18 sat 16:00"
+    },{
       artist: "Sun Pei-Mao, Yang Lee, Hsieh Mu-Chi, Khong Kiang-Ze",
       showName: "Dogfight",
       date: "2023.08.26 - 2023.10.21",
@@ -2661,6 +2706,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Liu Yang",
+      showName: "Above the Dust and Light",
+      date: "2023.11.18 - 2023.12.16",
+      openingDate: "2023.11.18 sat 16:00"
+    },{
       artist: "Tatsuya Yokosaka",
       showName: "DISCOVERY",
       date: "2023.09.30 - 2023.11.04",
@@ -2789,6 +2839,11 @@ export const GALLERIES = [
     website: "https://www.tartch.com/index.aspx",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chu Fu Chen, Shimpei Yoshida",
+      showName: "the absent room",
+      date: "2023.11.18 - 2023.12.16",
+      openingDate: "2023.11.18 sat 15:30-17:30"
+    },{
       artist: "ESOW",
       showName: "ESOW‘s Wonderland",
       date: "2023.09.29 - 2023.11.04",
@@ -2990,6 +3045,11 @@ export const GALLERIES = [
     website: "https://vaikunthakala.wixsite.com/vaikuntha?fbclid=IwAR1EfGvMyX8tjR5Zb9_Ve8fXnFvdBMT1g5aTU086T8S0s5ALvtY43IWKrqo",
     isSeparator: false,
     exhibitions: [{
+      artist: "Dei Dei Swing",
+      showName: "As Time Goes By...",
+      date: "2023.11.04 - 2023.12.03",
+      openingDate: ""
+    },{
       artist: "Bo Ju Wu",
       showName: "The Lover Of Island",
       date: "2023.08.12 - 2023.09.03",
