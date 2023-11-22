@@ -1337,6 +1337,11 @@ export const GALLERIES = [
     website: "https://dynastyart.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "LIN Yu-Ching, WEI Hsing-Yu",
+      showName: "Wulala",
+      date: "2023.11.25 - 2024.01.27",
+      openingDate: "2023.11.25 sat 16:00"
+    },{
       artist: "Masayuki YATA, Kyoko Waits KOGISO, Yuki KAMIDE, Syuta MITOMO",
       showName: "25mm Resonance: Japanese Artists Exchange Exhibition",
       date: "2023.09.16 - 2023.11.04",
@@ -1502,6 +1507,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Jimmy LIAO",
+      showName: "Solo exhibition",
+      date: "2023.11.25 - 2023.12.30",
+      openingDate: "2023.11.25 sat 15:00 - 17:00"
+    },{
       artist: "CHENG Nung-Hsuan",
       showName: "Messenger",
       date: "2023.10.21 - 2023.11.18",
@@ -2415,11 +2425,18 @@ export const GALLERIES = [
       openingDate: "2023.03.11 sat. 15:00"
     }],
     locations: [{
-      locationName: "",
+      locationName: "PE Zhongzheng",
+      address: "9F, No. 84, Section 1, Heping W Rd, Zhongzheng District, Taipei City, 100",
+      position: [25.0264471,121.5160011],
+      gMapLink: "https://maps.app.goo.gl/fmez7SicEaBxUAkr5",
+      openingHours: "open by appointment"
+    },
+    {
+      locationName: "PE Beitou",
       address: "No.5 Lane 129 Daoxiang Rd Beitou Taipei",
       position: [25.1417487,121.4899612],
       gMapLink: "https://goo.gl/maps/tDYToZPKKQUS4eUa6",
-      openingHours: "by appointment"
+      openingHours: "open by appointment"
     }]
   },
   {
