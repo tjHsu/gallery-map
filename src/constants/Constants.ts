@@ -3130,6 +3130,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Nobuko WATABIKI",
+      showName: "Three In One: Art of WATABIKI",
+      date: "2023.11.25 - 2023.12.30",
+      openingDate: ""
+    },{
       artist: "Philip Colbert",
       showName: "Journey to the Lobster Planet - Taipei",
       date: "2023.10.21 - 2023.12.02",
