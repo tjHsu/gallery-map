@@ -31,6 +31,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ana Aleksov",
+      showName: "Great Mysteries",
+      date: "2023.11.25 - 2024.01.05",
+      openingDate: "2023.11.25 sat 14:00-17:00"
+    },{
       artist: "Choi Eun Byeol",
       showName: "Daydreamer",
       date: "2023.10.14 - 2023.11.24",
@@ -893,6 +898,11 @@ export const GALLERIES = [
     website: "https://www.galleryxchiao.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Roast Hoggmann, Nicholas Bono Kennedy, Caris Reid, Yu Wen Wang",
+      showName: "outside",
+      date: "2023.11.28 - 2023.12.31",
+      openingDate: "2023.12.02 sat 14:00-17:00"
+    },{
       artist: "ss space space",
       showName: "producing space: simplify, amplify, megaphone factory",
       date: "2023.10.07 - 2023.11.18",
