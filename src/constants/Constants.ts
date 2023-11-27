@@ -1990,6 +1990,16 @@ export const GALLERIES = [
     website: "https://www.art-msac.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Juin Shieh",
+      showName: "She Postscript",
+      date: "2023.12.02 - 2024.01.12",
+      openingDate: "2023.12.02 sat 15:00"
+    },{
+      artist: "Dragoş Bădiţă",
+      showName: "Ironing out the Waves of the Sea",
+      date: "2023.12.02 - 2024.01.12",
+      openingDate: "2023.12.02 sat 15:00"
+    },{
       artist: "Rao FU",
       showName: "Flaming Image",
       date: "2023.10.14 - 2023.11.24",
@@ -2363,6 +2373,11 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Samantha Sea Sea",
+      showName: "Cauldron of the secret self",
+      date: "2023.12.01 - 2024.01.07",
+      openingDate: "2023.12.01 fri 18:00-21:00"
+    },{
       artist: "Zoe Dittrich-Wamser, WANG Xiang",
       showName: "Solid surface, blurry grounds",
       date: "2023.10.29 - 2023.12.17",
