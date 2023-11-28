@@ -2271,6 +2271,11 @@ export const GALLERIES = [
     website: "https://galerieovo.com/home-en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Minori",
+      showName: "where you are",
+      date: "2023.11.29 - 2023.12.16",
+      openingDate: "2023.12.02 sat 16:00-18:00"
+    },{
       artist: "Otoko Onna Hana",
       showName: "Solo Exhibition by Geoffrey Bouillot",
       date: "2023.10.18 - 2023.11.04",
