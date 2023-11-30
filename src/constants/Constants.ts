@@ -2263,118 +2263,6 @@ export const GALLERIES = [
       openingHours: ""
     }]
   },
-{
-    name: "Gallery de sol 曜畫廊",
-    englishName: "Gallery de sol",
-    originalName: "曜畫廊",
-    urlName: "Gallery_de_sol",
-    website: "https://gallerydesol.com.tw/",
-    isSeparator: false,
-    exhibitions: [{
-      artist: "Yang Chung-Ming",
-      showName: "Flora of Formosa",
-      date: "2023.10.07 - 2023.12.14",
-      openingDate: ""
-    }],
-    locations: [{
-      locationName: "",
-      address: "Mandarin Oriental, Taipei 3F, No. 166 DunHua N Rd, Songshan District, Taipei City",
-      position: [25.0557827,121.5483677],
-      gMapLink: "https://maps.app.goo.gl/83K6iLMrdZtRmLgbA",
-      openingHours: "wed-sun 11:00-21:00"
-    }]
-  },
-  {
-    name: "GALERIE OVO 十方藝術空間",
-    englishName: "GALERIE OVO",
-    originalName: "十方藝術空間",
-    urlName: "GALERIE_OVO",
-    website: "https://galerieovo.com/home-en/",
-    isSeparator: false,
-    exhibitions: [{
-      artist: "Minori",
-      showName: "where you are",
-      date: "2023.11.29 - 2023.12.16",
-      openingDate: "2023.12.02 sat 16:00-18:00"
-    },{
-      artist: "Otoko Onna Hana",
-      showName: "Solo Exhibition by Geoffrey Bouillot",
-      date: "2023.10.18 - 2023.11.04",
-      openingDate: ""
-    },{
-      artist: "Fanko",
-      showName: "A Solo Exhibition",
-      date: "2023.09.06 - 2023.09.23",
-      openingDate: ""
-    },{
-      artist: "Tombola Soh, oyasumi",
-      showName: "AKANESASUHI - Kissed by sun",
-      date: "2023.08.09 - 2023.08.19",
-      openingDate: ""
-    },{
-      artist: "Soichi Yamaguchi",
-      showName: "Flowers",
-      date: "2023.07.21 - 2023.08.04",
-      openingDate: ""
-    },{
-      artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
-      showName: "plus plus ++",
-      date: "2023.07.05 - 2023.07.19",
-      openingDate: ""
-    },{
-      artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
-      showName: "plus plus ++",
-      date: "2023.07.05 - 2023.07.19",
-      openingDate: ""
-    },{
-      artist: "Timm Blandin",
-      showName: "Have A Nice Day",
-      date: "2023.06.21 - 2023.07.02",
-      openingDate: ""
-    },{
-      artist: "SHIGEKI MATSUYAMA X feebee",
-      showName: "UBIQUITOUS IV",
-      date: "2023.05.24 - 2023.06.10",
-      openingDate: ""
-    },{
-      artist: "Han Ji Min",
-      showName: "Solitude",
-      date: "2023.05.10 - 2023.05.20",
-      openingDate: ""
-    }, {
-      artist: "Kawauso Sua",
-      showName: "care about",
-      date: "2023.04.19 - 2023.05.06",
-      openingDate: ""
-    }, {
-      artist: "YUSUKE TODA",
-      showName: "YUM's Relaxing Space",
-      date: "2023.03.29 - 2023.04.14",
-      openingDate: ""
-    }, {
-      artist: "Bahaudin & Heru Priyono",
-      showName: "Whispers of Wonder",
-      date: "2023.03.08 - 2023.03.25",
-      openingDate: ""
-    }, {
-      artist: "Diren Lee",
-      showName: "Soul Mate",
-      date: "2022.11.30 - 2022.12.17",
-      openingDate: ""
-    }, {
-      artist: "Blic",
-      showName: "Shēng Xiào",
-      date: "2022.09.21 - 2022.10.08",
-      openingDate: ""
-    }],
-    locations: [{
-      locationName: "",
-      address: "No.51, Dehui St., Zhongshan Dist., Taipei City 104 Taiwan",
-      position: [25.0667124,121.5271204],
-      gMapLink: "https://g.page/galerieovo?share",
-      openingHours: "wed-sat 11:00-17:30"
-    }]
-  },
   {
     name: "P",
     englishName: "",
@@ -2764,6 +2652,118 @@ export const GALLERIES = [
       position: [],
       gMapLink: "",
       openingHours: ""
+    }]
+  },
+{
+    name: "Gallery de sol 曜畫廊",
+    englishName: "Gallery de sol",
+    originalName: "曜畫廊",
+    urlName: "Gallery_de_sol",
+    website: "https://gallerydesol.com.tw/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Yang Chung-Ming",
+      showName: "Flora of Formosa",
+      date: "2023.10.07 - 2023.12.14",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "Mandarin Oriental, Taipei 3F, No. 166 DunHua N Rd, Songshan District, Taipei City",
+      position: [25.0557827,121.5483677],
+      gMapLink: "https://maps.app.goo.gl/83K6iLMrdZtRmLgbA",
+      openingHours: "wed-sun 11:00-21:00"
+    }]
+  },
+  {
+    name: "GALERIE OVO 十方藝術空間",
+    englishName: "GALERIE OVO",
+    originalName: "十方藝術空間",
+    urlName: "GALERIE_OVO",
+    website: "https://galerieovo.com/home-en/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Minori",
+      showName: "where you are",
+      date: "2023.11.29 - 2023.12.16",
+      openingDate: "2023.12.02 sat 16:00-18:00"
+    },{
+      artist: "Otoko Onna Hana",
+      showName: "Solo Exhibition by Geoffrey Bouillot",
+      date: "2023.10.18 - 2023.11.04",
+      openingDate: ""
+    },{
+      artist: "Fanko",
+      showName: "A Solo Exhibition",
+      date: "2023.09.06 - 2023.09.23",
+      openingDate: ""
+    },{
+      artist: "Tombola Soh, oyasumi",
+      showName: "AKANESASUHI - Kissed by sun",
+      date: "2023.08.09 - 2023.08.19",
+      openingDate: ""
+    },{
+      artist: "Soichi Yamaguchi",
+      showName: "Flowers",
+      date: "2023.07.21 - 2023.08.04",
+      openingDate: ""
+    },{
+      artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
+      showName: "plus plus ++",
+      date: "2023.07.05 - 2023.07.19",
+      openingDate: ""
+    },{
+      artist: "Mifuu Oda, AAMY, feebee, Sazale Anan, HAYATO MACHIDA",
+      showName: "plus plus ++",
+      date: "2023.07.05 - 2023.07.19",
+      openingDate: ""
+    },{
+      artist: "Timm Blandin",
+      showName: "Have A Nice Day",
+      date: "2023.06.21 - 2023.07.02",
+      openingDate: ""
+    },{
+      artist: "SHIGEKI MATSUYAMA X feebee",
+      showName: "UBIQUITOUS IV",
+      date: "2023.05.24 - 2023.06.10",
+      openingDate: ""
+    },{
+      artist: "Han Ji Min",
+      showName: "Solitude",
+      date: "2023.05.10 - 2023.05.20",
+      openingDate: ""
+    }, {
+      artist: "Kawauso Sua",
+      showName: "care about",
+      date: "2023.04.19 - 2023.05.06",
+      openingDate: ""
+    }, {
+      artist: "YUSUKE TODA",
+      showName: "YUM's Relaxing Space",
+      date: "2023.03.29 - 2023.04.14",
+      openingDate: ""
+    }, {
+      artist: "Bahaudin & Heru Priyono",
+      showName: "Whispers of Wonder",
+      date: "2023.03.08 - 2023.03.25",
+      openingDate: ""
+    }, {
+      artist: "Diren Lee",
+      showName: "Soul Mate",
+      date: "2022.11.30 - 2022.12.17",
+      openingDate: ""
+    }, {
+      artist: "Blic",
+      showName: "Shēng Xiào",
+      date: "2022.09.21 - 2022.10.08",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "No.51, Dehui St., Zhongshan Dist., Taipei City 104 Taiwan",
+      position: [25.0667124,121.5271204],
+      gMapLink: "https://g.page/galerieovo?share",
+      openingHours: "wed-sat 11:00-17:30"
     }]
   },
   {
