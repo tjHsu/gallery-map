@@ -2263,6 +2263,27 @@ export const GALLERIES = [
       openingHours: ""
     }]
   },
+{
+    name: "Gallery de sol 曜畫廊",
+    englishName: "Gallery de sol",
+    originalName: "曜畫廊",
+    urlName: "Gallery_de_sol",
+    website: "https://gallerydesol.com.tw/",
+    isSeparator: false,
+    exhibitions: [{
+      artist: "Yang Chung-Ming",
+      showName: "Flora of Formosa",
+      date: "2023.10.07 - 2023.12.14",
+      openingDate: ""
+    }],
+    locations: [{
+      locationName: "",
+      address: "Mandarin Oriental, Taipei 3F, No. 166 DunHua N Rd, Songshan District, Taipei City",
+      position: [25.0557827,121.5483677],
+      gMapLink: "https://maps.app.goo.gl/83K6iLMrdZtRmLgbA",
+      openingHours: "wed-sun 11:00-21:00"
+    }]
+  },
   {
     name: "GALERIE OVO 十方藝術空間",
     englishName: "GALERIE OVO",
