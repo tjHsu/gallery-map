@@ -282,6 +282,11 @@ export const GALLERIES = [
     website: "https://www.galleryaki.com/en/aki",
     isSeparator: false,
     exhibitions: [{
+      artist: "Suda Yoshihiro",
+      showName: "Solo Exhibition",
+      date: "2023.12.09 - 2023.12.31",
+      openingDate: "2023.12.09 sat 16:00"
+    },{
       artist: "Ikuo INADA, Asuka IRIE, Yoshitoshi KANEMAKI, Ayako KITA, Yuta NAKAZATO, Ryota NISHIOKA, Ai SHINOHARA, Kohei YAMADA",
       showName: "In depth",
       date: "2023.11.04 - 2023.12.03",
@@ -1113,6 +1118,11 @@ export const GALLERIES = [
     website: "https://www.donnaart.com.tw",
     isSeparator: false,
     exhibitions: [{
+      artist: "Various artists",
+      showName: "Stillness & Eternity",
+      date: "2023.12.06 - 2024.01.07",
+      openingDate: "2023.12.10 sun 15:00"
+    },{
       artist: "Yvonne Chen",
       showName: "The Lion, the Princess, and the Unicorn",
       date: "2023.11.01 - 2023.12.03",
