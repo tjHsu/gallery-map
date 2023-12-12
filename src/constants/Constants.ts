@@ -221,6 +221,11 @@ export const GALLERIES = [
     website: "http://agallery.blogspot.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Huang Wanling",
+      showName: "Mountain Breath : A Voyage",
+      date: "2023.12.15 - 2024.01.20",
+      openingDate: "2023.12.15 fri 16:00-19:00"
+    }, {
       artist: "Dung Ming-Lung",
       showName: "The Pure - Sculpture Solo Exhibition",
       date: "2023.10.20 - 2023.12.02",
@@ -363,6 +368,11 @@ export const GALLERIES = [
     website: "http://www.artgalleryapollo.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LO Tsen",
+      showName: "Solo Exhibition",
+      date: "2023.12.16 - 2024.01.20",
+      openingDate: "2023.12.16 sat 15:00"
+    },{
       artist: "Chiou Yueh HUANG",
       showName: "Solo Exhibition",
       date: "2023.09.02 - 2023.10.14",
@@ -760,6 +770,11 @@ export const GALLERIES = [
     website: "https://www.capitalart.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Sato Ten, Yoshie Moriuchi, Tamaho Togasaki, Chau-Tsung HU, Tsu-Han SU, Yun-Chia CHANG, Li-Ru CHEN",
+      showName: "Where we live",
+      date: "2023.12.12 - 2023.12.30",
+      openingDate: ""
+    },{
       artist: "Chen Ting Yao",
       showName: "Wings",
       date: "2023.11.08 - 2023.11.29",
@@ -1266,6 +1281,16 @@ export const GALLERIES = [
     website: "https://www.doublesquare.com.tw/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yen Yu Ting",
+      showName: "The Fragments",
+      date: "2023.12.16 - 2024.02.17",
+      openingDate: "2023.12.16 sat 15:00"
+    },{
+      artist: "Kuo Yen-Fu",
+      showName: "Performers on the field",
+      date: "2023.12.16 - 2024.02.17",
+      openingDate: "2023.12.16 sat 15:00"
+    },{
       artist: "Shyu Ruey-Shiann",
       showName: "BETWEEN I / NINE DREAMS-HOPSCOTCH",
       date: "2023.10.28 - 2023.12.07",
@@ -1467,7 +1492,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Chika OSAKA",
       showName: "Bad Dream",
-      date: "2023.11.04 - 2023.11.25",
+      date: "2023.11.04 - 2023.12.09",
       openingDate: "2023.11.04 sat 15:00-18:00"
     },{
       artist: "Inoha Mayumi",
@@ -1696,9 +1721,14 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ming Hsiang Hsu, Shan Yin Lee",
+      showName: "Interdependent Existence",
+      date: "2023.12.09 - 2023.12.30",
+      openingDate: "2023.12.09 sat 15:00"
+    },{
       artist: "Lee Tzu-Wei",
       showName: "Solo exhibition",
-      date: "2023.11.04 - 2023.12.27",
+      date: "2023.11.04 - 2023.11.27",
       openingDate: "2023.09.02 sat 15:00"
     },{
       artist: "Chiu Yi Ning",
@@ -1871,6 +1901,11 @@ export const GALLERIES = [
     website: "http://www.lianggallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "KUO Hsueh Hu, Aluan Wang, Lin Jinyao, Newyellow, Chen I-chun, Chen Pu, Liu Naitingg",
+      showName: "Ruturn to the Wilderness",
+      date: "2023.12.09 - 2024.01.14",
+      openingDate: ""
+    },{
       artist: "Yuma Taru, Aluai Kaumakan, Milay Mavaliw, Iming Mavaliw, Labay Eyong",
       showName: "Ruturn to the Wilderness",
       date: "2023.11.04 - 2023.12.03",
@@ -1917,6 +1952,11 @@ export const GALLERIES = [
     website: "http://www.linlingallery.com/eng/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chen Tao-Ming",
+      showName: "Solo exhibition",
+      date: "2023.12.05 - 2024.01.13",
+      openingDate: "2023.12.09 sat. 16:00"
+    }, {
       artist: "Chen Chieh-jen",
       showName: "Her and Her Children—Introduction and Prologue",
       date: "2023.09.16 - 2023.11.25",
@@ -1964,6 +2004,11 @@ export const GALLERIES = [
     website: "https://michaelkugallery.com/en/home/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Monica Luu",
+      showName: "From This Mountain To That Mountain",
+      date: "2023.12.09 - 2024.02.03",
+      openingDate: ""
+    },{
       artist: "WANG SHAO-GANG",
       showName: "ABOUT SEEING YOU AFTER A LONG TIME",
       date: "2023.09.23 - 2023.11.11",
@@ -2216,7 +2261,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Franziska Fennert",
       showName: "CONTEMPLATING WAYS OUT OF THE ANTHROPOCENE",
-      date: "2023.10.01 - 2023.12.03",
+      date: "2023.10.01 - 2023.12.31",
       openingDate: "2023.10.01 sun 15:00-17:00"
     },{
       artist: "Siri Kollandsrud",
@@ -2462,6 +2507,11 @@ export const GALLERIES = [
     website: "https://www.projectfulfill.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chihiro Mori, Teppei Kaneuji",
+      showName: "Yogurt Collage - CMTK",
+      date: "2023.12.09 - 2024.01.12",
+      openingDate: "2023.12.09 sat 15:00-19:00"
+    }, {
       artist: "Chiu Chao-Tsai",
       showName: "A Glimpse of Time and Motion",
       date: "2023.10.14 - 2023.11.25",
@@ -2600,6 +2650,11 @@ export const GALLERIES = [
     website: "http://www.redgoldfineart.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Shizhi Yang",
+      showName: "Solo exhibition",
+      date: "2023.12.16 - 2024.01.21",
+      openingDate: "2023.12.16 sat 15:00"
+    }, {
       artist: "Hung Mei-Ling",
       showName: "Looking for Tao",
       date: "2023.10.27 - 2023.12.10",
@@ -3123,6 +3178,11 @@ export const GALLERIES = [
     website: "https://vaikunthakala.wixsite.com/vaikuntha?fbclid=IwAR1EfGvMyX8tjR5Zb9_Ve8fXnFvdBMT1g5aTU086T8S0s5ALvtY43IWKrqo",
     isSeparator: false,
     exhibitions: [{
+      artist: "James Hugh Gough",
+      showName: "Expansion Eternal",
+      date: "2023.12.09 - 2023.12.30",
+      openingDate: "2023.12.09 sat 15:00"
+    },{
       artist: "Dei Dei Swing",
       showName: "As Time Goes By...",
       date: "2023.11.04 - 2023.12.03",
@@ -3304,6 +3364,21 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Aya Ito",
+      showName: "Unfortunately I love you",
+      date: "2023.12.09 - 2023.12.30",
+      openingDate: "2023.12.09 sat 15:00-19:00"
+    },{
+      artist: "Fukumo Touki",
+      showName: "Mind Festival",
+      date: "2023.12.09 - 2023.12.30",
+      openingDate: "2023.12.09 sat 15:00-19:00"
+    },{
+      artist: "Huang Shun-Ting",
+      showName: "Plants & Planters",
+      date: "2023.12.09 - 2023.12.30",
+      openingDate: "2023.12.09 sat 15:00-19:00"
+    },{
       artist: "Chen Yun",
       showName: "Entering The Dissipating Fog of Fragments Light",
       date: "2023.11.03 - 2023.12.02",
