@@ -3251,6 +3251,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yuko & Senkichiro NASAKA",
+      showName: "Gutai TransForm",
+      date: "2023.12.16 - 2024.02.17",
+      openingDate: ""
+    },{
       artist: "Nobuko WATABIKI",
       showName: "Three In One: Art of WATABIKI",
       date: "2023.11.25 - 2023.12.30",
