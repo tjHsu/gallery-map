@@ -992,7 +992,7 @@ export const GALLERIES = [
     exhibitions: [{
       artist: "Suling Wang",
       showName: "New Paintings",
-      date: "2023.11.11 - 2023.12.24",
+      date: "2023.11.11 - 2024.01.07",
       openingDate: "2023.11.12 sun 15:00"
     },{
       artist: "Torlarp Larpjaroensook",
@@ -1429,6 +1429,11 @@ export const GALLERIES = [
     website: "https://eachmodern.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "SHOHEI TAKASAKI",
+      showName: "Looking at Debris Sideways",
+      date: "2024.01.02 - 2024.02.07",
+      openingDate: ""
+    }, {
       artist: "Hell Gette",
       showName: "CTLR3R",
       date: "2023.11.16 - 2023.12.23",
@@ -2162,6 +2167,16 @@ export const GALLERIES = [
     website: "https://neptune-gallery.com",
     isSeparator: false,
     exhibitions: [{
+      artist: "Akiko TOJO",
+      showName: "Gap of Dreams",
+      date: "2023.12.30 - 2024.02.18",
+      openingDate: "2024.01.06 sat 14:30"
+    },{
+      artist: "Keiki YAMADA, Yuya FUJITA, Kana KOMATA, Toshiya MASUDA, Yukyo YAMAMOTO, Jia WEI, Jing Yun OU, Maris BARBAN, Yi Shuan WU, Hsueh Han CHOU, I Ting KUO, Yi Jie CHEN, Hirokazu ICHII",
+      showName: "Migration - Neptune Gallery × Shihodo Gallery Group Exhibition",
+      date: "2023.12.30 - 2024.02.18",
+      openingDate: "2024.01.06 sat 15:00"
+    },{
       artist: "Ai HAIBARA, Akiko TOJO, Hisanori KOJIMA, Emi KATSUTA, Susumu AKO, Hirokazu ICHII, Takashi AKIYAMA, Tatsuya MARUYAMA, Takeshi MACHIYA, Kumiko NEGAMI, Kei KAIYA",
       showName: "La Mer - Japanese Sculpture Group Exhibition",
       date: "2023.11.18 - 2023.12.24",
@@ -2839,6 +2854,11 @@ export const GALLERIES = [
     website: "http://soka-art.com/en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Yan Zhancheng, Yan Yineng",
+      showName: "Duo exhibition",
+      date: "2023.12.23 - 2024.01.20",
+      openingDate: "2023.12.23 sat 16:00"
+    },{
       artist: "Liu Yang",
       showName: "Above the Dust and Light",
       date: "2023.11.18 - 2023.12.16",
