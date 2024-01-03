@@ -2992,6 +2992,11 @@ export const GALLERIES = [
     website: "https://www.tartch.com/index.aspx",
     isSeparator: false,
     exhibitions: [{
+      artist: "Wang Bo Cheng",
+      showName: "solo exhibition",
+      date: "2024.01.06 - 2024.02.07",
+      openingDate: "2024.01.06 sat 14:30"
+    },{
       artist: "Chu Fu Chen, Shimpei Yoshida",
       showName: "the absent room",
       date: "2023.11.18 - 2023.12.16",
