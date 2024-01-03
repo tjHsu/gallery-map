@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="grid-flow-col gap-4 place-self-center justify-self-end">
         <p className='text-base'>
           <Link href={`/`}>
-            taipei gallery map © 2023
+            taipei gallery map © 2024
           </Link>
         </p>
         <a href='https://twitter.com/tpegallerymap' target="_blank" rel="noreferrer">
