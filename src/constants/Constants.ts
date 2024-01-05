@@ -31,6 +31,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/333gallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Nyochotan & Bernandi Desanda",
+      showName: "Southern Breeze & Higher Realm Entity",
+      date: "2024.01.06 - 2024.02.23",
+      openingDate: "2024.01.06 sat 14:00-17:00"
+    },{
       artist: "Ana Aleksov",
       showName: "Great Mysteries",
       date: "2023.11.25 - 2024.01.05",
@@ -124,6 +129,16 @@ export const GALLERIES = [
     website: "https://99dac.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Lin Liang-Tsai",
+      showName: "Solo exhibition",
+      date: "2024.01.06 - 2024.02.24",
+      openingDate: "2024.01.06 sat 15:00"
+    },{
+      artist: "Lai Chi Man",
+      showName: "Works on paper",
+      date: "2024.01.06 - 2024.02.24",
+      openingDate: "2024.01.13 sat 14:00"
+    },{
       artist: "Jenna CHANG",
       showName: "Evolutionism",
       date: "2023.10.05 - 2023.11.25",
@@ -445,6 +460,16 @@ export const GALLERIES = [
     website: "http://www.asiaartcenter.org/asia/?lang=en",
     isSeparator: false,
     exhibitions: [{
+      artist: "Teiji Hayama",
+      showName: "Heroes",
+      date: "2024.01.06 - 2024.03.03",
+      openingDate: "2024.01.01 sat 16:00"
+    },{
+      artist: "Howard Fonda, Etan Pavavalung",
+      showName: "Resonance",
+      date: "2024.01.06 - 2024.03.03",
+      openingDate: "2024.01.01 sat 16:00"
+    },{
       artist: "Andrew Pierre Hart",
       showName: "The Invention of a Graphic Score",
       date: "2023.09.23 - 2023.12.24",
@@ -1557,6 +1582,11 @@ export const GALLERIES = [
     website: "https://www.eslitegallery.com/en/",
     isSeparator: false,
     exhibitions: [{
+      artist: "LIN Yuan, Max LIU, CHEN Lai-hsing, HUANG Jyi, Wan-chun WANG, SZETO Keung, REN Rong, GUO Wen-Shyang, LIU Shih-Fen, Sakiko NOMURA, Toshiyuki KONISHI, Hiroyuki MORI",
+      showName: "One Piece - the first phase",
+      date: "2024.01.06 - 2024.02.03",
+      openingDate: "2024.01.06 sat 15:00 - 17:00"
+    },{
       artist: "Jimmy LIAO",
       showName: "Solo exhibition",
       date: "2023.11.25 - 2023.12.30",
@@ -1659,6 +1689,11 @@ export const GALLERIES = [
     website: "https://hirohiroartspace.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "YANG Zong-Jia",
+      showName: "Gleaming Innocence",
+      date: "2024.01.06 - 2024.02.04",
+      openingDate: "2024.01.06 sat 15:00"
+    },{
       artist: "FU Ning",
       showName: "Red Eyes when I miss you",
       date: "2023.11.11 - 2023.12.17",
@@ -1726,6 +1761,11 @@ export const GALLERIES = [
     website: "http://www.imavision.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Hao Wei Lyu",
+      showName: "Listening to the Mountains",
+      date: "2024.01.06 - 2024.01.20",
+      openingDate: "2024.01.06 sat 15:00"
+    },{
       artist: "Ming Hsiang Hsu, Shan Yin Lee",
       showName: "Interdependent Existence",
       date: "2023.12.09 - 2023.12.30",
@@ -3203,6 +3243,11 @@ export const GALLERIES = [
     website: "https://vaikunthakala.wixsite.com/vaikuntha?fbclid=IwAR1EfGvMyX8tjR5Zb9_Ve8fXnFvdBMT1g5aTU086T8S0s5ALvtY43IWKrqo",
     isSeparator: false,
     exhibitions: [{
+      artist: "George Bayer",
+      showName: "Le Chat",
+      date: "2024.01.12 - 2024.02.06",
+      openingDate: "2024.01.12 sat 16:00-20:00"
+    },{
       artist: "James Hugh Gough",
       showName: "Expansion Eternal",
       date: "2023.12.09 - 2023.12.30",
@@ -3394,6 +3439,16 @@ export const GALLERIES = [
     website: "https://yiriarts.com.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Chang Chun-Hao, Chang Teng-Yuan, Chen Sheng-Wen, Chen Yu-Erh, Chen Yun, Chiu Chun-Ting, Chiu Huai-Hsuan, Daniel Sueiras Fanjul, Guim Tió Zarraluk, Hou Chen-Lu, Lai Wei-Yu, Li Shih-Wen, Lin Yi-Pei, Sun Pei-Mao, Shih Yung-Chun, Tomoko Hasuwa, Wang Guan-Jhen, Wu Chia-Yun, Yuan Hsin-Yuan, Yuichi Hirako",
+      showName: "A Decade Ago",
+      date: "2024.01.11 - 2024.02.07",
+      openingDate: "2024.01.20 sat 15:00-19:00"
+    },{
+      artist: "Lin Yi-Pei",
+      showName: "Preface : Tracing Back In Time",
+      date: "2024.01.11 - 2024.02.07",
+      openingDate: "2024.01.20 sat 15:00-19:00"
+    },{
       artist: "Aya Ito",
       showName: "Unfortunately I love you",
       date: "2023.12.09 - 2023.12.30",
