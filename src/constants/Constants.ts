@@ -561,6 +561,11 @@ export const GALLERIES = [
     website: "https://www.stargallery.tw/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Kuo Fong Chiu",
+      showName: "The Pandemic Logs",
+      date: "2023.12.14 - 2024.01.28",
+      openingDate: ""
+    },{
       artist: "Claudia Wang",
       showName: "Solo exhibition",
       date: "2023.11.08 - 2023.12.09",
@@ -1260,6 +1265,11 @@ export const GALLERIES = [
     website: "https://www.instagram.com/dopenessartlab/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Felix Treadwell",
+      showName: "The Wanderer",
+      date: "2024.01.14 - 2024.02.04",
+      openingDate: "2024.01.14 sun 14:00-17:00"
+    },{
       artist: "",
       showName: "Multiverse - Contemporary art collection exhibition",
       date: "2023.11.11 - 2023.12.24",
@@ -2397,6 +2407,11 @@ export const GALLERIES = [
     website: "https://performanceepistemology.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Julia Tsai, Leonie Heidel, LEE Shao Chin, Samuel Ferstl",
+      showName: "Muse",
+      date: "2024.01.14 - 2024.03.20",
+      openingDate: "2024.01.14 sun 14:00-17:00"
+    },{
       artist: "Samantha Sea Sea",
       showName: "Cauldron of the secret self",
       date: "2023.12.01 - 2024.01.07",
@@ -2479,14 +2494,8 @@ export const GALLERIES = [
       position: [25.0264471,121.5160011],
       gMapLink: "https://maps.app.goo.gl/fmez7SicEaBxUAkr5",
       openingHours: "open by appointment"
-    },
-    {
-      locationName: "PE Beitou",
-      address: "No.5 Lane 129 Daoxiang Rd Beitou Taipei",
-      position: [25.1417487,121.4899612],
-      gMapLink: "https://goo.gl/maps/tDYToZPKKQUS4eUa6",
-      openingHours: "open by appointment"
-    }]
+    }
+    ]
   },
   {
     name: "Powen Gallery 紅野畫廊",
