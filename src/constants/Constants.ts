@@ -1164,6 +1164,11 @@ export const GALLERIES = [
     isSeparator: false,
     exhibitions: [{
       artist: "Various artists",
+      showName: "Ingenious Anthology – International Sculpture Exhibition",
+      date: "2024.01.10 - 2024.02.18",
+      openingDate: "2024.01.14 sun 15:00"
+    },{
+      artist: "Various artists",
       showName: "Stillness & Eternity",
       date: "2023.12.06 - 2024.01.07",
       openingDate: "2023.12.10 sun 15:00"
