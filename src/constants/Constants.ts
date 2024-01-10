@@ -3335,6 +3335,11 @@ export const GALLERIES = [
     website: "https://www.whitestone-gallery.com/",
     isSeparator: false,
     exhibitions: [{
+      artist: "Ryotaro Muramatsu",
+      showName: "Fluffy",
+      date: "2024.01.12 - 2024.02.03",
+      openingDate: "2024.01.26 fri 16:00"
+    },{
       artist: "Yuko & Senkichiro NASAKA",
       showName: "Gutai TransForm",
       date: "2023.12.16 - 2024.02.17",
