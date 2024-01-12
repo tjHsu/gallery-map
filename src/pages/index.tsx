@@ -1,13 +1,7 @@
 import type { NextPage } from "next"
 import Link from 'next/link'
-import Smartlook from 'smartlook-client'
-import { useEffect } from "react"
 
 const LandingPage: NextPage = () => {
-  useEffect(() => {
-    // Client-side-only code
-    Smartlook.init('bcd622dee28566231097b08a614f2ac2a4c1de02')
-})
   return (
     <div className='ml-5'>
       <div className="overflow-x-auto">
