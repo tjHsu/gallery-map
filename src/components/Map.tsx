@@ -75,7 +75,7 @@ export default function Map() {
     <MapContainer center={center} zoom={12} style={{ height: "100vh" }}>
       <TileLayer
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-        url="https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png"
+        url="" // Please follow the instruction of your map tile provider.
       />
       {ongoingExhibitions.map((gallery: OnGoingExhibition) => (
         <CircleMarker
