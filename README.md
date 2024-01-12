@@ -1,216 +1,73 @@
-# Create T3 App
+# Taipei Gallery Map
 
-This is an app bootstrapped according to the [init.tips](https://init.tips) stack, also known as the T3-Stack.
+[taipeigallerymap.com](taipeigallerymap.com) is a sample of our open-source art gallery guide with map functionality. If you want to start a gallery map website for your local community, this is all you need.
 
-## Why are there `.js` files in here?
+## Deployment
 
-As per [T3-Axiom #3](https://github.com/t3-oss/create-t3-app/tree/next#3-typesafety-isnt-optional), we take typesafety as a first class citizen. Unfortunately, not all frameworks and plugins support TypeScript which means some of the configuration files have to be `.js` files.
+This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`. To deploy this project, our suggestion is [Vercel](https://vercel.com/dashboard).
 
-We try to emphasize that these files are javascript for a reason, by explicitly declaring its type (`cjs` or `mjs`) depending on what's supported by the library it is used by. Also, all the `js` files in this project are still typechecked using a `@ts-check` comment at the top.
+## Step-by-step Guide
 
-## What's next? How do I make an app with this?
+If you want to start your own gallery map, try the following.
 
-We try to keep this project as simple as possible, so you can start with the most basic configuration and then move on to more advanced configuration.
+1. Fill in the galleries' detail according to the format in the Configuration of this README.
+2. Find your favourite [map tile provider](https://leaflet-extras.github.io/leaflet-providers/preview/), and replace it in the Map component. 
+3. Deploy the github project to Vercel, [here](https://vercel.com/docs/deployments/git/vercel-for-github) is the guide.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+If you have any issue, we are here to help.
 
-- [Next-Auth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [TailwindCSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io) (using @next version? [see v10 docs here](https://alpha.trpc.io))
+## Sample
 
-Also checkout these awesome tutorials on `create-t3-app`.
+Visit [taipeigallerymap.com](taipeigallerymap.com), if self-hosting is too much hassle.
 
-- [Build a Blog With the T3 Stack - tRPC, TypeScript, Next.js, Prisma & Zod](https://www.youtube.com/watch?v=syEWlxVFUrY)
-- [Build a Live Chat Application with the T3 Stack - TypeScript, Tailwind, tRPC](https://www.youtube.com/watch?v=dXRRY37MPuk)
-- [Build a full stack app with create-t3-app](https://www.nexxel.dev/blog/ct3a-guestbook)
-- [A first look at create-t3-app](https://dev.to/ajcwebdev/a-first-look-at-create-t3-app-1i8f)
+## Status
 
-## How do I deploy this?
+This project
 
-### Vercel
+- [x] [Alpha](https://newpa.io): The project has been launched, and iterated with a set of users.
+- [x] [Beta](https://newpa.io): Finalise the features and details based on the feedbacks.
+- [x] Public: Stable and reliable tool fits daily routine usage.
 
-We recommend deploying to [Vercel](https://vercel.com/?utm_source=t3-oss&utm_campaign=oss). It makes it super easy to deploy NextJs apps.
+## Development
 
-- Push your code to a GitHub repository.
-- Go to [Vercel](https://vercel.com/?utm_source=t3-oss&utm_campaign=oss) and sign up with GitHub.
-- Create a Project and import the repository you pushed your code to.
-- Add your environment variables.
-- Click **Deploy**
-- Now whenever you push a change to your repository, Vercel will automatically redeploy your website!
+### Install
 
-### Docker
+```bash
+npm install
+```
 
-You can also dockerize this stack and deploy a container.
+### Configuration
 
-Please note that Next.js requires a different process for buildtime (available in the frontend, prefixed by `NEXT_PUBLIC`) and runtime environment, server-side only, variables. In this demo we are using two variables, `NEXT_PUBLIC_FOO` and `BAR`. Pay attention to their positions in the `Dockerfile`, command-line arguments, and `docker-compose.yml`.
+An example entry can be found below:
+```
+  {
+    name: "gallery John Doe", // name of the gallery
+    englishName: "gallery John Doe", // english name of the gallery
+    originalName: "", // name of the gallery in local language
+    urlName: "gallery-john-doe", // url path showing in the browser address bar
+    website: "www.john-doe.example.com", // website of the gallery
+    isSeparator: false, // set it to true if this is an index separator.
+    exhibitions: [
+      {
+      artist: "A.P Jan",
+      showName: "Sampel Show",
+      date: "2024.01.06 - 2024.02.23",
+      openingDate: "2024.01.06 sat 14:00-17:00"
+    }
+    ], //
+    locations: [{
+      locationName: "Gallery John Doe on 42", // required, if one gallery have multiple locations
+      address: "42th street 165",
+      position: [25.0624247,121.5788935], // GPS coordinates
+      gMapLink: "", // map link to let user navigate.
+      openingHours: "tue-sat 11:00-19:00"
+    }]
+  }
+```
 
-1. In your [next.config.mjs](./next.config.mjs), add the `standalone` output-option to your config:
+### Run
 
-   ```diff
-     export default defineNextConfig({
-       reactStrictMode: true,
-       swcMinify: true,
-   +   output: "standalone",
-     });
-   ```
+```bash
+npm run dev
+```
 
-2. Remove the `env`-import from [next.config.mjs](./next.config.mjs):
-
-   ```diff
-   - import { env } from "./src/env/server.mjs";
-   ```
-
-3. Create a `.dockerignore` file with the following contents:
-   <details>
-   <summary>.dockerignore</summary>
-
-   ```
-   .env
-   Dockerfile
-   .dockerignore
-   node_modules
-   npm-debug.log
-   README.md
-   .next
-   .git
-   ```
-
-  </details>
-
-4. Create a `Dockerfile` with the following contents:
-   <details>
-   <summary>Dockerfile</summary>
-
-   ```Dockerfile
-   ########################
-   #         DEPS         #
-   ########################
-
-   # Install dependencies only when needed
-   # TODO: re-evaluate if emulation is still necessary on arm64 after moving to node 18
-   FROM --platform=linux/amd64 node:16-alpine AS deps
-   # Check https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine to understand why libc6-compat might be needed.
-   RUN apk add --no-cache libc6-compat
-   WORKDIR /app
-
-   # Install dependencies based on the preferred package manager
-   COPY package.json yarn.lock* package-lock.json* pnpm-lock.yaml* ./
-   RUN \
-     if [ -f yarn.lock ]; then yarn --frozen-lockfile; \
-     elif [ -f package-lock.json ]; then npm ci; \
-     elif [ -f pnpm-lock.yaml ]; then yarn global add pnpm && pnpm i; \
-     else echo "Lockfile not found." && exit 1; \
-     fi
-
-   ########################
-   #        BUILDER       #
-   ########################
-
-   # Rebuild the source code only when needed
-   # TODO: re-evaluate if emulation is still necessary on arm64 after moving to node 18
-   FROM --platform=linux/amd64 node:16-alpine AS builder
-
-   ARG NEXT_PUBLIC_FOO
-   ARG BAR
-
-   WORKDIR /app
-   COPY --from=deps /app/node_modules ./node_modules
-   COPY . .
-
-   # Next.js collects completely anonymous telemetry data about general usage.
-   # Learn more here: https://nextjs.org/telemetry
-   # Uncomment the following line in case you want to disable telemetry during the build.
-   # ENV NEXT_TELEMETRY_DISABLED 1
-
-   RUN \
-     if [ -f yarn.lock ]; then yarn build; \
-     elif [ -f package-lock.json ]; then npm run build; \
-     elif [ -f pnpm-lock.yaml ]; then yarn global add pnpm && pnpm run build; \
-     else echo "Lockfile not found." && exit 1; \
-     fi
-
-   ########################
-   #        RUNNER        #
-   ########################
-
-   # Production image, copy all the files and run next
-   # TODO: re-evaluate if emulation is still necessary after moving to node 18
-   FROM --platform=linux/amd64 node:16-alpine AS runner
-   # WORKDIR /usr/app
-   WORKDIR /app
-
-   ENV NODE_ENV production
-   # Uncomment the following line in case you want to disable telemetry during runtime.
-   # ENV NEXT_TELEMETRY_DISABLED 1
-
-   RUN addgroup --system --gid 1001 nodejs
-   RUN adduser --system --uid 1001 nextjs
-
-   COPY --from=builder /app/next.config.mjs ./
-   COPY --from=builder /app/public ./public
-   COPY --from=builder /app/package.json ./package.json
-
-   # Automatically leverage output traces to reduce image size
-   # https://nextjs.org/docs/advanced-features/output-file-tracing
-   COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
-   COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
-
-   USER nextjs
-
-   EXPOSE 3000
-
-   ENV PORT 3000
-
-   CMD ["node", "server.js"]
-   ```
-
-  </details>
-
-5. To build and run this image locally, run:
-
-   ```bash
-   docker build -t ct3a -e NEXT_PUBLIC_FOO=foo .
-   docker run -p 3000:3000 -e BAR="bar" ct3a
-   ```
-
-6. You can also use a PaaS such as [Railway's](https://railway.app) automated [Dockerfile deployments](https://docs.railway.app/deploy/dockerfiles) to deploy your app.
-
-### docker-compose
-
-You can also use docker-compose to build and run the container.
-
-1. Follow steps 1-4 above
-
-2. Create a `docker-compose.yml` file with the following:
-
-   <details>
-   <summary>docker-compose.yml</summary>
-
-   ```yaml
-   version: "3.7"
-   services:
-     app:
-       platform: "linux/amd64"
-       build:
-         context: .
-         dockerfile: Dockerfile
-         args:
-           NEXT_PUBLIC_FOO: "foo"
-       working_dir: /app
-       ports:
-         - "3000:3000"
-       image: t3-app
-       environment:
-         - BAR=bar
-   ```
-
-   </details>
-
-3. Run this using `docker-compose up`.
-
-## Useful resources
-
-Here are some resources that we commonly refer to:
-
-- [Protecting routes with Next-Auth.js](https://next-auth.js.org/configuration/nextjs#unstable_getserversession)
