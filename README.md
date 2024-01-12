@@ -1,6 +1,6 @@
-# Taipei Gallery Map
+# Gallery Map
 
-[taipeigallerymap.com](taipeigallerymap.com) is a sample of our open-source art gallery guide with map functionality. If you want to start a gallery map website for your local community, this is all you need.
+If you want to start a gallery map website for your local community, this is all you need. [taipeigallerymap.com](taipeigallerymap.com) is a sample of this open-source art gallery guide with map functionality. 
 
 ## Deployment
 
