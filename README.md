@@ -1,6 +1,6 @@
 # Gallery Map
 
-If you want to start a gallery map website for your local community, this is all you need. [taipeigallerymap.com](taipeigallerymap.com) is a sample of this open-source art gallery guide with map functionality. 
+If you want to start a gallery map website for your local community, this is all you need. [taipeigallerymap.com](https://taipeigallerymap.com) is a sample of this open-source art gallery guide with map functionality. 
 
 ## Deployment
 
@@ -18,7 +18,7 @@ If you have any issue, we are here to help.
 
 ## Sample
 
-Visit [taipeigallerymap.com](taipeigallerymap.com), if self-hosting is too much hassle.
+Visit [taipeigallerymap.com](https://taipeigallerymap.com), if self-hosting is too much hassle.
 
 ## Status
 
