@@ -2411,12 +2411,14 @@ export const GALLERIES = [
     urlName: "PE_Gallery",
     website: "https://performanceepistemology.com/",
     isSeparator: false,
-    exhibitions: [{
-      artist: "Julia Tsai, Leonie Heidel, LEE Shao Chin, Samuel Ferstl",
-      showName: "Muse",
-      date: "2024.01.14 - 2024.03.20",
-      openingDate: "2024.01.14 sun 14:00-17:00"
-    },{
+    exhibitions: [
+// {
+//       artist: "Julia Tsai, Leonie Heidel, LEE Shao Chin, Samuel Ferstl",
+//       showName: "Muse",
+//       date: "2024.01.14 - 2024.03.20",
+//       openingDate: "2024.01.14 sun 14:00-17:00"
+//     },
+{
       artist: "Samantha Sea Sea",
       showName: "Cauldron of the secret self",
       date: "2023.12.01 - 2024.01.07",
